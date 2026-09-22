@@ -1,6 +1,6 @@
 #EXTM3U
 # HridoyTV Heart Playlist
-# Generated: Tue, 22 Sep 2026 17:23:37 GMT
+# Generated: Tue, 22 Sep 2026 20:33:00 GMT
 # Total channels: 324
 # Active Proxies: play → play.hridoytvtunel.workers.dev | jbd → jbd.hossainhridoy.workers.dev | proxy → proxy3.hridoytvgate.workers.dev | Pro → pro.hellohridoy.workers.dev
 # Active Playlists: comb, ag, jsbd, cz, sp, temp-play, otv2, otv, att, test5
@@ -55,43 +55,43 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="geo-super-hd" tvg-name="Geo Super HD" tvg-logo="https://i.postimg.cc/Px2wnr3C/In-Shot-20260819-202641826.jpg" group-title="Pinned",Geo Super HD
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHAHBcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdiLVxPbgVVAQ98RlhRCh8yYWl-MGBtNlxRQQBAaWNKX00cPHIEH2hXCFBUekFcVQsYZmdtfWc1OjFdURQETD5iRA&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHAHBcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdifV1Ab1YIUwVwFwxRWkBsZ2t2ZWZva11SQ1MQaGlHWB5NPCpQHW0FVAMOfEBcBQ1MNmRndzZibmNXAkQGRz5iQw&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="geo-super-hd" tvg-name="Geo Super HD" tvg-logo="https://i.postimg.cc/Px2wnr3C/In-Shot-20260819-202641826.jpg" group-title="Sports",Geo Super HD
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHAHBcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdiLVxPbgVVAQ98RlhRCh8yYWl-MGBtNlxRQQBAaWNKX00cPHIEH2hXCFBUekFcVQsYZmdtfWc1OjFdURQETD5iRA&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHAHBcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdifV1Ab1YIUwVwFwxRWkBsZ2t2ZWZva11SQ1MQaGlHWB5NPCpQHW0FVAMOfEBcBQ1MNmRndzZibmNXAkQGRz5iQw&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="cricbuzz" tvg-name="Cricbuzz" tvg-logo="https://i.postimg.cc/fRGZjBSG/In-Shot-20260820-020014010.jpg" group-title="Pinned",Cricbuzz
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHDnlcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdiLlJAbwcIBAMpEA0CVhwxMjp6Z2U7Y1wBSwEWbGEWC0ofaHpSSmpQCFFUKhALVQkaNm9tdjAyZmtcVEUETDw0EA&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHDnlcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdic1AaOgVWAg5_QFpRWUA2MG5-NmJuZVxQSlYVPjVFXEscOXxSSTxTUQQCLkBRAQ5ONW9ofGI0OzFcUxRcEGlmRQ&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="cricbuzz" tvg-name="Cricbuzz" tvg-logo="https://i.postimg.cc/fRGZjBSG/In-Shot-20260820-020014010.jpg" group-title="Sports",Cricbuzz
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHDnlcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdiLlJAbwcIBAMpEA0CVhwxMjp6Z2U7Y1wBSwEWbGEWC0ofaHpSSmpQCFFUKhALVQkaNm9tdjAyZmtcVEUETDw0EA&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHDnlcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdic1AaOgVWAg5_QFpRWUA2MG5-NmJuZVxQSlYVPjVFXEscOXxSSTxTUQQCLkBRAQ5ONW9ofGI0OzFcUxRcEGlmRQ&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="star-sports-2" tvg-name="Star sports 2" tvg-logo="https://i.postimg.cc/SKqDbqKf/Hridoy-TV-pro-(61).webp" group-title="Sports",Star sports 2
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuAgkLDnBcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdieVRMa1ZSAFN9EwhVX002Yz0sNmJuYFJURVxHOTJECkxOOnJQHToFBQEFf0QNXFobYjdmeTEybjBUAUYHRDs1Sw&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuAgkLDnBcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdiL1FLaAZVClV7FFECWEg2Mm12NjU9MVRaRV1EZmQXCk5OPn5SGjwKCQJXK0INVgpJYWRvd2QyPGUBWxZSEm5nQw&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="star-sports-2-hindi" tvg-name="Star Sports 2 Hindi" tvg-logo="https://i.postimg.cc/G2t1TwV6/In-Shot-20260820-115651154.jpg" group-title="Sports",Star Sports 2 Hindi
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHAXxcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdiL1cbalRWAFd4RVpcDRtsM2d8NTI8YQZQQlJFZjFFVkpJaHMHSzoDVlcGcERQBQsfZ2dtfTc1b2AAWkoERm01QA&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHAXxcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdiflVIbgsFVlAsQF9UWhoxYW8uMmM7MQFTR1FBPGUQWUBNbC5XSzsKUQUCLkQMUlwaMTdrLGZvZmFXV0UAR2djFw&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="star-sports-3" tvg-name="Star Sports 3" tvg-logo="https://i.postimg.cc/7PX2ygnb/In-Shot-20260820-115233215.jpg" group-title="Sports",Star Sports 3
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHAX9cBFcaQWszYn5jb29iVlZCXUV5JB0EHRdielUfbAJVBAQqQ1xRC043Zz14NmFvMgYAEwQXbWERCRtMangBQToGCQQEe0QLUgsaMGZme201b2JUVkMGQD5jRw&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHAX9cBFcaQWszYn5jb29iXVtGVEN5JB0EHRdieF1JZlYDCwBwR15XChxgYTktMjRnZVVWRARFOWkRCk1AO35WQGkDCQRQeRYLXFtIZm87dmdhb2EBAUYBRjxkFA&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -103,7 +103,7 @@ https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="star-sports-1-select" tvg-name="Star sports 1 select [2]" tvg-logo="https://i.postimg.cc/cJZXGZJh/Hridoy-TV-pro-(62).webp" group-title="Sports",Star sports 1 select [2]
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHAXBcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdielQaalYFUQ5_EV1SXx1tMG9-MWY5Z1JbFlRNaWERXU5NOi8DTW0DBFZUeUZfVg5MMWNsLDA0a2FVVENdEmtiFw&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHAXBcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdifAYYPQUCA1N4R1FUXEhgbm9-ZmI5ZV1WSl1Fb2QQVktObS0HSjsGCFQGKUJbUV9IYGFveWBuazEHUUsGRGthRQ&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -127,31 +127,31 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="unite8-sports-1-hd" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://i.postimg.cc/mZKzdycQ/Resized-Image-2026-08-13-11-47-30-5275-2.webp" group-title="Pinned",Unite8 Sports 1 HD
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZrBgQBBXpcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdieVdAPQYJAg95Rg8CDR1kNGopMjc8MVRUEVRGaDUWV01MPnsEQTwBUwUHLhMMXFwfMm85Ljdha2BVVRFXETpnQQ&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZrBgQBBXpcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdifQNNOgoHVgd5FAhWDksxb2h7ZTJnMQFSE1JHbGMUXU1OPn1XT2tXAQUOcBRaVApKYW9qezUzazIGW0pQTT1iRQ&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="unite8-sports-1-hd" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://i.postimg.cc/mZKzdycQ/Resized-Image-2026-08-13-11-47-30-5275-2.webp" group-title="Sports",Unite8 Sports 1 HD
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZrBgQBBXpcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdieVdAPQYJAg95Rg8CDR1kNGopMjc8MVRUEVRGaDUWV01MPnsEQTwBUwUHLhMMXFwfMm85Ljdha2BVVRFXETpnQQ&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZrBgQBBXpcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdifQNNOgoHVgd5FAhWDksxb2h7ZTJnMQFSE1JHbGMUXU1OPn1XT2tXAQUOcBRaVApKYW9qezUzazIGW0pQTT1iRQ&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="fox-cricket" tvg-name="Fox Cricket" tvg-logo="https://i.postimg.cc/qqLpPQtJ/hridoytvgate-(17).webp" group-title="Pinned",Fox Cricket
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHD3tcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdiKQAdawFVAAYqQF9TX00yYDl9MGFmMAQAEQZCbDMQWksfPi4EGD4FCQtUeUYNAVdMMWJrKzdiazZSUUMGFm1mEA&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHD3tcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdiLVNJOgMDUQJ8RFlSC0xlZGp8YzM8agMHSwZCaGBBXR1BPnxVTzxUU1QHfUdaAF5BMG5rfmBna2EAV0MDTDk0Qw&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="fox-cricket" tvg-name="Fox Cricket" tvg-logo="https://i.postimg.cc/qqLpPQtJ/hridoytvgate-(17).webp" group-title="Sports",Fox Cricket
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHD3tcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdiKQAdawFVAAYqQF9TX00yYDl9MGFmMAQAEQZCbDMQWksfPi4EGD4FCQtUeUYNAVdMMWJrKzdiazZSUUMGFm1mEA&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHD3tcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdiLVNJOgMDUQJ8RFlSC0xlZGp8YzM8agMHSwZCaGBBXR1BPnxVTzxUU1QHfUdaAF5BMG5rfmBna2EAV0MDTDk0Qw&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="super-sports-cricket" tvg-name="Super Sports Cricket" tvg-logo="https://i.postimg.cc/YCGMWJ0T/In-Shot-20260820-015955950.jpg" group-title="Sports",Super Sports Cricket
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHD3pcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdiKl1AOQpRBQYqFFkFCkFkMjsqZDdsMABVSwcRa2lCWU9Lbn1TS2ZUBlQEKUdRAV9AYDBvfjZnaDIHBURQQmllEw&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHD3pcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdiKAAfbFMABgNxRQ0GVk02bmh3ZzBqNl1aEFcSbWZEC0gdPSpUGm1UBlBSfRNRUAtOYTRnLG1vPjJVUUtWFzo1Ew&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -193,7 +193,7 @@ https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire437388312196
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="tnt-sports-1" tvg-name="TNT sports 1" tvg-logo="https://i.ibb.co/C5FfY6Y0/04d598e93161.jpg" group-title="Sports",TNT sports 1
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZsBgYBAXtcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdieVUbaQACUQR8Rw9SDR9gZj0qN2VvYFFUQwcXbmlLWBobbylVH2tQUVFTf0ZQBgpKYzNoK2RvPGNTVRdcRjtoRw&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZsBgYBAXtcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdifFdMZgcEAgQtE1pQDhhjYz15Z2A7YgYAE1NHaDJFXUhMOy5QSWcFUQEAeEpYUF1IMmNuK21lZ2YAURNUQToyQA&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -403,13 +403,13 @@ https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire437388312196
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="atn-news" tvg-name="ATN News" tvg-logo="https://i.ibb.co/VcskTLZm/f3b81cfc5c20.jpg" group-title="Pinned",ATN News
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtBgULBn1cBFcaQWszYn5jb29iVlZCXUV5JB0EHRdiLVVLbgJSAAd5SlgHWBxmMz0uMDNrMV0AQwdDOmZCWUhOaC8EGG0AUwEDLhZQUldJMTRsKmxkamoAABRSQG5pRA&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtBgULBn1cBFcaQWszYn5jb29iXVtGVEN5JB0EHRdifARKbQcIVlR8E15dXBo3N2l4ZTI9alcHQQBAa2QTC0BKbn9XQTwCAFZTfUdeBwocZm9pLWNvaWcHWhZRRWthFw&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="atn-news" tvg-name="ATN News" tvg-logo="https://i.ibb.co/VcskTLZm/f3b81cfc5c20.jpg" group-title="News",ATN News
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtBgULBn1cBFcaQWszYn5jb29iVlZCXUV5JB0EHRdiLVVLbgJSAAd5SlgHWBxmMz0uMDNrMV0AQwdDOmZCWUhOaC8EGG0AUwEDLhZQUldJMTRsKmxkamoAABRSQG5pRA&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtBgULBn1cBFcaQWszYn5jb29iXVtGVEN5JB0EHRdifARKbQcIVlR8E15dXBo3N2l4ZTI9alcHQQBAa2QTC0BKbn9XQTwCAFZTfUdeBwocZm9pLWNvaWcHWhZRRWthFw&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1081,13 +1081,13 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="s-bangla-tv" tvg-name="S Bangla TV" tvg-logo="https://i.postimg.cc/FsQqPB1P/In-Shot-20260904-211315320.jpg" group-title="Pinned",S Bangla TV
-https://jalshabd.com/stream/125.m3u8?expires=1790099486&signature=ea2de048599e598b7aac1e6f6304a168296c29cb5d729d2f1c61f0361a9012c0
+https://jalshabd.com/stream/125.m3u8?expires=1790110282&signature=031f0a4357029c53279aaefffe65bac2b7845e0edb52203421a2be5d45f603fe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="s-bangla-tv" tvg-name="S Bangla TV" tvg-logo="https://i.postimg.cc/FsQqPB1P/In-Shot-20260904-211315320.jpg" group-title="Bangla",S Bangla TV
-https://jalshabd.com/stream/125.m3u8?expires=1790099486&signature=ea2de048599e598b7aac1e6f6304a168296c29cb5d729d2f1c61f0361a9012c0
+https://jalshabd.com/stream/125.m3u8?expires=1790110282&signature=031f0a4357029c53279aaefffe65bac2b7845e0edb52203421a2be5d45f603fe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1117,7 +1117,7 @@ https://jbd.hossainhridoy.workers.dev/link-copy-kore-lav-nai=expire4373883121963
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="usb-24-news" tvg-name="USB 24 News" tvg-logo="https://i.postimg.cc/y69FN9QJ/Usb-Hridoy-TV.jpg" group-title="Bangla",USB 24 News
-https://jalshabd.com/stream/66.m3u8?expires=1790099499&signature=5188cd35a15bdfcc8069dd6f6c482246eda68c7bc2b1bf7699c955782f650e48
+https://jalshabd.com/stream/66.m3u8?expires=1790110295&signature=0bfeef30619970986bac7c2a5353b419493975db299ca018623a6154b3c4de49
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1135,37 +1135,37 @@ https://jbd.hossainhridoy.workers.dev/link-copy-kore-lav-nai=expire4373883121963
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="magic-bangla-tv" tvg-name="Magic Bangla TV" tvg-logo="https://i.ibb.co.com/FLcSY5Vn/Hridoy-TV-new-bd-channel-2.jpg" group-title="Pinned",Magic Bangla TV
-https://jalshabd.com/stream/79.m3u8?expires=1790099508&signature=9690225fa8c95f34ba6f63d0521c51e8eb89e8ead30fa4237e1986f72fd5064a
+https://jalshabd.com/stream/79.m3u8?expires=1790110301&signature=32b25387dba6675aa702af0f5d20cd3605f3d408db64458b706c0ea2a7696132
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="magic-bangla-tv" tvg-name="Magic Bangla TV" tvg-logo="https://i.ibb.co.com/FLcSY5Vn/Hridoy-TV-new-bd-channel-2.jpg" group-title="Bangla",Magic Bangla TV
-https://jalshabd.com/stream/79.m3u8?expires=1790099508&signature=9690225fa8c95f34ba6f63d0521c51e8eb89e8ead30fa4237e1986f72fd5064a
+https://jalshabd.com/stream/79.m3u8?expires=1790110301&signature=32b25387dba6675aa702af0f5d20cd3605f3d408db64458b706c0ea2a7696132
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="biswa-bangla-world-tv" tvg-name="Biswa Bangla World TV" tvg-logo="https://i.ibb.co.com/jjKhkmv/Hridoy-TV-new-bd-channel-1.jpg" group-title="Pinned",Biswa Bangla World TV
-https://jalshabd.com/stream/105.m3u8?expires=1790099490&signature=5767e11e5bb06364a9e8d9d3e44e23b99e783a09ca2ceccd7528f150b6a9a7ae
+https://jalshabd.com/stream/105.m3u8?expires=1790110286&signature=55db9876e4e33384275183f3f5dee106f8e7af8a7cf88bb52d23c9b56d171bfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="biswa-bangla-world-tv" tvg-name="Biswa Bangla World TV" tvg-logo="https://i.ibb.co.com/jjKhkmv/Hridoy-TV-new-bd-channel-1.jpg" group-title="Bangla",Biswa Bangla World TV
-https://jalshabd.com/stream/105.m3u8?expires=1790099490&signature=5767e11e5bb06364a9e8d9d3e44e23b99e783a09ca2ceccd7528f150b6a9a7ae
+https://jalshabd.com/stream/105.m3u8?expires=1790110286&signature=55db9876e4e33384275183f3f5dee106f8e7af8a7cf88bb52d23c9b56d171bfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="america-bangla-channel" tvg-name="America Bangla Channel" tvg-logo="https://i.ibb.co.com/XxP6LhMk/Hridoy-TV-new-bd-channel-3.jpg" group-title="Pinned",America Bangla Channel
-https://jalshabd.com/stream/75.m3u8?expires=1790099498&signature=7ca6bf27ab3f8b8b453fec27676030f593b7b088cfc5ddc70553478690f1f419
+https://jalshabd.com/stream/75.m3u8?expires=1790110294&signature=d51017d25fdc4a93c662ed4d8400514423d9525701cf337cb65907390e719fde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="america-bangla-channel" tvg-name="America Bangla Channel" tvg-logo="https://i.ibb.co.com/XxP6LhMk/Hridoy-TV-new-bd-channel-3.jpg" group-title="Bangla",America Bangla Channel
-https://jalshabd.com/stream/75.m3u8?expires=1790099498&signature=7ca6bf27ab3f8b8b453fec27676030f593b7b088cfc5ddc70553478690f1f419
+https://jalshabd.com/stream/75.m3u8?expires=1790110294&signature=d51017d25fdc4a93c662ed4d8400514423d9525701cf337cb65907390e719fde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1411,13 +1411,13 @@ https://wpu.hridoytv-direct.workers.dev/starjalsha.m3u8
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="star-jalsa-hd" tvg-name="Star Jalsa HD" tvg-logo="https://i.postimg.cc/28GZ2hQs/Resized-Image-2026-08-10-11-48-00-8830-4.webp" group-title="Pinned",Star Jalsa HD
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtBgUKD3BcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdiegcaOwpRClMuQw9cC0lsZzl_YzRtY1VVEV0VPGlAXx1BO3hXSmsEAVMBcRBeAVYfbGM5KzE0OTdVVRMGRz1pSg&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtBgUKD3BcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdicwEdb1QCA1N6FlBXWUk1MzwqbGc7ZFNSEQZGbmlAXEBKby9TG2ZUAQUHLEFQAgsaMDJmLTA3bGEHAEcHEToxSw&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="star-jalsa-hd" tvg-name="Star Jalsa HD" tvg-logo="https://i.postimg.cc/28GZ2hQs/Resized-Image-2026-08-10-11-48-00-8830-4.webp" group-title="Indian Bangla",Star Jalsa HD
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtBgUKD3BcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdiegcaOwpRClMuQw9cC0lsZzl_YzRtY1VVEV0VPGlAXx1BO3hXSmsEAVMBcRBeAVYfbGM5KzE0OTdVVRMGRz1pSg&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtBgUKD3BcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdicwEdb1QCA1N6FlBXWUk1MzwqbGc7ZFNSEQZGbmlAXEBKby9TG2ZUAQUHLEFQAgsaMDJmLTA3bGEHAEcHEToxSw&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1819,7 +1819,7 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="axn-black" tvg-name="AXN Black" tvg-logo="https://iili.io/n3bHcGt.md.jpg" group-title="Movies" tvg-isnew="true",AXN Black
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZsBggFAXtcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdiflBLbQUCUAV6EFBWV0htMzp2YmFsZ1IBE1JBZ2VKVkAfai9WTztUAgQBLUsIV15MN2NodmZkbGtTVkoHR2syQA&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZsBggFAXtcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdifwYfawAFUFB7QwxcX00wZmd_MW9nYwNRQVwQbDUQWhtMan4ETjsHCFYFKkNfUlxBN2ZsemJgampdB0pRQzpnEA&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1879,25 +1879,25 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="hungama" tvg-name="Hungama" tvg-logo="https://i.postimg.cc/63M74wKX/In-Shot-20260722-230736763.jpg" group-title="Pinned",Hungama
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBwAGDnhcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdifAZBPQEFAQQsFl9VWB82ZmsrNTRoNlEGQQYWPmcTX0xLOS1VQGgABQFTfEoLXAlBN2ZrLTUybzZdAUJdRG5nFw&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBwAGDnhcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdiL1QaaVBTUQEqFF9VWE4xZzp6ZjNmZlFaQV0QaDRCWR5KbnxUS24AAQEOKRdZAQ1PNTI8LGRhbmZQAEMETDo0EQ&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="hungama" tvg-name="Hungama" tvg-logo="https://i.postimg.cc/63M74wKX/In-Shot-20260722-230736763.jpg" group-title="Kids",Hungama
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBwAGDnhcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdifAZBPQEFAQQsFl9VWB82ZmsrNTRoNlEGQQYWPmcTX0xLOS1VQGgABQFTfEoLXAlBN2ZrLTUybzZdAUJdRG5nFw&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBwAGDnhcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdiL1QaaVBTUQEqFF9VWE4xZzp6ZjNmZlFaQV0QaDRCWR5KbnxUS24AAQEOKRdZAQ1PNTI8LGRhbmZQAEMETDo0EQ&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="nickelodeon-" tvg-name="Nickelodeon 🔥" tvg-logo="https://iili.io/CpgdfYN.md.webp" group-title="Pinned",Nickelodeon 🔥
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtAQgHBHFcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdiLVwaawVVCgRxF1FQWBw2Y2stY2dvMARaFgBCPmAXDBxKaX1dTmoACFcPfUtaB1xNZWJvfWZiO2QDUxZdQmhlQg&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtAQgHBHFcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdifFMbagdVV1J4EVtVVxhjZj4tY2dsZVMFR10SOjIQX0xBaHIAHWoDUQJSLEEMVg5OMG87K2wyOmEEABFcRWkyQA&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="nickelodeon-" tvg-name="Nickelodeon 🔥" tvg-logo="https://iili.io/CpgdfYN.md.webp" group-title="Kids",Nickelodeon 🔥
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtAQgHBHFcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdiLVwaawVVCgRxF1FQWBw2Y2stY2dvMARaFgBCPmAXDBxKaX1dTmoACFcPfUtaB1xNZWJvfWZiO2QDUxZdQmhlQg&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtAQgHBHFcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdifFMbagdVV1J4EVtVVxhjZj4tY2dsZVMFR10SOjIQX0xBaHIAHWoDUQJSLEEMVg5OMG87K2wyOmEEABFcRWkyQA&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1939,13 +1939,13 @@ https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire437388312196
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney channel" tvg-logo="https://i.postimg.cc/KzkJZV7Z/Hridoy-TV-new-channel-(16).webp" group-title="Pinned",Disney channel
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHA3lcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdiKgBNagNSBVV_E1ldCk5lN2krMTI9alJbEQASaWZFCR0cbi4DTj0BVAYGexRfUllKMTdmLjVvbzJcVRcATW9pRA&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHA3lcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdiLldBagRRCwd8Qg9XWUsybmp_Y2U9ZQAFFldGZ2JLW0AcPioBQG1QAwRQf0BcXQ0dMDBuK2IzaTBcBUpURWxpQw&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney channel" tvg-logo="https://i.postimg.cc/KzkJZV7Z/Hridoy-TV-new-channel-(16).webp" group-title="Kids",Disney channel
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHA3lcBFcaQWszYn5jb29iVlZCXUV5JB0EHRdiKgBNagNSBVV_E1ldCk5lN2krMTI9alJbEQASaWZFCR0cbi4DTj0BVAYGexRfUllKMTdmLjVvbzJcVRcATW9pRA&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHA3lcBFcaQWszYn5jb29iXVtGVEN5JB0EHRdiLldBagRRCwd8Qg9XWUsybmp_Y2U9ZQAFFldGZ2JLW0AcPioBQG1QAwRQf0BcXQ0dMDBuK2IzaTBcBUpURWxpQw&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1963,13 +1963,13 @@ http://202.70.146.135:8000/play/a01q/index.m3u8
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="disney-jr-hindi" tvg-name="Disney Jr. Hindi" tvg-logo="https://i.postimg.cc/7PQsGpKF/Hridoy-TV-pro-(17).webp" group-title="Pinned",Disney Jr. Hindi
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBwMDAX1cBFcaQWszYn5jb29iVlZCXUV5JB0EHRdiLVBPblQBUAV5QV4FWk5tYWgrZTNpZANWEVUWOmdGDh1AO31XQDoDAVZQeBMIVA4YYmduKzVvaWoAVEMAR2xpRg&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBwMDAX1cBFcaQWszYn5jb29iXVtGVEN5JB0EHRdiclMfa1EHC1N4RwhdWEtjYj56NmQ8ZQYCFgEXajNGCRlAOnMESWwBAwdSfhBRXF8bZWA5LGM1ZzJXAhBRQ24xQA&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="disney-jr-hindi" tvg-name="Disney Jr. Hindi" tvg-logo="https://i.postimg.cc/7PQsGpKF/Hridoy-TV-pro-(17).webp" group-title="Kids",Disney Jr. Hindi
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBwMDAX1cBFcaQWszYn5jb29iVlZCXUV5JB0EHRdiLVBPblQBUAV5QV4FWk5tYWgrZTNpZANWEVUWOmdGDh1AO31XQDoDAVZQeBMIVA4YYmduKzVvaWoAVEMAR2xpRg&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBwMDAX1cBFcaQWszYn5jb29iXVtGVEN5JB0EHRdiclMfa1EHC1N4RwhdWEtjYj56NmQ8ZQYCFgEXajNGCRlAOnMESWwBAwdSfhBRXF8bZWA5LGM1ZzJXAhBRQ24xQA&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -2227,13 +2227,13 @@ https://pro.hellohridoy.workers.dev/link-copy-kore-lav-nai=expire43738831219634/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="colors-hd" tvg-name="Colors HD" tvg-logo="https://i.postimg.cc/sDQnpw8P/Hridoy-TV-pro-(33).webp" group-title="Pinned",Colors HD
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZpBAEEAWYfWhFXRjFrbnhtZm5gUFNKVFIrPxkKFkRseFBIbAUEV1d_EFhSWUw2MD4pMWJrNQEBEVQVPGRFWk9JOyoBT2kCAABTK0RdVApOZ2ZpLW00OTUDW0QHQ28y&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZpBAEEAWYfWhFXRjFrbnhtZm5rXVdDUlIrPxkKFkQ5fwBLaVcFBw8uF15WXR0xb24pYGdtYQAGE1dFOzFFXk1BOSpQSToFAFMAeUReVl4dMGY5e2E0bmRXVUNXQ2oz&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="colors-hd" tvg-name="Colors HD" tvg-logo="https://i.postimg.cc/sDQnpw8P/Hridoy-TV-pro-(33).webp" group-title="Entertainment",Colors HD
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZpBAEEAWYfWhFXRjFrbnhtZm5gUFNKVFIrPxkKFkRseFBIbAUEV1d_EFhSWUw2MD4pMWJrNQEBEVQVPGRFWk9JOyoBT2kCAABTK0RdVApOZ2ZpLW00OTUDW0QHQ28y&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZpBAEEAWYfWhFXRjFrbnhtZm5rXVdDUlIrPxkKFkQ5fwBLaVcFBw8uF15WXR0xb24pYGdtYQAGE1dFOzFFXk1BOSpQSToFAFMAeUReVl4dMGY5e2E0bmRXVUNXQ2oz&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
