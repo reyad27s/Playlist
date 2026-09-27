@@ -1,6 +1,6 @@
 #EXTM3U
 # HridoyTV Heart Playlist
-# Generated: Sun, 27 Sep 2026 03:08:12 GMT
+# Generated: Sun, 27 Sep 2026 09:34:38 GMT
 # Total channels: 314
 # Active Proxies: play → play.hridoytvtunel.workers.dev | jbd → jbd.hossainhridoy.workers.dev | proxy → proxy3.hridoytvgate.workers.dev | Pro → pro.hellohridoy.workers.dev
 # Active Playlists: comb, ag, jsbd, cz, sp, temp-play, otv2, otv, att, test5, tbd
@@ -55,31 +55,31 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="cricbuzz" tvg-name="Cricbuzz" tvg-logo="https://i.postimg.cc/fRGZjBSG/In-Shot-20260820-020014010.jpg" group-title="Pinned",Cricbuzz
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHDnlcBFcaQWszYn5jb29mUFREUUd5JB0EHRdiflROOlcFBwB9RFlVCUphZmh_Z2A-Y1VQS1RBZmRFW0lLZ31UHWpTUwRSf0ANAQ4abW9reTduamFVUUNXQmliEQ&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHDnlcBFcaQWszYn5jb29mXVJBV0F5JB0EHRdic1IfO1QHAA8qQF5SCk1nYj54ZTVqZlJbQ1xGajFKDUhMbn5QQW8HCAQGLBFbVQlAYzdnezVhazVSB0JRTWo1RQ&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="cricbuzz" tvg-name="Cricbuzz" tvg-logo="https://i.postimg.cc/fRGZjBSG/In-Shot-20260820-020014010.jpg" group-title="Sports",Cricbuzz
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHDnlcBFcaQWszYn5jb29mUFREUUd5JB0EHRdiflROOlcFBwB9RFlVCUphZmh_Z2A-Y1VQS1RBZmRFW0lLZ31UHWpTUwRSf0ANAQ4abW9reTduamFVUUNXQmliEQ&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHDnlcBFcaQWszYn5jb29mXVJBV0F5JB0EHRdic1IfO1QHAA8qQF5SCk1nYj54ZTVqZlJbQ1xGajFKDUhMbn5QQW8HCAQGLBFbVQlAYzdnezVhazVSB0JRTWo1RQ&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="star-sports-2-hindi" tvg-name="Star Sports 2 Hindi" tvg-logo="https://i.postimg.cc/G2t1TwV6/In-Shot-20260820-115651154.jpg" group-title="Pinned",Star Sports 2 Hindi
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHAXxcBFcaQWszYn5jb29mUFREUUd5JB0EHRdieFEfbwYJAlR_F1BWWhxsZGsqNzdtagYAQAQSZzFDWktLZilTG2oLVgZTf0tZV10cMWFvdjI0PWJWW0pdFz4xFA&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHAXxcBFcaQWszYn5jb29mXVJBV0F5JB0EHRdie1ZJbgpSAgAuEAoGX05mMDt-bTc-NwZREVMSbGdAWhpNPX9VHWsKAgMOKUVRVVdMNmdpfWNlbGIBB0EGRGxkSg&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="star-sports-2-hindi" tvg-name="Star Sports 2 Hindi" tvg-logo="https://i.postimg.cc/G2t1TwV6/In-Shot-20260820-115651154.jpg" group-title="Sports",Star Sports 2 Hindi
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHAXxcBFcaQWszYn5jb29mUFREUUd5JB0EHRdieFEfbwYJAlR_F1BWWhxsZGsqNzdtagYAQAQSZzFDWktLZilTG2oLVgZTf0tZV10cMWFvdjI0PWJWW0pdFz4xFA&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHAXxcBFcaQWszYn5jb29mXVJBV0F5JB0EHRdie1ZJbgpSAgAuEAoGX05mMDt-bTc-NwZREVMSbGdAWhpNPX9VHWsKAgMOKUVRVVdMNmdpfWNlbGIBB0EGRGxkSg&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="star-sports-3" tvg-name="Star Sports 3" tvg-logo="https://i.postimg.cc/7PX2ygnb/In-Shot-20260820-115233215.jpg" group-title="Sports",Star Sports 3
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHAX9cBFcaQWszYn5jb29mUFREUUd5JB0EHRdifgNLbVBVCgcpR19QWx1lYzksYGU9NwdVQVxMOmIUDRscPHlUG21QAlZXeUZcUQpAN2NpfWRkaGtTAkMDQm4yQw&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHAX9cBFcaQWszYn5jb29mXVJBV0F5JB0EHRdifQAfZgJVAFR7QAhQDUE1YW9_ZjJvMABTQ1xBZ2FAWk9Ian9USzpTVQEHcEULVA5KbGQ9eGFuazBTAEIAR2ZhFg&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -91,19 +91,19 @@ https://hridoytv-xtserver.hridoytv-iptv.workers.dev/live/84eba2ffee00/a65e15d5c2
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="star-sports-1-select" tvg-name="Star sports 1 select [2]" tvg-logo="https://i.postimg.cc/cJZXGZJh/Hridoy-TV-pro-(62).webp" group-title="Sports",Star sports 1 select [2]
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHAXBcBFcaQWszYn5jb29mUFREUUd5JB0EHRdie1BPagoHUwFwEAsCV05hY20qbGBpZ1EFRVVCaDZHDkocOS8HTjpXAgpSLhcPUVobMGRnd2xlbGFSVEoGEmY2RA&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHAXBcBFcaQWszYn5jb29mXVJBV0F5JB0EHRdieFUbbgEBClUtFFpSXxwyYz59Nzc-YFYAF1EVOjNBWU1Ia3oAGz0BCQABfxdRUQ1OZWdqfGNgbjIAUxNRR2dhFw&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="ten-cricket" tvg-name="Ten cricket" tvg-logo="https://i.postimg.cc/bv8mBxR3/In-Shot-20260820-121805068.jpg" group-title="Pinned",Ten cricket
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9GUyYtChYGGj8TJ0oTHgQNPAgAB00CVxAKD1dSLxdEBw4aPBN-EQwZABptJAsDCh0BFg8BBQ94RlFVWUptCAARAgARB21QREpTW1NdAgMLSB0gJTQdHDIfK1gCOjdEMyk-RS8WXRJRXQtdBCURFA0UAh4wDFIGPyMCESogVl8GV2hdaGEeAQg8NRUYGx0TASMbMDEVEk4GFi4fVmd4TBFBIxQ2FAIPC1cPGSwePwg-HjoWKgh3SWhbEQYmID0SDSVjVS0INx0cNjkaLV0hEX9adFoRQD8MNS0dDx0hIR8sGmAfIBoEAQURR0JXCyQWMzckNA4THg4MKgk4AQIjGDMgDC53XgACORFdDTsxZEIiVzAwVhp9OUE7PDsINANIf3csSxEhIjcAIDlcB0EtIjQvSwkrFjM3Rl17XzJFASkrJhcn
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9GUyYtChYGGj8TJ0oTHgQNPAgAB00CVxAKD1dSLxdEBw4aPBN-EQwZABptJAsDCh0BFg8BBQ94R1lXXUpgCAARAgARB21QREpTW11cBAMGSB0gJTQdHDIfK1gCOjdEMyk-RS8WXRJRXQtdBCURFA0UAh4wDFIGPyMCESogVl8GV2hdaGEeAQg8NRUYGx0TASMbMDEVEk4GFi4fVmd4TBFBIxQ2FAIPC1cPGSwePwg-HjoWKgh3SWhbEQYmID0SDSVjVS0INx0cNjkaLV0hEX9adFoRQD8MNS0dDx0hIR8sGmAfIBoEAQURR0JXCyYLKEkVPjoRYg8qFCIjYw4lNzE2CglXBUR0ezNcJQ44HAULOlcIKE0aMR0kNCkOMAJnB34rAR4ABjYNMB0rUzRUNjExFycFACpcZF5ZXysqLD4LQBAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="ten-cricket" tvg-name="Ten cricket" tvg-logo="https://i.postimg.cc/bv8mBxR3/In-Shot-20260820-121805068.jpg" group-title="Sports",Ten cricket
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9GUyYtChYGGj8TJ0oTHgQNPAgAB00CVxAKD1dSLxdEBw4aPBN-EQwZABptJAsDCh0BFg8BBQ94RlFVWUptCAARAgARB21QREpTW1NdAgMLSB0gJTQdHDIfK1gCOjdEMyk-RS8WXRJRXQtdBCURFA0UAh4wDFIGPyMCESogVl8GV2hdaGEeAQg8NRUYGx0TASMbMDEVEk4GFi4fVmd4TBFBIxQ2FAIPC1cPGSwePwg-HjoWKgh3SWhbEQYmID0SDSVjVS0INx0cNjkaLV0hEX9adFoRQD8MNS0dDx0hIR8sGmAfIBoEAQURR0JXCyQWMzckNA4THg4MKgk4AQIjGDMgDC53XgACORFdDTsxZEIiVzAwVhp9OUE7PDsINANIf3csSxEhIjcAIDlcB0EtIjQvSwkrFjM3Rl17XzJFASkrJhcn
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9GUyYtChYGGj8TJ0oTHgQNPAgAB00CVxAKD1dSLxdEBw4aPBN-EQwZABptJAsDCh0BFg8BBQ94R1lXXUpgCAARAgARB21QREpTW11cBAMGSB0gJTQdHDIfK1gCOjdEMyk-RS8WXRJRXQtdBCURFA0UAh4wDFIGPyMCESogVl8GV2hdaGEeAQg8NRUYGx0TASMbMDEVEk4GFi4fVmd4TBFBIxQ2FAIPC1cPGSwePwg-HjoWKgh3SWhbEQYmID0SDSVjVS0INx0cNjkaLV0hEX9adFoRQD8MNS0dDx0hIR8sGmAfIBoEAQURR0JXCyYLKEkVPjoRYg8qFCIjYw4lNzE2CglXBUR0ezNcJQ44HAULOlcIKE0aMR0kNCkOMAJnB34rAR4ABjYNMB0rUzRUNjExFycFACpcZF5ZXysqLD4LQBAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -115,49 +115,49 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="fox-cricket" tvg-name="Fox Cricket" tvg-logo="https://i.postimg.cc/qqLpPQtJ/hridoytvgate-(17).webp" group-title="Pinned",Fox Cricket
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHD3tcBFcaQWszYn5jb29mUFREUUd5JB0EHRdif1EdPgAFA1B_S1tUWEliY2orbDRralBaFFIXPDRFWEwcO3hWHG4DUwpVeRdeVwwabGc7LGU0OWsBBhBQFWZgEQ&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHD3tcBFcaQWszYn5jb29mXVJBV0F5JB0EHRdiLgRAZlMBUVIqQV9SW01tbmZ2MGNvYAdXS1VBbDIXVkofbX4GQWZRBVMEeUUKAg4fYWFveDJma2NdBhRXFTplQw&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="fox-cricket" tvg-name="Fox Cricket" tvg-logo="https://i.postimg.cc/qqLpPQtJ/hridoytvgate-(17).webp" group-title="Sports",Fox Cricket
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHD3tcBFcaQWszYn5jb29mUFREUUd5JB0EHRdif1EdPgAFA1B_S1tUWEliY2orbDRralBaFFIXPDRFWEwcO3hWHG4DUwpVeRdeVwwabGc7LGU0OWsBBhBQFWZgEQ&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHD3tcBFcaQWszYn5jb29mXVJBV0F5JB0EHRdiLgRAZlMBUVIqQV9SW01tbmZ2MGNvYAdXS1VBbDIXVkofbX4GQWZRBVMEeUUKAg4fYWFveDJma2NdBhRXFTplQw&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="super-sports-cricket" tvg-name="Super Sports Cricket" tvg-logo="https://i.postimg.cc/YCGMWJ0T/In-Shot-20260820-015955950.jpg" group-title="Sports",Super Sports Cricket
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHD3pcBFcaQWszYn5jb29mUFREUUd5JB0EHRdie1IcOlcFClctRwoCCxptYWcuYzJpZgEFQFQWZ2UUWxpKOnpVGmZRBAVSfRANUFhNYWA7d2FvZ2UHVUFXEmllSw&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHD3pcBFcaQWszYn5jb29mXVJBV0F5JB0EHRdiLQRIPQUDBAN-RQ9RCR9nMG4tNm9oYAABQABNazNLVkAYPHJRQGZRAwNScEIPB1ZBNjNpfjdgPmVXAUpRQm1lFA&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-ten-1" tvg-name="Sony Ten 1" tvg-logo="https://i.postimg.cc/L5crRk13/Resized-Image-2026-06-25-09-53-34-9141-4.webp" group-title="Pinned",Sony Ten 1
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLNhcfFiYCIDpSLQ0QfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklgTmJTUEsbJyQAAQcQUlVSCwAGAXBCWl0RLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSFTAsAC4uKAA5Ow4rHy8-BzVZYH1eAzcHVlsIN0I6MStCUQViMjFADUI8V3pvZloZQxEpLh1tDhYoLSYzHmkFQDs1CypdSHhLYRoGBC0GA2MeHiE8MTQ
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLNhcfFiYCIDpSLQ0QfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklhRmBXUEEbJyQAAQcQUlVSCwAGD3FEWlcRLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSFAApYVMLC1AnIgw1JwgbABBXHX1hPB0IIwsSNT9gFVI4ME0PI0owWw1RN19cYmMlCxlVHgobImATOjUfJwMIAQRRKys8dlVaQyUiDw0_MSAcJl0UMTQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-ten-1" tvg-name="Sony Ten 1" tvg-logo="https://i.postimg.cc/L5crRk13/Resized-Image-2026-06-25-09-53-34-9141-4.webp" group-title="Sports",Sony Ten 1
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLNhcfFiYCIDpSLQ0QfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklgTmJTUEsbJyQAAQcQUlVSCwAGAXBCWl0RLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSFTAsAC4uKAA5Ow4rHy8-BzVZYH1eAzcHVlsIN0I6MStCUQViMjFADUI8V3pvZloZQxEpLh1tDhYoLSYzHmkFQDs1CypdSHhLYRoGBC0GA2MeHiE8MTQ
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLNhcfFiYCIDpSLQ0QfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklhRmBXUEEbJyQAAQcQUlVSCwAGD3FEWlcRLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSFAApYVMLC1AnIgw1JwgbABBXHX1hPB0IIwsSNT9gFVI4ME0PI0owWw1RN19cYmMlCxlVHgobImATOjUfJwMIAQRRKys8dlVaQyUiDw0_MSAcJl0UMTQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-ten-2" tvg-name="Sony Ten 2" tvg-logo="https://i.postimg.cc/Gprqnrps/Hridoy-TV-pro-(59).webp" group-title="Sports",Sony Ten 2
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLNhcfFiYCIDpRLQ0QfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklgTmJTUEsbJyQAAQcQUlVSCwAGAXBCWl0RLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSFTAsAC4uKAA5Ow4rHy8-BzVZYH1eAzcHVlsIN0I6MStCUQViMjFADUI8V3pvZloZQxEpLh1tDhYoLSYzHmkFQDs1CypdSHhLYRoGBC0GA2MeHiE8MTQ
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLNhcfFiYCIDpRLQ0QfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklhRmBXUEEbJyQAAQcQUlVSCwAGD3FEWlcRLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSFAApYVMLC1AnIgw1JwgbABBXHX1hPB0IIwsSNT9gFVI4ME0PI0owWw1RN19cYmMlCxlVHgobImATOjUfJwMIAQRRKys8dlVaQyUiDw0_MSAcJl0UMTQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-ten-5" tvg-name="Sony Ten 5" tvg-logo="https://i.postimg.cc/zvs95wgw/Resized-Image-2026-06-25-09-53-34-0716-5.webp" group-title="Sports",Sony Ten 5
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLNhcfFiYCIDpWLQ0QfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklgTmJTUEsbJyQAAQcQUlVSCwAGAXBCWl0RLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSFTAsAC4uKAA5Ow4rHy8-BzVZYH1eAzcHVlsIN0I6MStCUQViMjFADUI8V3pvZloZQxEpLh1tDhYoLSYzHmkFQDs1CypdSHhLYRoGBC0GA2MeHiE8MTQ
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLNhcfFiYCIDpWLQ0QfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklhRmBXUEEbJyQAAQcQUlVSCwAGD3FEWlcRLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSFAApYVMLC1AnIgw1JwgbABBXHX1hPB0IIwsSNT9gFVI4ME0PI0owWw1RN19cYmMlCxlVHgobImATOjUfJwMIAQRRKys8dlVaQyUiDw0_MSAcJl0UMTQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="tnt-sports-1" tvg-name="TNT sports 1" tvg-logo="https://i.ibb.co/C5FfY6Y0/04d598e93161.jpg" group-title="Sports",TNT sports 1
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZsBgYBAXtcBFcaQWszYn5jb29mUFREUUd5JB0EHRdielMYPFdWUQV9RQtVDkhiYjksZWc-N1dVF1cWbzZHCRlPOykAST4KAAZQeUpaXQtBYWRndmFjZjABUERRRD42EQ&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZsBgYBAXtcBFcaQWszYn5jb29mXVJBV0F5JB0EHRdifVxAZwNSBQcpRVtSV01iZm8qYGJoY1dTEFZDOzNGV00dOXsDHzlQAQUDLkQMU18dMDM5d2cyO2ZdWksHEDtmEQ&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -277,13 +277,13 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="somoy-tv" tvg-name="Somoy TV" tvg-logo="https://i.postimg.cc/fTkfzcV4/Resized-Image-2026-07-20-20-31-04-6031-2.webp" group-title="Pinned",Somoy TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSUdEDsbD3sGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABg55RFpQESogFyEREE9UQ2lRR0RbX1dRTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYAD19deRlKNjsiLiwHOx0bClQ2NldDHQ42N1V9VnoOOypZBgM6Az4JEzAKCwY6OB0UDzsIXQZ9C04bSyBUGTEwEyAcLDAJWTkOOiM2OlI3SFR3ZTEYHCYI
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSUdEDsbD3sGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABwZ7QFtTESogFyEREE9UQ2lRR0paWVZSTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYAD3RkBD08XlBcIWUXNQoQIwcQFg9DSiUKFA5teFdmEhUiHiEWDS5hEygcMjdpURkmMyYGNmIGVkJ7QVsWPQAsMh0IKRUOEmgYGQs1WxBda1Z5Dg8eHiYY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="somoy-tv" tvg-name="Somoy TV" tvg-logo="https://i.postimg.cc/fTkfzcV4/Resized-Image-2026-07-20-20-31-04-6031-2.webp" group-title="News",Somoy TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSUdEDsbD3sGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABg55RFpQESogFyEREE9UQ2lRR0RbX1dRTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYAD19deRlKNjsiLiwHOx0bClQ2NldDHQ42N1V9VnoOOypZBgM6Az4JEzAKCwY6OB0UDzsIXQZ9C04bSyBUGTEwEyAcLDAJWTkOOiM2OlI3SFR3ZTEYHCYI
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSUdEDsbD3sGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABwZ7QFtTESogFyEREE9UQ2lRR0paWVZSTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYAD3RkBD08XlBcIWUXNQoQIwcQFg9DSiUKFA5teFdmEhUiHiEWDS5hEygcMjdpURkmMyYGNmIGVkJ7QVsWPQAsMh0IKRUOEmgYGQs1WxBda1Z5Dg8eHiYY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -295,61 +295,61 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="jamuna-tv" tvg-name="Jamuna TV" tvg-logo="https://i.ibb.co/q37tKmpT/6a61c96b61bd.jpg" group-title="Pinned",Jamuna TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9YVyUHBwUwDSJZIwkCCwkdIxVdHlAaXFpXVFVTZREIBwcceQI8DgYcWDEoERoBBhxZVAUJAgJwQ19XWgcHAjIXFwFYRWdYQ0dUV1RWB05nZAQiGwEJECxLMi0xQgY8HVc_CloYBwgLW35hMAILCTkRNx9iETklNwQJMkZDAV0-CGhnZEUpKjMIIxQaADE0HTYEADFcFgopFQAyeEprBQICMAk5AAxEPw4qGAodHQwqCi0CIRxoXWtCBzY7DzYqZEYdHzEbKSMaCD1BJhspD3RcawQeGjMwJgAaMhEIKhxVCgMIFB0CGxEXVw1xGxcCAyMbCwtAMDBXFCwmZxUgOi8BUj1mZnoCBjUYPS0NHRIfCg1fETlkCjwSW1giKUcIbVI4IS9QIB0mBiRdKCcMIiEYPAcWPi8VRWZbcDgoWiosDg
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9YVyUHBwUwDSJZIwkCCwkdIxVdHlAaXFpXVFVTZREIBwcceQI8DgYcWDEoERoBBhxZVAUJAgN4QVtWWAcHAjIXFwFYRWdYQ0daVlJXBU5nZAQiGwEJECxLMi0xQgY8HVc_CloYBwgLW35hMAILCTkRNx9iETklNwQJMkZDAV0-CGhnZEUpKjMIIxQaADE0HTYEADFcFgopFQAyeEprBQICMAk5AAxEPw4qGAodHQwqCi0CIRxoXWtCBzY7DzYqZEYdHzEbKSMaCD1BJhspD3RcawQeGjMwJgAaMhEIKhxVCgMIFB0CGxEXVw12YHoHJ1NbSgxHMgMMATQWNCcdQ1opARVZb3pTGCgOLxU3Oy8LVxU5CyMTWEMZNj8tB2FgBFI8QVpWHSstDhcrDjgCHzZZChkbOVARCmlUfXA1BRMtDg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="jamuna-tv" tvg-name="Jamuna TV" tvg-logo="https://i.ibb.co/q37tKmpT/6a61c96b61bd.jpg" group-title="News",Jamuna TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9YVyUHBwUwDSJZIwkCCwkdIxVdHlAaXFpXVFVTZREIBwcceQI8DgYcWDEoERoBBhxZVAUJAgJwQ19XWgcHAjIXFwFYRWdYQ0dUV1RWB05nZAQiGwEJECxLMi0xQgY8HVc_CloYBwgLW35hMAILCTkRNx9iETklNwQJMkZDAV0-CGhnZEUpKjMIIxQaADE0HTYEADFcFgopFQAyeEprBQICMAk5AAxEPw4qGAodHQwqCi0CIRxoXWtCBzY7DzYqZEYdHzEbKSMaCD1BJhspD3RcawQeGjMwJgAaMhEIKhxVCgMIFB0CGxEXVw1xGxcCAyMbCwtAMDBXFCwmZxUgOi8BUj1mZnoCBjUYPS0NHRIfCg1fETlkCjwSW1giKUcIbVI4IS9QIB0mBiRdKCcMIiEYPAcWPi8VRWZbcDgoWiosDg
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9YVyUHBwUwDSJZIwkCCwkdIxVdHlAaXFpXVFVTZREIBwcceQI8DgYcWDEoERoBBhxZVAUJAgN4QVtWWAcHAjIXFwFYRWdYQ0daVlJXBU5nZAQiGwEJECxLMi0xQgY8HVc_CloYBwgLW35hMAILCTkRNx9iETklNwQJMkZDAV0-CGhnZEUpKjMIIxQaADE0HTYEADFcFgopFQAyeEprBQICMAk5AAxEPw4qGAodHQwqCi0CIRxoXWtCBzY7DzYqZEYdHzEbKSMaCD1BJhspD3RcawQeGjMwJgAaMhEIKhxVCgMIFB0CGxEXVw12YHoHJ1NbSgxHMgMMATQWNCcdQ1opARVZb3pTGCgOLxU3Oy8LVxU5CyMTWEMZNj8tB2FgBFI8QVpWHSstDhcrDjgCHzZZChkbOVARCmlUfXA1BRMtDg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="ekattor-tv" tvg-name="Ekattor TV" tvg-logo="https://i.ibb.co/gLTsCPdq/75f60097d1d1.jpg" group-title="Pinned",Ekattor TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9XXSkGHQsdJiAAfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ8SlhSXE4qJScEEQYWSWFWSkNXWFxVAQdMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPUR8kUDNaPG03ABAOIA8gAiAWHjQGXFNtSV1RcDgqXDBJOAUwNFYlEUc0NiY8N1cpNnFEA1RwMycOAlQFARstCQpWHAEMQCozXAJXAkFnbg8RMAgwODM
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9XXSkGHQsdJiAAfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ9QlpWXEkqJScEEQYWSWFWSkNXVl1TAQBMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPGz4VJQoqSTUmESk1GFYaYSJLNAorNiJdZx9cKy0-DyItYzxrVTJCAx4BCTgmUjwJAAZ6UGAHFxwwARQOTjQpEh8yRAI3PCUqXwA1AnNFWCIDHTA9OCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="ekattor-tv" tvg-name="Ekattor TV" tvg-logo="https://i.ibb.co/gLTsCPdq/75f60097d1d1.jpg" group-title="News",Ekattor TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9XXSkGHQsdJiAAfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ8SlhSXE4qJScEEQYWSWFWSkNXWFxVAQdMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPUR8kUDNaPG03ABAOIA8gAiAWHjQGXFNtSV1RcDgqXDBJOAUwNFYlEUc0NiY8N1cpNnFEA1RwMycOAlQFARstCQpWHAEMQCozXAJXAkFnbg8RMAgwODM
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9XXSkGHQsdJiAAfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ9QlpWXEkqJScEEQYWSWFWSkNXVl1TAQBMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPGz4VJQoqSTUmESk1GFYaYSJLNAorNiJdZx9cKy0-DyItYzxrVTJCAx4BCTgmUjwJAAZ6UGAHFxwwARQOTjQpEh8yRAI3PCUqXwA1AnNFWCIDHTA9OCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="independent-tv" tvg-name="Independent TV" tvg-logo="https://i.ibb.co/bM8X3YZm/20eb4ced2615.jpg" group-title="Pinned",Independent TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9bWCwXGQEBHTEYJzoXBEoEPAAKHwocEEtfA0cOdxcNAwpUNxcwDQZfERs7BB1OJhcUDEBVQQt5RVBUW0FlQGBSHSERFSIVAE5SWF1VBgcKBntFFzE9NQQENgMKClgVGDNDECsiUilLCUVVJUsCKDgBJBQ-MwsRDEUkOyQhEzY3UAJSAGwlKD4yHBgMLD8pDjwTFgEfNxIXDlkAS3pIUh84Ez1cMyQvPjMaKlcYOygZHAoiCTxLfl9zMSgEPRs2ECQ4PDBCVToqMxo_NCUNKwB1RnsiNAU9XS88LAcsGjwhNj0oHUMdPA0CXFFGQzoXVAM4L20hZiBaMzYBPTMZJzEuAQhlWQoAFwsGA1czF04MVQ8BBiVlNgdABzgxKmYIf2ULBlgGVzgaHD5IMgUtPDoZQBsyAlc8YgNUBHgDPDwoGg0aDCQE
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9bWCwXGQEBHTEYJzoXBEoEPAAKHwocEEtfA0cOdxcNAwpUNxcwDQZfERs7BB1OJhcUDEBVQQt5RVBUWklnRGBVHSERFSIVAE5SWF1VBgkLAHtCFzE9NQQENgMKClgVGDNDECsiUilLCUVVJUsCKDgBJBQ-MwsRDEUkOyQhEzY3UAJSAGwlKD4yHBgMLD8pDjwTFgEfNxIXDlkAS3pIUh84Ez1cMyQvPjMaKlcYOygZHAoiCTxLfl9zMSgEPRs2ECQ4PDBCVToqMxo_NCUNKwB1RnsiNAU9XS88LAcsGjwhNj0oHUMdPA0CXFFGQzoXVEkZHhgYFlUCIic4BgtAHVIsXCJbdGBxJyVEDgwmAx0eMVQ4XUQBURUZMgcvMANjX1N8OAsyIBwhIj0IOUoCOCEMJEMxOSszewBWZngxHgoFCCAiASQU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="independent-tv" tvg-name="Independent TV" tvg-logo="https://i.ibb.co/bM8X3YZm/20eb4ced2615.jpg" group-title="News",Independent TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9bWCwXGQEBHTEYJzoXBEoEPAAKHwocEEtfA0cOdxcNAwpUNxcwDQZfERs7BB1OJhcUDEBVQQt5RVBUW0FlQGBSHSERFSIVAE5SWF1VBgcKBntFFzE9NQQENgMKClgVGDNDECsiUilLCUVVJUsCKDgBJBQ-MwsRDEUkOyQhEzY3UAJSAGwlKD4yHBgMLD8pDjwTFgEfNxIXDlkAS3pIUh84Ez1cMyQvPjMaKlcYOygZHAoiCTxLfl9zMSgEPRs2ECQ4PDBCVToqMxo_NCUNKwB1RnsiNAU9XS88LAcsGjwhNj0oHUMdPA0CXFFGQzoXVAM4L20hZiBaMzYBPTMZJzEuAQhlWQoAFwsGA1czF04MVQ8BBiVlNgdABzgxKmYIf2ULBlgGVzgaHD5IMgUtPDoZQBsyAlc8YgNUBHgDPDwoGg0aDCQE
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9bWCwXGQEBHTEYJzoXBEoEPAAKHwocEEtfA0cOdxcNAwpUNxcwDQZfERs7BB1OJhcUDEBVQQt5RVBUWklnRGBVHSERFSIVAE5SWF1VBgkLAHtCFzE9NQQENgMKClgVGDNDECsiUilLCUVVJUsCKDgBJBQ-MwsRDEUkOyQhEzY3UAJSAGwlKD4yHBgMLD8pDjwTFgEfNxIXDlkAS3pIUh84Ez1cMyQvPjMaKlcYOygZHAoiCTxLfl9zMSgEPRs2ECQ4PDBCVToqMxo_NCUNKwB1RnsiNAU9XS88LAcsGjwhNj0oHUMdPA0CXFFGQzoXVEkZHhgYFlUCIic4BgtAHVIsXCJbdGBxJyVEDgwmAx0eMVQ4XUQBURUZMgcvMANjX1N8OAsyIBwhIj0IOUoCOCEMJEMxOSszewBWZngxHgoFCCAiASQU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="ekhon-tv" tvg-name="Ekhon TV" tvg-logo="https://i.ibb.co/tpg4njxJ/c86d54847aa6.jpg" group-title="Pinned",Ekhon TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9XXSAdBzsbD3sGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABg55RFpTESogFyEREE9UQ2lRR0RbX1dSTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYAD1dlYHElXCFWOAcDPjcJJjc1NQwkGltZOxxdVwp8C0o2VAMKNydmMhdBASMFLidLLjwnEQNSCncGGARJPg4cPjkdUBo0GWM4I0AFXVQUZ2h1VREeNiUI
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9XXSAdBzsbD3sGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABwZ7QFpUESogFyEREE9UQ2lRR0paWVdVTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYADx1EUQQcLFQOKRY6BQ9QHFQ3aCYaNzEoCzIfWlFpHxkkMFgzbEYCVQUYNBwbNEIgDgpQL1BmfVM9JgcJNUEzOiIINEI3Ih83OkMHP1QmRV5YRzwmOyUY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="ekhon-tv" tvg-name="Ekhon TV" tvg-logo="https://i.ibb.co/tpg4njxJ/c86d54847aa6.jpg" group-title="News",Ekhon TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9XXSAdBzsbD3sGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABg55RFpTESogFyEREE9UQ2lRR0RbX1dSTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYAD1dlYHElXCFWOAcDPjcJJjc1NQwkGltZOxxdVwp8C0o2VAMKNydmMhdBASMFLidLLjwnEQNSCncGGARJPg4cPjkdUBo0GWM4I0AFXVQUZ2h1VREeNiUI
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9XXSAdBzsbD3sGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABwZ7QFpUESogFyEREE9UQ2lRR0paWVdVTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYADx1EUQQcLFQOKRY6BQ9QHFQ3aCYaNzEoCzIfWlFpHxkkMFgzbEYCVQUYNBwbNEIgDgpQL1BmfVM9JgcJNUEzOiIINEI3Ih83OkMHP1QmRV5YRzwmOyUY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="atn-news" tvg-name="ATN News" tvg-logo="https://i.ibb.co/VcskTLZm/f3b81cfc5c20.jpg" group-title="Pinned",ATN News
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtBgULBn1cBFcaQWszYn5jb29mUFREUUd5JB0EHRdiLVBNOQUHAQUqFApQWBw2ZW4qNmduZVBaEFYRaDVEChsdaX5WTWoEBVNUf0dYAg0fYm49LWZma2pXVUtTQmhjRg&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtBgULBn1cBFcaQWszYn5jb29mXVJBV0F5JB0EHRdiKgAYZgQDVFUsF19cV0xiM2oqbW5pYARWRgNFb2FFXEFIbS5VHzwBVFMDKRMKU1hBbGVreTU0O2FXVkNXTWo1Rw&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="atn-news" tvg-name="ATN News" tvg-logo="https://i.ibb.co/VcskTLZm/f3b81cfc5c20.jpg" group-title="News",ATN News
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtBgULBn1cBFcaQWszYn5jb29mUFREUUd5JB0EHRdiLVBNOQUHAQUqFApQWBw2ZW4qNmduZVBaEFYRaDVEChsdaX5WTWoEBVNUf0dYAg0fYm49LWZma2pXVUtTQmhjRg&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtBgULBn1cBFcaQWszYn5jb29mXVJBV0F5JB0EHRdiKgAYZgQDVFUsF19cV0xiM2oqbW5pYARWRgNFb2FFXEFIbS5VHzwBVFMDKRMKU1hBbGVreTU0O2FXVkNXTWo1Rw&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -811,13 +811,13 @@ https://jbd.hossainhridoy.workers.dev/link-copy-kore-lav-nai=expire4373883121963
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="movie-bangla-tv" tvg-name="Movie Bangla TV" tvg-logo="https://i.ibb.co/LzR4jSNT/1a05a5b0caa0.jpg" group-title="Pinned",Movie Bangla TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9fWT4bDDsNGDoRPwRMAgkVKQ0aABdBCVZHCA1TLBUMSQwYNx42SBcdDhE-XDYLEwYWAEENAwFxQl1cXk9nQC02FxMXACNcQkRaX1BSCgABADYnOyg_CzEQOh1eEy0mYAI7PlUjHVxFU18PIz4-HB8bOSA7BgpDES4HMwMqMFpUBwBqX2wfJBoFNyM4Oj4rFRA0ChQABxJeCh0vSFRlfDIrWi4fIDkgKj1RHg49Og4aPg42HStfdUtsJSsdKysrPy8AVVM8HyY5LSQ5CiFWIEZ9WHAkK1syByMAPyorJzAIPT5RDSAKCAoERkVAU3UYPS4eCg1EAjELAzo1OQcmQwE3PCsGBlxDD0MfMSkLNRgMFC5HJgAFCj8pDghQH3sIdHMxClg8OyktLhBUVTsVEgIEEgcPDB5TVgBBWAEUDisDKSA0JA
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9fWT4bDDsNGDoRPwRMAgkVKQ0aABdBCVZHCA1TLBUMSQwYNx42SBcdDhE-XDYLEwYWAEENAwFxQlxUXEtmTy02FxMXACNcQkRaX1BcCwYADzYnOyg_CzEQOh1eEy0mYAI7PlUjHVxFU18PIz4-HB8bOSA7BgpDES4HMwMqMFpUBwBqX2wfJBoFNyM4Oj4rFRA0ChQABxJeCh0vSFRlfDIrWi4fIDkgKj1RHg49Og4aPg42HStfdUtsJSsdKysrPy8AVVM8HyY5LSQ5CiFWIEZ9WHAkK1syByMAPyorJzAIPT5RDSAKCAoERkVAU3ULXwNYGmAlYFUIHTo8OxkpOgtZAi8feHFnHR1aUyQNBSc0FQo7ChJhFkMwFykvUFUGBm98Oh8eGksAJxQQVzcsJwRRMQYlVwE9cB1fA2UaCwteHxA3JA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="movie-bangla-tv" tvg-name="Movie Bangla TV" tvg-logo="https://i.ibb.co/LzR4jSNT/1a05a5b0caa0.jpg" group-title="Bangla",Movie Bangla TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9fWT4bDDsNGDoRPwRMAgkVKQ0aABdBCVZHCA1TLBUMSQwYNx42SBcdDhE-XDYLEwYWAEENAwFxQl1cXk9nQC02FxMXACNcQkRaX1BSCgABADYnOyg_CzEQOh1eEy0mYAI7PlUjHVxFU18PIz4-HB8bOSA7BgpDES4HMwMqMFpUBwBqX2wfJBoFNyM4Oj4rFRA0ChQABxJeCh0vSFRlfDIrWi4fIDkgKj1RHg49Og4aPg42HStfdUtsJSsdKysrPy8AVVM8HyY5LSQ5CiFWIEZ9WHAkK1syByMAPyorJzAIPT5RDSAKCAoERkVAU3UYPS4eCg1EAjELAzo1OQcmQwE3PCsGBlxDD0MfMSkLNRgMFC5HJgAFCj8pDghQH3sIdHMxClg8OyktLhBUVTsVEgIEEgcPDB5TVgBBWAEUDisDKSA0JA
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9fWT4bDDsNGDoRPwRMAgkVKQ0aABdBCVZHCA1TLBUMSQwYNx42SBcdDhE-XDYLEwYWAEENAwFxQlxUXEtmTy02FxMXACNcQkRaX1BcCwYADzYnOyg_CzEQOh1eEy0mYAI7PlUjHVxFU18PIz4-HB8bOSA7BgpDES4HMwMqMFpUBwBqX2wfJBoFNyM4Oj4rFRA0ChQABxJeCh0vSFRlfDIrWi4fIDkgKj1RHg49Og4aPg42HStfdUtsJSsdKysrPy8AVVM8HyY5LSQ5CiFWIEZ9WHAkK1syByMAPyorJzAIPT5RDSAKCAoERkVAU3ULXwNYGmAlYFUIHTo8OxkpOgtZAi8feHFnHR1aUyQNBSc0FQo7ChJhFkMwFykvUFUGBm98Oh8eGksAJxQQVzcsJwRRMQYlVwE9cB1fA2UaCwteHxA3JA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -835,7 +835,7 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="bijoy-tv" tvg-name="Bijoy TV" tvg-logo="https://i.postimg.cc/Pxr3sFRj/Hridoy-TV-Bangla-channel-(9).webp" group-title="Bangla",Bijoy TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9QXyIdEBAZViQaMhwPGxYAfgxABltQAQFVVR9VKREBAUINOx02C143HQQ5ExYAXl5TXAIECgd-QVwaPA01BCcWXkNSTWBVREtTXFEbZ2J-ZjoXDw0XRDU-AVUAOihCHBhKBAACXQ5-Z0pGKh8_DAwQZQIJMjECPCdlURFBOQI-MmRDU24SHiUJIQ82Jy0hAgYESTUYOQkHOC4fawN4RhEfPx03SzgdGg8MGygZCRg9HiYWPghrRH1yGhkwN19JGgwBDC8lLx0eUzYHLgUiCWsCZF4SJiAdIT0WGxoLUww2HTcPEgcWHQFYcR1tRiI1HRYwTzcjZwMqIFIAAyg_HVU3MDN6BHxxOSsrECYdGBk9SBc_UR8fAEtEJSMRXW1UQmUORiYAHQkjThgwCiQUDR8VBiIoHxMzW3ZCbHs8KhM
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9QXyIdEBAZViQaMhwPGxYAfgxABltQAQFVVR9VKREBAUINOx02C143HQQ5ExYAXl5TXAIFAgV6QFEaPA01BCcWXkNSTWBVSkpVXVwbZ2J-ZjoXDw0XRDU-AVUAOihCHBhKBAACXQ5-Z0pGKh8_DAwQZQIJMjECPCdlURFBOQI-MmRDU24SHiUJIQ82Jy0hAgYESTUYOQkHOC4fawN4RhEfPx03SzgdGg8MGygZCRg9HiYWPghrRH1yGhkwN19JGgwBDC8lLx0eUzYHLgUiCWsCZF4SJiAdIT0WGxoLUww2HTcPEgcWHQFYCmF2ci04DywcMCdbIRcERQsZPw0BPA0uMSRERmZsCQYdUSUcMic-Vy8LPyxpBwVDVQEmM3FUfkQJIzkRF0oaFxAfBzEfMz8gCzk5AyMQVQl3d3gnLSU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -859,7 +859,7 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="desh-tv" tvg-name="Desh TV" tvg-logo="https://i.postimg.cc/DZyjkYMV/Hridoy-TV-Bangla-channel-(6).webp" group-title="Bangla",Desh TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WUzsaNhAZViQaMhwPGxYAfgxABltQAQFVVR9VKREBAUINOx02C143HQQ5ExYAXl5TXAIECgd-QV4aPA01BCcWXkNSTWBVREtTXFMbZ2J-ZjoXDw0XRDU-AVUAOihCHBhKBAACXQ5-Z0pGKh8_DAwQZQIJMjECPCdlURFBOQI-MmRDU24SHiUJIQ82Jy0hAgYESTUYOQkHOC4fawN4RhEfPx03SzgdGg8MGygZCRg9HiYWPghrRH1yGhkwN19JGgwBDC8lLx0eUzYHLgUiCWsCZF4SJiAdIT0WGxoLUww2HTcPEgcWHQFYVWdkDx9HLF0uKiEbAQ83ICQRPTYaS1UwHQpVCHh1cC1ZCBwaBUMEEVAWMiEfNUs-MCwQVFAIc3giH0Q1GDEcHCtWCyMIRwkxQBVRXxUwandRbyQtKAM
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WUzsaNhAZViQaMhwPGxYAfgxABltQAQFVVR9VKREBAUINOx02C143HQQ5ExYAXl5TXAIFAgV6QVkaPA01BCcWXkNSTWBVSkpVXFQbZ2J-ZjoXDw0XRDU-AVUAOihCHBhKBAACXQ5-Z0pGKh8_DAwQZQIJMjECPCdlURFBOQI-MmRDU24SHiUJIQ82Jy0hAgYESTUYOQkHOC4fawN4RhEfPx03SzgdGg8MGygZCRg9HiYWPghrRH1yGhkwN19JGgwBDC8lLx0eUzYHLgUiCWsCZF4SJiAdIT0WGxoLUww2HTcPEgcWHQFYH0ZVeiY3WQU_OxggOVYNQyZMFwg3ISQAM0hYU21hIz89UyVBZCdjAwkjDT8FUCAeBlsuB2R_V0McHAQ-Vx4YBz4yUyAzOwYoQxczXycSXFpDQhwgKBM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -907,7 +907,7 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="rajdhani-tv" tvg-name="Rajdhani TV" tvg-logo="https://i.postimg.cc/LX6CK0b6/Hridoy-TV-Bangla-channel-(16).webp" group-title="Bangla",Rajdhani TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9AVyIWAQUBEAsCJUoTHgQNPAgAB00CVxAKD1dSLxdEBw4aPBN-EQwZABptJAsDCh0BFg8BBQ94RlFVWUpiCAARAgARB21QREpTW1NdAgMESB0gJTQdHDIfK1gCOjdEMyk-RS8WXRJRXQtdBCURFA0UAh4wDFIGPyMCESogVl8GV2hdaGEeAQg8NRUYGx0TASMbMDEVEk4GFi4fVmd4TBFBIxQ2FAIPC1cPGSwePwg-HjoWKgh3SWhbEQYmID0SDSVjVS0INx0cNjkaLV0hEX9adFoRQD8MNS0dDx0hIR8sGmAfIBoEAQURR0JXCyImIxUcIGYnBw0SLSQdNjRDETs3KlEEXkdxeQQ8Ih0YOikiKFYxESE7LSkeBFseLAp2d08wQzEwPwAMNWJTKgIDJjUABx8AFVIBAkNcfy4VJgg_DRYB
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9AVyIWAQUBEAsCJUoTHgQNPAgAB00CVxAKD1dSLxdEBw4aPBN-EQwZABptJAsDCh0BFg8BBQ94R1lXXUtsCAARAgARB21QREpTW11cBAIKSB0gJTQdHDIfK1gCOjdEMyk-RS8WXRJRXQtdBCURFA0UAh4wDFIGPyMCESogVl8GV2hdaGEeAQg8NRUYGx0TASMbMDEVEk4GFi4fVmd4TBFBIxQ2FAIPC1cPGSwePwg-HjoWKgh3SWhbEQYmID0SDSVjVS0INx0cNjkaLV0hEX9adFoRQD8MNS0dDx0hIR8sGmAfIBoEAQURR0JXC3AjLSAKMzI-ICwQXxcGN1YdHgwDFipccWd3PgQ9Pi4NIEMZAAUjCEYcGCkrWgkSVQRecGALFiUWLigEAytWLRMmDjQiCTQMLhwvaFx1Qy9LLCVfLBA3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -931,7 +931,7 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="nexus-tv" tvg-name="Nexus TV" tvg-logo="https://i.postimg.cc/gJkSFBTc/Hridoy-TV-Bangla-channel-(15).webp" group-title="Bangla",Nexus TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9cUzAHGjsbD3sGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABg55RFpSESogFyEREE9UQ2lRR0RbX1dTTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYAD1pmfDkBMFY-LTwHDCQKFDBEMjkrPVdZChB1AURjDgAICjAIGUMQETYZKS49BkcJKlciIEtIA24cIhA8LEhiPyMDMRcEADwCCUUHXxcLe1ZVeSQiHSYY
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9cUzAHGjsbD3sGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABwZ7QFpUESogFyEREE9UQ2lRR0paWVdVTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYADx1EUQQcLFQOKRY6BQ9QHFQ3aCYaNzEoCzIfWlFpHxkkMFgzbEYCVQUYNBwbNEIgDgpQL1BmfVM9JgcJNUEzOiIINEI3Ih83OkMHP1QmRV5YRzwmOyUY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -943,19 +943,19 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="amanda-tv" tvg-name="Amanda TV" tvg-logo="https://i.postimg.cc/Jn46Vd2M/Hridoy-TV-Bangla-channel-(11).webp" group-title="Pinned",Amanda TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9TWCkcDQUbD3sGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABg55RFpRESogFyEREE9UQ2lRR0RbX1dQTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYAD3MfaTgYLhAdJmIVBlEFOzdDJDI6Pw1ZPDFkeAZ4DwMwJhswMDo8C04GKEA7LhJLVCkoEApvVkYbNF0rCwskAWsuNhszBSkuBwYyJBQSZFl0RhJBJycY
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9TWCkcDQUbD3sGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABwZ7QFtTESogFyEREE9UQ2lRR0paWVZSTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYAD3RkBD08XlBcIWUXNQoQIwcQFg9DSiUKFA5teFdmEhUiHiEWDS5hEygcMjdpURkmMyYGNmIGVkJ7QVsWPQAsMh0IKRUOEmgYGQs1WxBda1Z5Dg8eHiYY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="amanda-tv" tvg-name="Amanda TV" tvg-logo="https://i.postimg.cc/Jn46Vd2M/Hridoy-TV-Bangla-channel-(11).webp" group-title="Bangla",Amanda TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9TWCkcDQUbD3sGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABg55RFpRESogFyEREE9UQ2lRR0RbX1dQTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYAD3MfaTgYLhAdJmIVBlEFOzdDJDI6Pw1ZPDFkeAZ4DwMwJhswMDo8C04GKEA7LhJLVCkoEApvVkYbNF0rCwskAWsuNhszBSkuBwYyJBQSZFl0RhJBJycY
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9TWCkcDQUbD3sGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABwZ7QFtTESogFyEREE9UQ2lRR0paWVZSTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYAD3RkBD08XlBcIWUXNQoQIwcQFg9DSiUKFA5teFdmEhUiHiEWDS5hEygcMjdpURkmMyYGNmIGVkJ7QVsWPQAsMh0IKRUOEmgYGQs1WxBda1Z5Dg8eHiYY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="global-tv" tvg-name="Global TV" tvg-logo="https://i.postimg.cc/1t5ChYjP/Hridoy-TV-Bangla-channel-(12).webp" group-title="Bangla",Global TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9VWicQCAgbD3sGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABg55RFpRESogFyEREE9UQ2lRR0RbX1dQTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYAD3MfaTgYLhAdJmIVBlEFOzdDJDI6Pw1ZPDFkeAZ4DwMwJhswMDo8C04GKEA7LhJLVCkoEApvVkYbNF0rCwskAWsuNhszBSkuBwYyJBQSZFl0RhJBJycY
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9VWicQCAgbD3sGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABwZ7QFtcESogFyEREE9UQ2lRR0paWVZdTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYADwhjcgwXIwInCh0FfhcRFVIaPQ4fASwBJTBzRkRiEjMdEFozMRACCFE-HC4IWBUFU1kKJ2RzVno6Mzg0GgFnODImGRYmDhcOMgspNQgiR1cLcwlCPCAu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1021,13 +1021,13 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="s-bangla-tv" tvg-name="S Bangla TV" tvg-logo="https://i.postimg.cc/FsQqPB1P/In-Shot-20260904-211315320.jpg" group-title="Pinned",S Bangla TV
-https://jalshabd.com/stream/125.m3u8?expires=1790481082&signature=cd0555eb819ae101d01a6e5807b0d2a58d8e645a54966fb54337a62f723c67ff
+https://jalshabd.com/stream/125.m3u8?expires=1790502687&signature=f7dd65e4e24297165157f20d88979545dc1a861d1e5cbc4930cf32f0156af855
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="s-bangla-tv" tvg-name="S Bangla TV" tvg-logo="https://i.postimg.cc/FsQqPB1P/In-Shot-20260904-211315320.jpg" group-title="Bangla",S Bangla TV
-https://jalshabd.com/stream/125.m3u8?expires=1790481082&signature=cd0555eb819ae101d01a6e5807b0d2a58d8e645a54966fb54337a62f723c67ff
+https://jalshabd.com/stream/125.m3u8?expires=1790502687&signature=f7dd65e4e24297165157f20d88979545dc1a861d1e5cbc4930cf32f0156af855
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1045,43 +1045,43 @@ https://jbd.hossainhridoy.workers.dev/link-copy-kore-lav-nai=expire4373883121963
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="usb-24-news" tvg-name="USB 24 News" tvg-logo="https://i.postimg.cc/y69FN9QJ/Usb-Hridoy-TV.jpg" group-title="Bangla",USB 24 News
-https://jalshabd.com/stream/66.m3u8?expires=1790481096&signature=1c7025233445baf02fec110e055ea64b2756e76b28851a49d33010a0ace7d8a1
+https://jalshabd.com/stream/66.m3u8?expires=1790502707&signature=dcab9435d4abdefb689bff6741ec2ada5e98fad05962cc68447ea0dd794ba132
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="magic-bangla-tv" tvg-name="Magic Bangla TV" tvg-logo="https://i.ibb.co.com/FLcSY5Vn/Hridoy-TV-new-bd-channel-2.jpg" group-title="Pinned",Magic Bangla TV
-https://jalshabd.com/stream/79.m3u8?expires=1790481103&signature=c84c1414fed4f82edac9025313ea2e15d39b823151b0ba870d10311478e46fbb
+https://jalshabd.com/stream/79.m3u8?expires=1790502714&signature=a5b7cec68d5e949dddacd1284eea326130c9c5cd92c596128780b5b1865320cf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="magic-bangla-tv" tvg-name="Magic Bangla TV" tvg-logo="https://i.ibb.co.com/FLcSY5Vn/Hridoy-TV-new-bd-channel-2.jpg" group-title="Bangla",Magic Bangla TV
-https://jalshabd.com/stream/79.m3u8?expires=1790481103&signature=c84c1414fed4f82edac9025313ea2e15d39b823151b0ba870d10311478e46fbb
+https://jalshabd.com/stream/79.m3u8?expires=1790502714&signature=a5b7cec68d5e949dddacd1284eea326130c9c5cd92c596128780b5b1865320cf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="biswa-bangla-world-tv" tvg-name="Biswa Bangla World TV" tvg-logo="https://i.ibb.co.com/jjKhkmv/Hridoy-TV-new-bd-channel-1.jpg" group-title="Pinned",Biswa Bangla World TV
-https://jalshabd.com/stream/105.m3u8?expires=1790481087&signature=c50014dbd870c3745cb9e749f89f01d981884bf3177c15a6b23227038c82afe0
+https://jalshabd.com/stream/105.m3u8?expires=1790502692&signature=c34b1cfa44bef544244f02d6b4213df6cfa70d76ab1dd7468036ff9f5bf78350
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="biswa-bangla-world-tv" tvg-name="Biswa Bangla World TV" tvg-logo="https://i.ibb.co.com/jjKhkmv/Hridoy-TV-new-bd-channel-1.jpg" group-title="Bangla",Biswa Bangla World TV
-https://jalshabd.com/stream/105.m3u8?expires=1790481087&signature=c50014dbd870c3745cb9e749f89f01d981884bf3177c15a6b23227038c82afe0
+https://jalshabd.com/stream/105.m3u8?expires=1790502692&signature=c34b1cfa44bef544244f02d6b4213df6cfa70d76ab1dd7468036ff9f5bf78350
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="america-bangla-channel" tvg-name="America Bangla Channel" tvg-logo="https://i.ibb.co.com/XxP6LhMk/Hridoy-TV-new-bd-channel-3.jpg" group-title="Pinned",America Bangla Channel
-https://jalshabd.com/stream/75.m3u8?expires=1790481095&signature=23433abb69dc491b6c490bd59b96af156e791e0c49e872a08fb7edd403c99e74
+https://jalshabd.com/stream/75.m3u8?expires=1790502706&signature=3febb2656f3a42ff07a5551e497ec3ead0ebfd9eea3ea987f0c1907a43725472
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="america-bangla-channel" tvg-name="America Bangla Channel" tvg-logo="https://i.ibb.co.com/XxP6LhMk/Hridoy-TV-new-bd-channel-3.jpg" group-title="Bangla",America Bangla Channel
-https://jalshabd.com/stream/75.m3u8?expires=1790481095&signature=23433abb69dc491b6c490bd59b96af156e791e0c49e872a08fb7edd403c99e74
+https://jalshabd.com/stream/75.m3u8?expires=1790502706&signature=3febb2656f3a42ff07a5551e497ec3ead0ebfd9eea3ea987f0c1907a43725472
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1321,25 +1321,25 @@ https://wpu.hridoytv-direct.workers.dev/starjalsha.m3u8
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="star-jalsa-hd" tvg-name="Star Jalsa HD" tvg-logo="https://i.postimg.cc/28GZ2hQs/Resized-Image-2026-08-10-11-48-00-8830-4.webp" group-title="Pinned",Star Jalsa HD
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtBgUKD3BcBFcaQWszYn5jb29mUFREUUd5JB0EHRdifgBJaFRWBFNxFw9WXxsyYDoqZm48Yl1aEABFPTFFCRlPaH1WGmhTVldQK0BQAAxJYjdqfDc3aTFWUhFTFTpoRw&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtBgUKD3BcBFcaQWszYn5jb29mXVJBV0F5JB0EHRdie1UcagZWAQcqFwtWCxxjYzt3ZzVtZABRRFREaGdEDklBZylVTWhTCAQPeEFbUF4dYTU7fGBgbDYGBhADQWkzFA&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="star-jalsa-hd" tvg-name="Star Jalsa HD" tvg-logo="https://i.postimg.cc/28GZ2hQs/Resized-Image-2026-08-10-11-48-00-8830-4.webp" group-title="Indian Bangla",Star Jalsa HD
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtBgUKD3BcBFcaQWszYn5jb29mUFREUUd5JB0EHRdifgBJaFRWBFNxFw9WXxsyYDoqZm48Yl1aEABFPTFFCRlPaH1WGmhTVldQK0BQAAxJYjdqfDc3aTFWUhFTFTpoRw&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtBgUKD3BcBFcaQWszYn5jb29mXVJBV0F5JB0EHRdie1UcagZWAQcqFwtWCxxjYzt3ZzVtZABRRFREaGdEDklBZylVTWhTCAQPeEFbUF4dYTU7fGBgbDYGBhADQWkzFA&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="zee-bangla" tvg-name="Zee Bangla" tvg-logo="https://i.ibb.co.com/b50QqJF4/In-Shot-20260810-012546278.jpg" group-title="Pinned",Zee Bangla
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCwUBHjgXfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ8SlhSW0kqJScEEQYWSWFWSkNXWFxVBgBMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPA3s-IQ0sEGY7ZAFWMCYQKAoRAhcNVg17BksOGQoINTYKJUU8HCgHHSY_AgAlM143I0RiBlgCOSUdKw4bJGYWTiUTLgQMNEYiViwOUGN8eD8DXR05OjM
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCwUBHjgXfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ9QlpWXEwqJScEEQYWSWFWSkNXVl1TAQVMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPTx1DOVQnEmE_HSECG1wFKAUaC1IBHilEYAdFeEcLKDsXJzdkIzVfVxofIAc8JwgtU1NZVWAxFT4yHU4MDCcINUYvBxUsPRRODikpbWNiDz1DCyItPTM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="zee-bangla" tvg-name="Zee Bangla" tvg-logo="https://i.ibb.co.com/b50QqJF4/In-Shot-20260810-012546278.jpg" group-title="Indian Bangla",Zee Bangla
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCwUBHjgXfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ8SlhSW0kqJScEEQYWSWFWSkNXWFxVBgBMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPA3s-IQ0sEGY7ZAFWMCYQKAoRAhcNVg17BksOGQoINTYKJUU8HCgHHSY_AgAlM143I0RiBlgCOSUdKw4bJGYWTiUTLgQMNEYiViwOUGN8eD8DXR05OjM
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCwUBHjgXfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ9QlpWXEwqJScEEQYWSWFWSkNXVl1TAQVMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPTx1DOVQnEmE_HSECG1wFKAUaC1IBHilEYAdFeEcLKDsXJzdkIzVfVxofIAc8JwgtU1NZVWAxFT4yHU4MDCcINUYvBxUsPRRODikpbWNiDz1DCyItPTM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1357,13 +1357,13 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-logo="https://i.ibb.co/twLtCSLS/1026986f1669.jpg" group-title="Pinned",Sony Aath
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLCAUbEXsGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABg55RF1VESogFyEREE9UQ2lRR0RbX1BUTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYAD0V_fClfXycNOiERZwg3IjIEBxA-QzUpPBxXSmVXHiNcCT46MjMVSCYTFB0fJUcbLioSNGt8H1sAQCAMDTwiOSEgACcVRWcpOzZWNioNCnRIXnArUSAu
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLCAUbEXsGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABwZ7QFpSESogFyEREE9UQ2lRR0paWVdTTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYAD3Nkf3k9KAwrVARbPzcHRQQkA1AEMTAVEzZeXG1DeThcUyohOyU3CBA1Oj5lJBo7URw1HAtIAXIQEz0WPxQyQTYOEjUzGDMqNR4pVhEDX1NGQjgtGSA-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-logo="https://i.ibb.co/twLtCSLS/1026986f1669.jpg" group-title="Indian Bangla",Sony Aath
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLCAUbEXsGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABg55RF1VESogFyEREE9UQ2lRR0RbX1BUTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYAD0V_fClfXycNOiERZwg3IjIEBxA-QzUpPBxXSmVXHiNcCT46MjMVSCYTFB0fJUcbLioSNGt8H1sAQCAMDTwiOSEgACcVRWcpOzZWNioNCnRIXnArUSAu
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLCAUbEXsGPwQaHgwHJE8eQBZXWwBWV1cbKxMKDApUIBk4AA1PIAwgCAEWEFJVUgsABwZ7QFpSESogFyEREE9UQ2lRR0paWVdTTGVgehgADAIGAWkXGzdTES05Zi0KShQMCVxZfGVOOBAEMgcaPUcnPzQgFS0DVEMRUTUJP2VmQVcQKAUoAjciFAIbJxMRFW0ECjkZCzMvSGkBfDgrBDIWIWYaOCwJHQw5PTgKPQ4qHT9faUZ5DCACPTxJZDgpNwo-Mj45L0E2FyIOI15pAGAgKD0tFjcQND4sDUIbJzkGHRIXGhYAD3Nkf3k9KAwrVARbPzcHRQQkA1AEMTAVEzZeXG1DeThcUyohOyU3CBA1Oj5lJBo7URw1HAtIAXIQEz0WPxQyQTYOEjUzGDMqNR4pVhEDX1NGQjgtGSA-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1375,13 +1375,13 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="zee-bangla-sonar-hd" tvg-name="Zee Bangla Sonar HD" tvg-logo="https://iili.io/Cgg8ACl.md.jpg" group-title="Pinned",Zee Bangla Sonar HD
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCwUBHjgXDAYKHAAZMU4DHwIWCAxBRBxbewdRWwodMxN-BgIRDRF9FRwYBgFZIEpAW0QtAVRVWEBkQmtUVUZXCgMVEgEXHFlUBQkCAn9KWVBdBwEkHzURFwMdKFwSOzFfBy1_Bn5PcQUKCVYSGCErFQEfMxwzCEIHOTg2FWtjBwYqQDMJNS4CBTI9OR4pGR4XESIdKwURUw1XTwIIDTMlAw1FGRU6HzMNCFMfGCoFCwx_XWtPBh8sHTUUDQIcITEZPCdgUT0JMQYoMnhZfAQNBiQOKRUNRAUNOSYsDR4lMR4qAVQbYVlVWCkGHBYKRB0gHDU0AVAtaAgBOSAkNCx_flZYFxtcLl0wMjwdUS1fDRphOSY3VF5TSGRGenQlIA8dKAETOTIqABE0GzotBTs8HRwwAGNFXyAeCFcCGD1HDAc8AyQ1
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCwUBHjgXDAYKHAAZMU4DHwIWCAxBRBxbewdRWwodMxN-BgIRDRF9FRwYBgFZIEpAW0QtAVRVWEBkQ2NWUUFdCgMVEgEXHFlUBQkCAnFLX1dXBwEkHzURFwMdKFwSOzFfBy1_Bn5PcQUKCVYSGCErFQEfMxwzCEIHOTg2FWtjBwYqQDMJNS4CBTI9OR4pGR4XESIdKwURUw1XTwIIDTMlAw1FGRU6HzMNCFMfGCoFCwx_XWtPBh8sHTUUDQIcITEZPCdgUT0JMQYoMnhZfAQNBiQOKRUNRAUNOSYsDR4lMR4qAVQbYVlVWCkGHBYKRBYcYjBOQyMdIhc3Kw8ABiFlAgZ0IyQnNjZPPQA2ECQEDRwmMRY5ND01FVV3S1ApJgU7Hg8-JD8xDjs9PCUFFEcbWQ86WF9lfys4AQw7LhsHCRwgKyYl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="zee-bangla-sonar-hd" tvg-name="Zee Bangla Sonar HD" tvg-logo="https://iili.io/Cgg8ACl.md.jpg" group-title="Indian Bangla",Zee Bangla Sonar HD
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCwUBHjgXDAYKHAAZMU4DHwIWCAxBRBxbewdRWwodMxN-BgIRDRF9FRwYBgFZIEpAW0QtAVRVWEBkQmtUVUZXCgMVEgEXHFlUBQkCAn9KWVBdBwEkHzURFwMdKFwSOzFfBy1_Bn5PcQUKCVYSGCErFQEfMxwzCEIHOTg2FWtjBwYqQDMJNS4CBTI9OR4pGR4XESIdKwURUw1XTwIIDTMlAw1FGRU6HzMNCFMfGCoFCwx_XWtPBh8sHTUUDQIcITEZPCdgUT0JMQYoMnhZfAQNBiQOKRUNRAUNOSYsDR4lMR4qAVQbYVlVWCkGHBYKRB0gHDU0AVAtaAgBOSAkNCx_flZYFxtcLl0wMjwdUS1fDRphOSY3VF5TSGRGenQlIA8dKAETOTIqABE0GzotBTs8HRwwAGNFXyAeCFcCGD1HDAc8AyQ1
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCwUBHjgXDAYKHAAZMU4DHwIWCAxBRBxbewdRWwodMxN-BgIRDRF9FRwYBgFZIEpAW0QtAVRVWEBkQ2NWUUFdCgMVEgEXHFlUBQkCAnFLX1dXBwEkHzURFwMdKFwSOzFfBy1_Bn5PcQUKCVYSGCErFQEfMxwzCEIHOTg2FWtjBwYqQDMJNS4CBTI9OR4pGR4XESIdKwURUw1XTwIIDTMlAw1FGRU6HzMNCFMfGCoFCwx_XWtPBh8sHTUUDQIcITEZPCdgUT0JMQYoMnhZfAQNBiQOKRUNRAUNOSYsDR4lMR4qAVQbYVlVWCkGHBYKRBYcYjBOQyMdIhc3Kw8ABiFlAgZ0IyQnNjZPPQA2ECQEDRwmMRY5ND01FVV3S1ApJgU7Hg8-JD8xDjs9PCUFFEcbWQ86WF9lfys4AQw7LhsHCRwgKyYl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1597,25 +1597,25 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony Max HD" tvg-logo="https://i.postimg.cc/cLmWkzdH/Hridoy-TV-channel-(4).webp" group-title="Pinned",Sony Max HD
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLNgkOAQseN0oTHgQNPAgAB00CVxAKD1dSLxdEBw4aPBN-EQwZABptJAsDCh0BFg8BBQ94RlFVWU1mCAARAgARB21QREpTW1NdAgQASB0gJTQdHDIfK1gCOjdEMyk-RS8WXRJRXQtdBCURFA0UAh4wDFIGPyMCESogVl8GV2hdaGEeAQg8NRUYGx0TASMbMDEVEk4GFi4fVmd4TBFBIxQ2FAIPC1cPGSwePwg-HjoWKgh3SWhbEQYmID0SDSVjVS0INx0cNjkaLV0hEX9adFoRQD8MNS0dDx0hIR8sGmAfIBoEAQURR0JXCwEkJjQ4CmEvawwROCY_ACg-PQcBOwwHegB_LjgnUCFUPBhiPTY2UkVnTCUFKy0JN1RJdU4PPQgrDBoFGTkpFTo6Big0QSAUBgwJUwNfVyFDNgYwCBU3
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLNgkOAQseN0oTHgQNPAgAB00CVxAKD1dSLxdEBw4aPBN-EQwZABptJAsDCh0BFg8BBQ94R1lXXUpjCAARAgARB21QREpTW11cBAMFSB0gJTQdHDIfK1gCOjdEMyk-RS8WXRJRXQtdBCURFA0UAh4wDFIGPyMCESogVl8GV2hdaGEeAQg8NRUYGx0TASMbMDEVEk4GFi4fVmd4TBFBIxQ2FAIPC1cPGSwePwg-HjoWKgh3SWhbEQYmID0SDSVjVS0INx0cNjkaLV0hEX9adFoRQD8MNS0dDx0hIR8sGmAfIBoEAQURR0JXCwBfWCoqJhsxZykgGCdCMS4WRBYCB1Jaf1NiKhgDLQ0UHBQmUDc2AUcnDUUVWxwmLlwIQ3AFRgYcIikLATcCCRAyBB8kOTo7XyEXZUZccHk2WVItSxc3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony Max HD" tvg-logo="https://i.postimg.cc/cLmWkzdH/Hridoy-TV-channel-(4).webp" group-title="Movies",Sony Max HD
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLNgkOAQseN0oTHgQNPAgAB00CVxAKD1dSLxdEBw4aPBN-EQwZABptJAsDCh0BFg8BBQ94RlFVWU1mCAARAgARB21QREpTW1NdAgQASB0gJTQdHDIfK1gCOjdEMyk-RS8WXRJRXQtdBCURFA0UAh4wDFIGPyMCESogVl8GV2hdaGEeAQg8NRUYGx0TASMbMDEVEk4GFi4fVmd4TBFBIxQ2FAIPC1cPGSwePwg-HjoWKgh3SWhbEQYmID0SDSVjVS0INx0cNjkaLV0hEX9adFoRQD8MNS0dDx0hIR8sGmAfIBoEAQURR0JXCwEkJjQ4CmEvawwROCY_ACg-PQcBOwwHegB_LjgnUCFUPBhiPTY2UkVnTCUFKy0JN1RJdU4PPQgrDBoFGTkpFTo6Big0QSAUBgwJUwNfVyFDNgYwCBU3
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLNgkOAQseN0oTHgQNPAgAB00CVxAKD1dSLxdEBw4aPBN-EQwZABptJAsDCh0BFg8BBQ94R1lXXUpjCAARAgARB21QREpTW11cBAMFSB0gJTQdHDIfK1gCOjdEMyk-RS8WXRJRXQtdBCURFA0UAh4wDFIGPyMCESogVl8GV2hdaGEeAQg8NRUYGx0TASMbMDEVEk4GFi4fVmd4TBFBIxQ2FAIPC1cPGSwePwg-HjoWKgh3SWhbEQYmID0SDSVjVS0INx0cNjkaLV0hEX9adFoRQD8MNS0dDx0hIR8sGmAfIBoEAQURR0JXCwBfWCoqJhsxZykgGCdCMS4WRBYCB1Jaf1NiKhgDLQ0UHBQmUDc2AUcnDUUVWxwmLlwIQ3AFRgYcIikLATcCCRAyBB8kOTo7XyEXZUZccHk2WVItSxc3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-max-2" tvg-name="Sony Max 2" tvg-logo="https://i.postimg.cc/T39xNsTK/Hridoy-TV-channel-(5).webp" group-title="Pinned",Sony Max 2
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLBAUXJmZZIwkCCwkdIxVdHlAaXFpXVFVTZREIBwcceQI8DgYcWDEoERoBBhxZVAUJAgJwQ19QWwcHAjIXFwFYRWdYQ0dUV1RRBk5nZAQiGwEJECxLMi0xQgY8HVc_CloYBwgLW35hMAILCTkRNx9iETklNwQJMkZDAV0-CGhnZEUpKjMIIxQaADE0HTYEADFcFgopFQAyeEprBQICMAk5AAxEPw4qGAodHQwqCi0CIRxoXWtCBzY7DzYqZEYdHzEbKSMaCD1BJhspD3RcawQeGjMwJgAaMhEIKhxVCgMIFB0CGxEXVw19RSInWlQiARceYBwEI0g-MxQyGDU_EipARnRvDTlcCygeDiQ-Ek42L0cAE0VCKyAHN2hlAmEDBjMdHCMWDj0SBjQuNxMlJ0E2XCMAB2VffzpCHlUrOA
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLBAUXJmZZIwkCCwkdIxVdHlAaXFpXVFVTZREIBwcceQI8DgYcWDEoERoBBhxZVAUJAgN4QVtXVgcHAjIXFwFYRWdYQ0daVlJWC05nZAQiGwEJECxLMi0xQgY8HVc_CloYBwgLW35hMAILCTkRNx9iETklNwQJMkZDAV0-CGhnZEUpKjMIIxQaADE0HTYEADFcFgopFQAyeEprBQICMAk5AAxEPw4qGAodHQwqCi0CIRxoXWtCBzY7DzYqZEYdHzEbKSMaCD1BJhspD3RcawQeGjMwJgAaMhEIKhxVCgMIFB0CGxEXVw1hQC47ADIfCxI4HywyOlUEAThKQS4ZLRd_Z3VGGQAQEz1NFzc3NjtEIwAkLAs2Ij8TD3lxS1MuEQ4wIy8wBDtQJAIkIjIkFCU8WVciAG9KcB8KIVMrOA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-max-2" tvg-name="Sony Max 2" tvg-logo="https://i.postimg.cc/T39xNsTK/Hridoy-TV-channel-(5).webp" group-title="Movies",Sony Max 2
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLBAUXJmZZIwkCCwkdIxVdHlAaXFpXVFVTZREIBwcceQI8DgYcWDEoERoBBhxZVAUJAgJwQ19QWwcHAjIXFwFYRWdYQ0dUV1RRBk5nZAQiGwEJECxLMi0xQgY8HVc_CloYBwgLW35hMAILCTkRNx9iETklNwQJMkZDAV0-CGhnZEUpKjMIIxQaADE0HTYEADFcFgopFQAyeEprBQICMAk5AAxEPw4qGAodHQwqCi0CIRxoXWtCBzY7DzYqZEYdHzEbKSMaCD1BJhspD3RcawQeGjMwJgAaMhEIKhxVCgMIFB0CGxEXVw19RSInWlQiARceYBwEI0g-MxQyGDU_EipARnRvDTlcCygeDiQ-Ek42L0cAE0VCKyAHN2hlAmEDBjMdHCMWDj0SBjQuNxMlJ0E2XCMAB2VffzpCHlUrOA
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLBAUXJmZZIwkCCwkdIxVdHlAaXFpXVFVTZREIBwcceQI8DgYcWDEoERoBBhxZVAUJAgN4QVtXVgcHAjIXFwFYRWdYQ0daVlJWC05nZAQiGwEJECxLMi0xQgY8HVc_CloYBwgLW35hMAILCTkRNx9iETklNwQJMkZDAV0-CGhnZEUpKjMIIxQaADE0HTYEADFcFgopFQAyeEprBQICMAk5AAxEPw4qGAodHQwqCi0CIRxoXWtCBzY7DzYqZEYdHzEbKSMaCD1BJhspD3RcawQeGjMwJgAaMhEIKhxVCgMIFB0CGxEXVw1hQC47ADIfCxI4HywyOlUEAThKQS4ZLRd_Z3VGGQAQEz1NFzc3NjtEIwAkLAs2Ij8TD3lxS1MuEQ4wIy8wBDtQJAIkIjIkFCU8WVciAG9KcB8KIVMrOA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1639,13 +1639,13 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-pix" tvg-name="Sony Pix" tvg-logo="https://i.postimg.cc/523JKrft/Hridoy-TV-channel-(1).webp" group-title="Pinned",Sony Pix
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLGQ0XJjwSfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ8SlhSW0oqJScEEQYWSWFWSkNXWFxVBgNMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPXARAOQkNMHkeMCASBF0_NzAUMFQIUjN2QFZlJiArHjsPNS8pEi41AjU2BhkVVTU0NGJdSAE9HT8vK1Q2LwILWisMPBYLRzYGKCVWflN8fxwZLBxXOxU
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLGQ0XJjwSfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ9QlpWXEEqJScEEQYWSWFWSkNXVl1TAQhMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPdCJDPElePz0EJSE7HgoWFDZBRyEEMitgaQRfPhccIxkRPAADACklNyUgBjQKBQ4wCW1BRFwaHj0JJiEcAzcCVwpTHw8LHCQqDC4NWmRleTkoECc2OgU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-pix" tvg-name="Sony Pix" tvg-logo="https://i.postimg.cc/523JKrft/Hridoy-TV-channel-(1).webp" group-title="Movies",Sony Pix
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLGQ0XJjwSfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ8SlhSW0oqJScEEQYWSWFWSkNXWFxVBgNMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPXARAOQkNMHkeMCASBF0_NzAUMFQIUjN2QFZlJiArHjsPNS8pEi41AjU2BhkVVTU0NGJdSAE9HT8vK1Q2LwILWisMPBYLRzYGKCVWflN8fxwZLBxXOxU
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLGQ0XJjwSfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ9QlpWXEEqJScEEQYWSWFWSkNXVl1TAQhMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPdCJDPElePz0EJSE7HgoWFDZBRyEEMitgaQRfPhccIxkRPAADACklNyUgBjQKBQ4wCW1BRFwaHj0JJiEcAzcCVwpTHw8LHCQqDC4NWmRleTkoECc2OgU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1657,25 +1657,25 @@ https://pro.hellohridoy.workers.dev/link-copy-kore-lav-nai=expire43738831219634/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="zee-cinema" tvg-name="Zee Cinema" tvg-logo="https://i.postimg.cc/2SwY9tCL/Hridoy-TV-channel-(6).webp" group-title="Pinned",Zee Cinema
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCg0BHDkXDA0HXRUYMRgfGhAbSggBRQoJLRYOAUIaNRU7AE4GCh81D042Gx8NF1dDDwd_S1lQV0hiQmcbMAYEBiQSTkJUVlRRBQgCAnwMPDYjKSYTNQwbTwQ8AlEQOy5ZKBwLR1FbcRklMxcJNhsFDQAbVAAKNiEDOjxRVVACaFsSJT8XDiEOGh8ILQQHJS4lEgcCUgEceEpWYQIIMFclCQ0bBRw7QAkfGQscGi4CPRx8XXdPEh8wECA9Bh0KNlNCKw4CCD8kKQYqV3dEf1wOHjBWOREOIhocLTYnGRkPQw0wBgMLU0RHRC1PJhcFLGdGHh0gGlYNNzBeOQAaJQ5kYER5OgQvPSoyYRkUAjkgCAN9JTlAMx1SVHp_UWQSJ1kzJA0ODyA_IQoLAzUnODAgKzBXZwN1U30nBC0dSSNHFyQ
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCg0BHDkXDA0HXRUYMRgfGhAbSggBRQoJLRYOAUIaNRU7AE4GCh81D042Gx8NF1dDDwd_S1lRX0pmRWobMAYEBiQSTkJUVlRRCwkEBXEMPDYjKSYTNQwbTwQ8AlEQOy5ZKBwLR1FbcRklMxcJNhsFDQAbVAAKNiEDOjxRVVACaFsSJT8XDiEOGh8ILQQHJS4lEgcCUgEceEpWYQIIMFclCQ0bBRw7QAkfGQscGi4CPRx8XXdPEh8wECA9Bh0KNlNCKw4CCD8kKQYqV3dEf1wOHjBWOREOIhocLTYnGRkPQw0wBgMLU0RHRC1POhIJMD0gIxclPCk9ASlDAzI2XVd_RntEBSUuFD4LLQEBUSAzAScIVzUHFyIcIHNgRVwDMxABCRozIh8zBwANQRcRMiUBKgMzbQYBcXotESI4ARxBFyQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="zee-cinema" tvg-name="Zee Cinema" tvg-logo="https://i.postimg.cc/2SwY9tCL/Hridoy-TV-channel-(6).webp" group-title="Movies",Zee Cinema
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCg0BHDkXDA0HXRUYMRgfGhAbSggBRQoJLRYOAUIaNRU7AE4GCh81D042Gx8NF1dDDwd_S1lQV0hiQmcbMAYEBiQSTkJUVlRRBQgCAnwMPDYjKSYTNQwbTwQ8AlEQOy5ZKBwLR1FbcRklMxcJNhsFDQAbVAAKNiEDOjxRVVACaFsSJT8XDiEOGh8ILQQHJS4lEgcCUgEceEpWYQIIMFclCQ0bBRw7QAkfGQscGi4CPRx8XXdPEh8wECA9Bh0KNlNCKw4CCD8kKQYqV3dEf1wOHjBWOREOIhocLTYnGRkPQw0wBgMLU0RHRC1PJhcFLGdGHh0gGlYNNzBeOQAaJQ5kYER5OgQvPSoyYRkUAjkgCAN9JTlAMx1SVHp_UWQSJ1kzJA0ODyA_IQoLAzUnODAgKzBXZwN1U30nBC0dSSNHFyQ
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCg0BHDkXDA0HXRUYMRgfGhAbSggBRQoJLRYOAUIaNRU7AE4GCh81D042Gx8NF1dDDwd_S1lRX0pmRWobMAYEBiQSTkJUVlRRCwkEBXEMPDYjKSYTNQwbTwQ8AlEQOy5ZKBwLR1FbcRklMxcJNhsFDQAbVAAKNiEDOjxRVVACaFsSJT8XDiEOGh8ILQQHJS4lEgcCUgEceEpWYQIIMFclCQ0bBRw7QAkfGQscGi4CPRx8XXdPEh8wECA9Bh0KNlNCKw4CCD8kKQYqV3dEf1wOHjBWOREOIhocLTYnGRkPQw0wBgMLU0RHRC1POhIJMD0gIxclPCk9ASlDAzI2XVd_RntEBSUuFD4LLQEBUSAzAScIVzUHFyIcIHNgRVwDMxABCRozIh8zBwANQRcRMiUBKgMzbQYBcXotESI4ARxBFyQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="zee-bollywood" tvg-name="Zee Bollywood" tvg-logo="https://i.ibb.co/hFgZC9kd/e24fec29ce86.jpg" group-title="Pinned",Zee Bollywood
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCwsDFS0BPAoHXRUYMRgfGhAbSggBRQoJLRYOAUIaNRU7AE4GCh81D042Gx8NF1dDDwd_S1lQV0hiQmAbMAYEBiQSTkJUVlRRBQgCAnsMPDYjKSYTNQwbTwQ8AlEQOy5ZKBwLR1FbcRklMxcJNhsFDQAbVAAKNiEDOjxRVVACaFsSJT8XDiEOGh8ILQQHJS4lEgcCUgEceEpWYQIIMFclCQ0bBRw7QAkfGQscGi4CPRx8XXdPEh8wECA9Bh0KNlNCKw4CCD8kKQYqV3dEf1wOHjBWOREOIhocLTYnGRkPQw0wBgMLU0RHRC1PAyhdKTkUGkgLESAFJlk4FDIIJ1JVBmRyOBY6Cj07LiIlBDoIEjkXBjIVBAUCU2hgY2YlCF4RAC8fMn4HOiMLTQkIOzUJWyEAdXEBeis8IDAEPCxOESQ
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCwsDFS0BPAoHXRUYMRgfGhAbSggBRQoJLRYOAUIaNRU7AE4GCh81D042Gx8NF1dDDwd_S1lRX0pmRWsbMAYEBiQSTkJUVlRRCwkEBXAMPDYjKSYTNQwbTwQ8AlEQOy5ZKBwLR1FbcRklMxcJNhsFDQAbVAAKNiEDOjxRVVACaFsSJT8XDiEOGh8ILQQHJS4lEgcCUgEceEpWYQIIMFclCQ0bBRw7QAkfGQscGi4CPRx8XXdPEh8wECA9Bh0KNlNCKw4CCD8kKQYqV3dEf1wOHjBWOREOIhocLTYnGRkPQw0wBgMLU0RHRC1PKw5eLHlHFQwRBCEsPA4RNzRdUCdZZnxkEUQAEgoMEwA7DRUiAD4HMyIDBCgdA1NkXmk5BAM2Ay05PwstFhYCQChXGCwJADMsUXpaXhwlJhU1ABcvEDQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="zee-bollywood" tvg-name="Zee Bollywood" tvg-logo="https://i.ibb.co/hFgZC9kd/e24fec29ce86.jpg" group-title="Movies",Zee Bollywood
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCwsDFS0BPAoHXRUYMRgfGhAbSggBRQoJLRYOAUIaNRU7AE4GCh81D042Gx8NF1dDDwd_S1lQV0hiQmAbMAYEBiQSTkJUVlRRBQgCAnsMPDYjKSYTNQwbTwQ8AlEQOy5ZKBwLR1FbcRklMxcJNhsFDQAbVAAKNiEDOjxRVVACaFsSJT8XDiEOGh8ILQQHJS4lEgcCUgEceEpWYQIIMFclCQ0bBRw7QAkfGQscGi4CPRx8XXdPEh8wECA9Bh0KNlNCKw4CCD8kKQYqV3dEf1wOHjBWOREOIhocLTYnGRkPQw0wBgMLU0RHRC1PAyhdKTkUGkgLESAFJlk4FDIIJ1JVBmRyOBY6Cj07LiIlBDoIEjkXBjIVBAUCU2hgY2YlCF4RAC8fMn4HOiMLTQkIOzUJWyEAdXEBeis8IDAEPCxOESQ
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCwsDFS0BPAoHXRUYMRgfGhAbSggBRQoJLRYOAUIaNRU7AE4GCh81D042Gx8NF1dDDwd_S1lRX0pmRWsbMAYEBiQSTkJUVlRRCwkEBXAMPDYjKSYTNQwbTwQ8AlEQOy5ZKBwLR1FbcRklMxcJNhsFDQAbVAAKNiEDOjxRVVACaFsSJT8XDiEOGh8ILQQHJS4lEgcCUgEceEpWYQIIMFclCQ0bBRw7QAkfGQscGi4CPRx8XXdPEh8wECA9Bh0KNlNCKw4CCD8kKQYqV3dEf1wOHjBWOREOIhocLTYnGRkPQw0wBgMLU0RHRC1PKw5eLHlHFQwRBCEsPA4RNzRdUCdZZnxkEUQAEgoMEwA7DRUiAD4HMyIDBCgdA1NkXmk5BAM2Ay05PwstFhYCQChXGCwJADMsUXpaXhwlJhU1ABcvEDQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1687,7 +1687,7 @@ https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire437388312196
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="zee-action" tvg-name="ZEE Action [2]" tvg-logo="https://i.postimg.cc/g2Dpt7G6/Hridoy-TV-channel-(7).webp" group-title="Pinned",ZEE Action [2]
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCAcbEDsYfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ8SlhSW0oqJScEEQYWSWFWSkNXWFxVBgNMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPXARAOQkNMHkeMCASBF0_NzAUMFQIUjN2QFZlJiArHjsPNS8pEi41AjU2BhkVVTU0NGJdSAE9HT8vK1Q2LwILWisMPBYLRzYGKCVWflN8fxwZLBxXOxU
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCAcbEDsYfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ9QlpWXEEqJScEEQYWSWFWSkNXVl1TAQhMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPdCJDPElePz0EJSE7HgoWFDZBRyEEMitgaQRfPhccIxkRPAADACklNyUgBjQKBQ4wCW1BRFwaHj0JJiEcAzcCVwpTHw8LHCQqDC4NWmRleTkoECc2OgU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1699,7 +1699,7 @@ https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire437388312196
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="zee-action" tvg-name="ZEE Action [2]" tvg-logo="https://i.postimg.cc/g2Dpt7G6/Hridoy-TV-channel-(7).webp" group-title="Movies",ZEE Action [2]
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCAcbEDsYfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ8SlhSW0oqJScEEQYWSWFWSkNXWFxVBgNMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPXARAOQkNMHkeMCASBF0_NzAUMFQIUjN2QFZlJiArHjsPNS8pEi41AjU2BhkVVTU0NGJdSAE9HT8vK1Q2LwILWisMPBYLRzYGKCVWflN8fxwZLBxXOxU
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCAcbEDsYfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ9QlpWXEEqJScEEQYWSWFWSkNXVl1TAQhMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPdCJDPElePz0EJSE7HgoWFDZBRyEEMitgaQRfPhccIxkRPAADACklNyUgBjQKBQ4wCW1BRFwaHj0JJiEcAzcCVwpTHw8LHCQqDC4NWmRleTkoECc2OgU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1717,13 +1717,13 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="zee-cafe" tvg-name="Zee Cafe" tvg-logo="https://i.postimg.cc/3xBhfq3v/Hridoy-TV-channel-(9).webp" group-title="Movies",Zee Cafe
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCgUJHAseN0oTHgQNPAgAB00CVxAKD1dSLxdEBw4aPBN-EQwZABptJAsDCh0BFg8BBQ94RlFVWU1nCAARAgARB21QREpTW1NdAgQBSB0gJTQdHDIfK1gCOjdEMyk-RS8WXRJRXQtdBCURFA0UAh4wDFIGPyMCESogVl8GV2hdaGEeAQg8NRUYGx0TASMbMDEVEk4GFi4fVmd4TBFBIxQ2FAIPC1cPGSwePwg-HjoWKgh3SWhbEQYmID0SDSVjVS0INx0cNjkaLV0hEX9adFoRQD8MNS0dDx0hIR8sGmAfIBoEAQURR0JXCyI-WzQCGx1bOwYmAxNMGwYiFCBYA1NkdEJSGxw7JhUtIhcKHxQ_IhMRBxQZBVk-NWNgX0x_BwYyJD15FAo0DUs8HRgnGUcmCiMkAXxReAEmAiEXQRY3
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCgUJHAseN0oTHgQNPAgAB00CVxAKD1dSLxdEBw4aPBN-EQwZABptJAsDCh0BFg8BBQ94R1lXXUptCAARAgARB21QREpTW11cBAMLSB0gJTQdHDIfK1gCOjdEMyk-RS8WXRJRXQtdBCURFA0UAh4wDFIGPyMCESogVl8GV2hdaGEeAQg8NRUYGx0TASMbMDEVEk4GFi4fVmd4TBFBIxQ2FAIPC1cPGSwePwg-HjoWKgh3SWhbEQYmID0SDSVjVS0INx0cNjkaLV0hEX9adFoRQD8MNS0dDx0hIR8sGmAfIBoEAQURR0JXCxsEDy0GLyQEFSsvOzQ8YBEiKlpdKRN7Qn9hDwI4FhYOBkIQJAchPUIWFQc-GyolNUVaeXcxFw8HCC0YIDcXC0ciBBE3ETYEOTtTAXcAaTA0PhwnThA3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="and-pictures" tvg-name="And pictures" tvg-logo="https://i.postimg.cc/x1RQpZ9K/Hridoy-TV-channel-(10).webp" group-title="Movies",And pictures
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9TWCwCAAcbDCYTDA0HXRUYMRgfGhAbSggBRQoJLRYOAUIaNRU7AE4GCh81D042Gx8NF1dDDwd_S1lQV0hiQmUbMAYEBiQSTkJUVlRRBQgCAn4MPDYjKSYTNQwbTwQ8AlEQOy5ZKBwLR1FbcRklMxcJNhsFDQAbVAAKNiEDOjxRVVACaFsSJT8XDiEOGh8ILQQHJS4lEgcCUgEceEpWYQIIMFclCQ0bBRw7QAkfGQscGi4CPRx8XXdPEh8wECA9Bh0KNlNCKw4CCD8kKQYqV3dEf1wOHjBWOREOIhocLTYnGRkPQw0wBgMLU0RHRC1PJic8Ow08GDEuARAaI1Y5PwUcCx1BBGR7IzUtXBo8BRc_Ay8iPAQGKCQBBTcQJndgcW8uKi4MH0wkMCYCBEsMFhIMHDcZOA4CQmNEYw8bCDQ-HBZEEQI
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9TWCwCAAcbDCYTDA0HXRUYMRgfGhAbSggBRQoJLRYOAUIaNRU7AE4GCh81D042Gx8NF1dDDwd_S1lRX0pmQmEbMAYEBiQSTkJUVlRRCwkEAnoMPDYjKSYTNQwbTwQ8AlEQOy5ZKBwLR1FbcRklMxcJNhsFDQAbVAAKNiEDOjxRVVACaFsSJT8XDiEOGh8ILQQHJS4lEgcCUgEceEpWYQIIMFclCQ0bBRw7QAkfGQscGi4CPRx8XXdPEh8wECA9Bh0KNlNCKw4CCD8kKQYqV3dEf1wOHjBWOREOIhocLTYnGRkPQw0wBgMLU0RHRC1PK1Q9NTs4KQY2NyI3MhQFCzkhLyFRSVFmIh4lVQENeRUxPDUmUkIbBgEiIDk8M3dxVGUnS1ALXxU3DgYxMQAcJxsRMT9QBhQ8SwFCfXEiGlQOOwMlEhI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1741,7 +1741,7 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="axn-black" tvg-name="AXN Black" tvg-logo="https://iili.io/n3bHcGt.md.jpg" group-title="Movies" tvg-isnew="true",AXN Black
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZsBggFAXtcBFcaQWszYn5jb29mUFREUUd5JB0EHRdiLl1AaAMJVw5xQV1dDR9hNWl2ZW5sZgBbQFYXaGJBCh1Lay4DHToHAwIGcBNbVF9AbWE7LGU1bzUDBhRREmtmRQ&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZsBggFAXtcBFcaQWszYn5jb29mXVJBV0F5JB0EHRdifFNBaAtRUVR7SwxdCR01Nz17NWNmNwZRQlNEZ2dHXh4YbClVSmoHB1dQLEZeB1tPMG5pemRnaGtXBURWEGZnRA&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1801,85 +1801,85 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="hungama" tvg-name="Hungama" tvg-logo="https://i.postimg.cc/63M74wKX/In-Shot-20260722-230736763.jpg" group-title="Pinned",Hungama
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBwAGDnhcBFcaQWszYn5jb29mUFREUUd5JB0EHRdielxAawpRA1J8R1AFWUhtYG95bDBpMAYCFl0XOmlAWhtKaCkHQGkFVVQCcEEKVl5MZ2c8eWRhPWdWVkRWQGdnRA&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBwAGDnhcBFcaQWszYn5jb29mXVJBV0F5JB0EHRdifFNLPgRRClN7QlhdWxg2YDx3MDI8ZQFWEQEQPWZFXExBZ3kGSz0BVQYOLRMPAFZPZm9teTVla2pTURQEEDtgEA&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="hungama" tvg-name="Hungama" tvg-logo="https://i.postimg.cc/63M74wKX/In-Shot-20260722-230736763.jpg" group-title="Kids",Hungama
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBwAGDnhcBFcaQWszYn5jb29mUFREUUd5JB0EHRdielxAawpRA1J8R1AFWUhtYG95bDBpMAYCFl0XOmlAWhtKaCkHQGkFVVQCcEEKVl5MZ2c8eWRhPWdWVkRWQGdnRA&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBwAGDnhcBFcaQWszYn5jb29mXVJBV0F5JB0EHRdifFNLPgRRClN7QlhdWxg2YDx3MDI8ZQFWEQEQPWZFXExBZ3kGSz0BVQYOLRMPAFZPZm9teTVla2pTURQEEDtgEA&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="nickelodeon-" tvg-name="Nickelodeon 🔥" tvg-logo="https://iili.io/CpgdfYN.md.webp" group-title="Pinned",Nickelodeon 🔥
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtAQgHBHFcBFcaQWszYn5jb29mUFREUUd5JB0EHRdiflNLaAUGAAIsRF8BDkk2M216ZGBpa1xaFABAbWJBXRtAOylcQTxRUwUDfEFeUg4dZjQ-LW0zZ2QDUUFRQGpnRg&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtAQgHBHFcBFcaQWszYn5jb29mXVJBV0F5JB0EHRdifgBKPVEBVwZ6RgtcWB8wYGd2Z29qa1ZUQ1FNajMXDUxJai8BG2lTAAEHfRAPVVhObDc7K2QzPmQAAkVVQWdjFA&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="nickelodeon-" tvg-name="Nickelodeon 🔥" tvg-logo="https://iili.io/CpgdfYN.md.webp" group-title="Kids",Nickelodeon 🔥
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtAQgHBHFcBFcaQWszYn5jb29mUFREUUd5JB0EHRdiflNLaAUGAAIsRF8BDkk2M216ZGBpa1xaFABAbWJBXRtAOylcQTxRUwUDfEFeUg4dZjQ-LW0zZ2QDUUFRQGpnRg&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZtAQgHBHFcBFcaQWszYn5jb29mXVJBV0F5JB0EHRdifgBKPVEBVwZ6RgtcWB8wYGd2Z29qa1ZUQ1FNajMXDUxJai8BG2lTAAEHfRAPVVhObDc7K2QzPmQAAkVVQWdjFA&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-yay" tvg-name="Sony Yay" tvg-logo="https://i.postimg.cc/KzWhg9TZ/Hridoy-TV-cartoon-(8).webp" group-title="Pinned",Sony Yay
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLEAUWViQaMhwPGxYAfgxABltQAQFVVR9VKREBAUINOx02C143HQQ5ExYAXl5TXAIECgd-RlkaPA01BCcWXkNSTWBVREtTW1QbZ2J-ZjoXDw0XRDU-AVUAOihCHBhKBAACXQ5-Z0pGKh8_DAwQZQIJMjECPCdlURFBOQI-MmRDU24SHiUJIQ82Jy0hAgYESTUYOQkHOC4fawN4RhEfPx03SzgdGg8MGygZCRg9HiYWPghrRH1yGhkwN19JGgwBDC8lLx0eUzYHLgUiCWsCZF4SJiAdIT0WGxoLUww2HTcPEgcWHQFYBwN-fiExAFYiTjBDESYHCg4WIRURQQsmUhwKYUpXGSsaFVwWLT0mHTEdBgcGMUIgJRk2UVx6eXoxNh4rPUwnWwQTOSYIM2UgSjsIDTcrfEdDAjEkKgM
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLEAUWViQaMhwPGxYAfgxABltQAQFVVR9VKREBAUINOx02C143HQQ5ExYAXl5TXAIFAgV6QVwaPA01BCcWXkNSTWBVSkpVXFEbZ2J-ZjoXDw0XRDU-AVUAOihCHBhKBAACXQ5-Z0pGKh8_DAwQZQIJMjECPCdlURFBOQI-MmRDU24SHiUJIQ82Jy0hAgYESTUYOQkHOC4fawN4RhEfPx03SzgdGg8MGygZCRg9HiYWPghrRH1yGhkwN19JGgwBDC8lLx0eUzYHLgUiCWsCZF4SJiAdIT0WGxoLUww2HTcPEgcWHQFYS2UDZng6AlEmNxAXOlwSCgEdKFAdCS8ZNFBBAAdUBCYHFy5OEiB-Vw09JAAfJRQ6VQ4NAmRJVWEeAF48FQ05IGcvEDcoOjdMEj4vMDc1C0UDVA4wLQM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-yay" tvg-name="Sony Yay" tvg-logo="https://i.postimg.cc/KzWhg9TZ/Hridoy-TV-cartoon-(8).webp" group-title="Kids",Sony Yay
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLEAUWViQaMhwPGxYAfgxABltQAQFVVR9VKREBAUINOx02C143HQQ5ExYAXl5TXAIECgd-RlkaPA01BCcWXkNSTWBVREtTW1QbZ2J-ZjoXDw0XRDU-AVUAOihCHBhKBAACXQ5-Z0pGKh8_DAwQZQIJMjECPCdlURFBOQI-MmRDU24SHiUJIQ82Jy0hAgYESTUYOQkHOC4fawN4RhEfPx03SzgdGg8MGygZCRg9HiYWPghrRH1yGhkwN19JGgwBDC8lLx0eUzYHLgUiCWsCZF4SJiAdIT0WGxoLUww2HTcPEgcWHQFYBwN-fiExAFYiTjBDESYHCg4WIRURQQsmUhwKYUpXGSsaFVwWLT0mHTEdBgcGMUIgJRk2UVx6eXoxNh4rPUwnWwQTOSYIM2UgSjsIDTcrfEdDAjEkKgM
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLEAUWViQaMhwPGxYAfgxABltQAQFVVR9VKREBAUINOx02C143HQQ5ExYAXl5TXAIFAgV6QVwaPA01BCcWXkNSTWBVSkpVXFEbZ2J-ZjoXDw0XRDU-AVUAOihCHBhKBAACXQ5-Z0pGKh8_DAwQZQIJMjECPCdlURFBOQI-MmRDU24SHiUJIQ82Jy0hAgYESTUYOQkHOC4fawN4RhEfPx03SzgdGg8MGygZCRg9HiYWPghrRH1yGhkwN19JGgwBDC8lLx0eUzYHLgUiCWsCZF4SJiAdIT0WGxoLUww2HTcPEgcWHQFYS2UDZng6AlEmNxAXOlwSCgEdKFAdCS8ZNFBBAAdUBCYHFy5OEiB-Vw09JAAfJRQ6VQ4NAmRJVWEeAF48FQ05IGcvEDcoOjdMEj4vMDc1C0UDVA4wLQM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network [1]" tvg-logo="https://i.postimg.cc/0Q41JtSP/Hridoy-TV-cartoon-(7).webp" group-title="Pinned",Cartoon Network [1]
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9RVzoGBgsBJjoTJxIMAA4rOAVcAw8OHQlbQ0YYJUEcXFAcMBE2SAATBhw1TAccCAoKWHdIQl86FxpZXk5tRmddUkRWTS4yBxIRGxdYAwcLBnxFUVRcQCojASkzAAASORlOEis9VAZ6fQR6MUseBwJAPzoEHRMQCCI4AhpCFzUzN0JpYQN4EFs-AiMDICAEOygJOD0vBREyESAERlEPUzE4EwA4My4vYC8TKwgiKTlBHwgmDgpbfV9vMTwEIRYjOS8nKicgDi0DUUM9GT0NKWV6W3h6Nx0pBT84L2EzCygxPSkvNzEOJgpVTGNbUSYTHREdHGkaNz8wOSguNSwYHDsDKDRRYFlmBxoiIQFLYAcwUQomLURkEEEgIVwKSGoCemkcHjhVFzQVEmodJj8rIAYLShdQJzIBfAhIfjElOxACMD0MZA0uNjo3AQ
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9RVzoGBgsBJjoTJxIMAA4rOAVcAw8OHQlbQ0YYJUEcXFAcMBE2SAATBhw1TAccCAoKWHdIQl86FxpZXk5tRmZVUEBWQC4yBxIRGxdYAwcLBnxLUFJcTSojASkzAAASORlOEis9VAZ6fQR6MUseBwJAPzoEHRMQCCI4AhpCFzUzN0JpYQN4EFs-AiMDICAEOygJOD0vBREyESAERlEPUzE4EwA4My4vYC8TKwgiKTlBHwgmDgpbfV9vMTwEIRYjOS8nKicgDi0DUUM9GT0NKWV6W3h6Nx0pBT84L2EzCygxPSkvNzEOJgpVTGNbUSYTHREdHGkYKiROCCIaN1AZOgUoM1ZdZnZkERwFAVoPFkUSUCITJDwjOSxHGSJdL2JeZWEOGDxUOEwcFSASBxsqLRYvPUMlXiYEYlRmUCc8UDIBEj0VCyA5FlwwNw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network [2]" tvg-logo="https://i.postimg.cc/0Q41JtSP/Hridoy-TV-cartoon-(7).webp" group-title="Pinned",Cartoon Network [2]
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9RVzoGBgsBJjoTJxIMAA4rIwVcAw8OHQlbQ0YYJUEcXFAcMBE2SAATBhw1TAccCAoKWHdIQl86FxpZXk5tRmddUkRRRC4yBxIRGxdYAwcLBnxFUVRbSSojASkzAAASORlOEis9VAZ6fQR6MUseBwJAPzoEHRMQCCI4AhpCFzUzN0JpYQN4EFs-AiMDICAEOygJOD0vBREyESAERlEPUzE4EwA4My4vYC8TKwgiKTlBHwgmDgpbfV9vMTwEIRYjOS8nKicgDi0DUUM9GT0NKWV6W3h6Nx0pBT84L2EzCygxPSkvNzEOJgpVTGNbUSYTHREdHGlDYCkrGyYdYixEF1YtJwFKW1BHPBBbDCZPLU4CHQIjPAchUhwKKBocN11TQWAYQzoiGStgGBkuLwshAx8zRgBOOBI_Zl11AwlLIQ8NKho4JBRXCzM3Nw
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9RVzoGBgsBJjoTJxIMAA4rIwVcAw8OHQlbQ0YYJUEcXFAcMBE2SAATBhw1TAccCAoKWHdIQl86FxpZXk5tRmZVUEBWQC4yBxIRGxdYAwcLBnxLUFJcTSojASkzAAASORlOEis9VAZ6fQR6MUseBwJAPzoEHRMQCCI4AhpCFzUzN0JpYQN4EFs-AiMDICAEOygJOD0vBREyESAERlEPUzE4EwA4My4vYC8TKwgiKTlBHwgmDgpbfV9vMTwEIRYjOS8nKicgDi0DUUM9GT0NKWV6W3h6Nx0pBT84L2EzCygxPSkvNzEOJgpVTGNbUSYTHREdHGkYKiROCCIaN1AZOgUoM1ZdZnZkERwFAVoPFkUSUCITJDwjOSxHGSJdL2JeZWEOGDxUOEwcFSASBxsqLRYvPUMlXiYEYlRmUCc8UDIBEj0VCyA5FlwwNw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network [1]" tvg-logo="https://i.postimg.cc/0Q41JtSP/Hridoy-TV-cartoon-(7).webp" group-title="Kids",Cartoon Network [1]
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9RVzoGBgsBJjoTJxIMAA4rOAVcAw8OHQlbQ0YYJUEcXFAcMBE2SAATBhw1TAccCAoKWHdIQl86FxpZXk5tRmddUkRWTS4yBxIRGxdYAwcLBnxFUVRcQCojASkzAAASORlOEis9VAZ6fQR6MUseBwJAPzoEHRMQCCI4AhpCFzUzN0JpYQN4EFs-AiMDICAEOygJOD0vBREyESAERlEPUzE4EwA4My4vYC8TKwgiKTlBHwgmDgpbfV9vMTwEIRYjOS8nKicgDi0DUUM9GT0NKWV6W3h6Nx0pBT84L2EzCygxPSkvNzEOJgpVTGNbUSYTHREdHGkaNz8wOSguNSwYHDsDKDRRYFlmBxoiIQFLYAcwUQomLURkEEEgIVwKSGoCemkcHjhVFzQVEmodJj8rIAYLShdQJzIBfAhIfjElOxACMD0MZA0uNjo3AQ
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9RVzoGBgsBJjoTJxIMAA4rOAVcAw8OHQlbQ0YYJUEcXFAcMBE2SAATBhw1TAccCAoKWHdIQl86FxpZXk5tRmZVUEBWQC4yBxIRGxdYAwcLBnxLUFJcTSojASkzAAASORlOEis9VAZ6fQR6MUseBwJAPzoEHRMQCCI4AhpCFzUzN0JpYQN4EFs-AiMDICAEOygJOD0vBREyESAERlEPUzE4EwA4My4vYC8TKwgiKTlBHwgmDgpbfV9vMTwEIRYjOS8nKicgDi0DUUM9GT0NKWV6W3h6Nx0pBT84L2EzCygxPSkvNzEOJgpVTGNbUSYTHREdHGkYKiROCCIaN1AZOgUoM1ZdZnZkERwFAVoPFkUSUCITJDwjOSxHGSJdL2JeZWEOGDxUOEwcFSASBxsqLRYvPUMlXiYEYlRmUCc8UDIBEj0VCyA5FlwwNw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network [2]" tvg-logo="https://i.postimg.cc/0Q41JtSP/Hridoy-TV-cartoon-(7).webp" group-title="Kids",Cartoon Network [2]
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9RVzoGBgsBJjoTJxIMAA4rIwVcAw8OHQlbQ0YYJUEcXFAcMBE2SAATBhw1TAccCAoKWHdIQl86FxpZXk5tRmddUkRRRC4yBxIRGxdYAwcLBnxFUVRbSSojASkzAAASORlOEis9VAZ6fQR6MUseBwJAPzoEHRMQCCI4AhpCFzUzN0JpYQN4EFs-AiMDICAEOygJOD0vBREyESAERlEPUzE4EwA4My4vYC8TKwgiKTlBHwgmDgpbfV9vMTwEIRYjOS8nKicgDi0DUUM9GT0NKWV6W3h6Nx0pBT84L2EzCygxPSkvNzEOJgpVTGNbUSYTHREdHGlDYCkrGyYdYixEF1YtJwFKW1BHPBBbDCZPLU4CHQIjPAchUhwKKBocN11TQWAYQzoiGStgGBkuLwshAx8zRgBOOBI_Zl11AwlLIQ8NKho4JBRXCzM3Nw
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9RVzoGBgsBJjoTJxIMAA4rIwVcAw8OHQlbQ0YYJUEcXFAcMBE2SAATBhw1TAccCAoKWHdIQl86FxpZXk5tRmZVUEBWQC4yBxIRGxdYAwcLBnxLUFJcTSojASkzAAASORlOEis9VAZ6fQR6MUseBwJAPzoEHRMQCCI4AhpCFzUzN0JpYQN4EFs-AiMDICAEOygJOD0vBREyESAERlEPUzE4EwA4My4vYC8TKwgiKTlBHwgmDgpbfV9vMTwEIRYjOS8nKicgDi0DUUM9GT0NKWV6W3h6Nx0pBT84L2EzCygxPSkvNzEOJgpVTGNbUSYTHREdHGkYKiROCCIaN1AZOgUoM1ZdZnZkERwFAVoPFkUSUCITJDwjOSxHGSJdL2JeZWEOGDxUOEwcFSASBxsqLRYvPUMlXiYEYlRmUCc8UDIBEj0VCyA5FlwwNw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="cartoon-network-hd" tvg-name="Cartoon Network HD+" tvg-logo="https://i.postimg.cc/brTzQ5wx/Hridoy-TV-HD-channel-(4).webp" group-title="Pinned",Cartoon Network HD+
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9RVzoGBgsBJjoTJxIMAA4rOAVcAw8OHQlbQ0YYJUEcXFAcMBE2SAATBhw1TAccCAoKWHdIQl86FxpZXk5tRmddUkRWTS4yBxIRGxdYAwcLBnxFUVRcQCojASkzAAASORlOEis9VAZ6fQR6MUseBwJAPzoEHRMQCCI4AhpCFzUzN0JpYQN4EFs-AiMDICAEOygJOD0vBREyESAERlEPUzE4EwA4My4vYC8TKwgiKTlBHwgmDgpbfV9vMTwEIRYjOS8nKicgDi0DUUM9GT0NKWV6W3h6Nx0pBT84L2EzCygxPSkvNzEOJgpVTGNbUSYTHREdHGkaNz8wOSguNSwYHDsDKDRRYFlmBxoiIQFLYAcwUQomLURkEEEgIVwKSGoCemkcHjhVFzQVEmodJj8rIAYLShdQJzIBfAhIfjElOxACMD0MZA0uNjo3AQ
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9RVzoGBgsBJjoTJxIMAA4rOAVcAw8OHQlbQ0YYJUEcXFAcMBE2SAATBhw1TAccCAoKWHdIQl86FxpZXk5tRmZVUEBWQC4yBxIRGxdYAwcLBnxLUFJcTSojASkzAAASORlOEis9VAZ6fQR6MUseBwJAPzoEHRMQCCI4AhpCFzUzN0JpYQN4EFs-AiMDICAEOygJOD0vBREyESAERlEPUzE4EwA4My4vYC8TKwgiKTlBHwgmDgpbfV9vMTwEIRYjOS8nKicgDi0DUUM9GT0NKWV6W3h6Nx0pBT84L2EzCygxPSkvNzEOJgpVTGNbUSYTHREdHGkYKiROCCIaN1AZOgUoM1ZdZnZkERwFAVoPFkUSUCITJDwjOSxHGSJdL2JeZWEOGDxUOEwcFSASBxsqLRYvPUMlXiYEYlRmUCc8UDIBEj0VCyA5FlwwNw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="cartoon-network-hd" tvg-name="Cartoon Network HD+" tvg-logo="https://i.postimg.cc/brTzQ5wx/Hridoy-TV-HD-channel-(4).webp" group-title="Kids",Cartoon Network HD+
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9RVzoGBgsBJjoTJxIMAA4rOAVcAw8OHQlbQ0YYJUEcXFAcMBE2SAATBhw1TAccCAoKWHdIQl86FxpZXk5tRmddUkRWTS4yBxIRGxdYAwcLBnxFUVRcQCojASkzAAASORlOEis9VAZ6fQR6MUseBwJAPzoEHRMQCCI4AhpCFzUzN0JpYQN4EFs-AiMDICAEOygJOD0vBREyESAERlEPUzE4EwA4My4vYC8TKwgiKTlBHwgmDgpbfV9vMTwEIRYjOS8nKicgDi0DUUM9GT0NKWV6W3h6Nx0pBT84L2EzCygxPSkvNzEOJgpVTGNbUSYTHREdHGkaNz8wOSguNSwYHDsDKDRRYFlmBxoiIQFLYAcwUQomLURkEEEgIVwKSGoCemkcHjhVFzQVEmodJj8rIAYLShdQJzIBfAhIfjElOxACMD0MZA0uNjo3AQ
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9RVzoGBgsBJjoTJxIMAA4rOAVcAw8OHQlbQ0YYJUEcXFAcMBE2SAATBhw1TAccCAoKWHdIQl86FxpZXk5tRmZVUEBWQC4yBxIRGxdYAwcLBnxLUFJcTSojASkzAAASORlOEis9VAZ6fQR6MUseBwJAPzoEHRMQCCI4AhpCFzUzN0JpYQN4EFs-AiMDICAEOygJOD0vBREyESAERlEPUzE4EwA4My4vYC8TKwgiKTlBHwgmDgpbfV9vMTwEIRYjOS8nKicgDi0DUUM9GT0NKWV6W3h6Nx0pBT84L2EzCygxPSkvNzEOJgpVTGNbUSYTHREdHGkYKiROCCIaN1AZOgUoM1ZdZnZkERwFAVoPFkUSUCITJDwjOSxHGSJdL2JeZWEOGDxUOEwcFSASBxsqLRYvPUMlXiYEYlRmUCc8UDIBEj0VCyA5FlwwNw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney channel" tvg-logo="https://i.postimg.cc/KzkJZV7Z/Hridoy-TV-new-channel-(16).webp" group-title="Pinned",Disney channel
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHA3lcBFcaQWszYn5jb29mUFREUUd5JB0EHRdielVAOgoGClR8QQhdC01sZm13YmJvZwcFEwBBbDMTCk8fa3sHHG8HUgUGKRddVgpMN2Fud2JlbmYABkFdEWphRA&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHA3lcBFcaQWszYn5jb29mXVJBV0F5JB0EHRdieAFPbQEBBVN6QVkFWkg2b2p9MDBqYVAHEAEWbDIWWhpMPnxXTmcLAQNTKRZeXQpJMjNtdjBjOTFcBRQEF2o2Qg&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-name="Disney channel" tvg-logo="https://i.postimg.cc/KzkJZV7Z/Hridoy-TV-new-channel-(16).webp" group-title="Kids",Disney channel
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHA3lcBFcaQWszYn5jb29mUFREUUd5JB0EHRdielVAOgoGClR8QQhdC01sZm13YmJvZwcFEwBBbDMTCk8fa3sHHG8HUgUGKRddVgpMN2Fud2JlbmYABkFdEWphRA&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBAcHA3lcBFcaQWszYn5jb29mXVJBV0F5JB0EHRdieAFPbQEBBVN6QVkFWkg2b2p9MDBqYVAHEAEWbDIWWhpMPnxXTmcLAQNTKRZeXQpJMjNtdjBjOTFcBRQEF2o2Qg&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1897,37 +1897,37 @@ http://202.70.146.135:8000/play/a01q/index.m3u8
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="disney-jr-hindi" tvg-name="Disney Jr. Hindi" tvg-logo="https://i.postimg.cc/7PQsGpKF/Hridoy-TV-pro-(17).webp" group-title="Pinned",Disney Jr. Hindi
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBwMDAX1cBFcaQWszYn5jb29mUFREUUd5JB0EHRdiKlVMZgMEVFN9EwxWXRtlNz4sNmRtZQZRQF1AO2BCXRxNbS9RHT0BVlQCeEtQAVZKZzNoKm0zZ2dWWxBREWthRQ&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBwMDAX1cBFcaQWszYn5jb29mXVJBV0F5JB0EHRdieFUfb1cFVFMuFFkFXU1hZml7ZWZvYlNVFFUSPDVKXxlJOnsGH2xUCQtXKkpQVFtBYzdoKmU3aGVWV0tdETwxFg&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="disney-jr-hindi" tvg-name="Disney Jr. Hindi" tvg-logo="https://i.postimg.cc/7PQsGpKF/Hridoy-TV-pro-(17).webp" group-title="Kids",Disney Jr. Hindi
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBwMDAX1cBFcaQWszYn5jb29mUFREUUd5JB0EHRdiKlVMZgMEVFN9EwxWXRtlNz4sNmRtZQZRQF1AO2BCXRxNbS9RHT0BVlQCeEtQAVZKZzNoKm0zZ2dWWxBREWthRQ&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZuBwMDAX1cBFcaQWszYn5jb29mXVJBV0F5JB0EHRdieFUfb1cFVFMuFFkFXU1hZml7ZWZvYlNVFFUSPDVKXxlJOnsGH2xUCQtXKkpQVFtBYzdoKmU3aGVWV0tdETwxFg&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="discovery-kids" tvg-name="Discovery Kids" tvg-logo="https://i.postimg.cc/76RrTBzZ/Hridoy-TV-cartoon-(9).webp" group-title="Pinned",Discovery Kids
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pOAwHAUoEPAAKHwocEEtfA0cOdxcNAwpUNxcwDQZfERs7BB1OJhcUDEBVQQt5RVBUW0FlQGdVHSERFSIVAE5SWF1VBgcKBnxCFzE9NQQENgMKClgVGDNDECsiUilLCUVVJUsCKDgBJBQ-MwsRDEUkOyQhEzY3UAJSAGwlKD4yHBgMLD8pDjwTFgEfNxIXDlkAS3pIUh84Ez1cMyQvPjMaKlcYOygZHAoiCTxLfl9zMSgEPRs2ECQ4PDBCVToqMxo_NCUNKwB1RnsiNAU9XS88LAcsGjwhNj0oHUMdPA0CXFFGQzoXVFFcNRwfEAxRP1IQZSMwFxsEBhRGUgBeAUQQXD4BNScKFhJBCg0bFAshDAwXM2IBYXA-IF0KJTIYDxcSLCBQB302BSk3AiNQcwl6XSohJyoYCGAPBSYE
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pOAwHAUoEPAAKHwocEEtfA0cOdxcNAwpUNxcwDQZfERs7BB1OJhcUDEBVQQt5RVBUWklnRGBRHSERFSIVAE5SWF1VBgkLAHtGFzE9NQQENgMKClgVGDNDECsiUilLCUVVJUsCKDgBJBQ-MwsRDEUkOyQhEzY3UAJSAGwlKD4yHBgMLD8pDjwTFgEfNxIXDlkAS3pIUh84Ez1cMyQvPjMaKlcYOygZHAoiCTxLfl9zMSgEPRs2ECQ4PDBCVToqMxo_NCUNKwB1RnsiNAU9XS88LAcsGjwhNj0oHUMdPA0CXFFGQzoXVAoWOHkMFAsEQw89NiYkQAw5IDdrXl5TfQQrVy5MFRcSLRAqOkAqLEo5MwEzMnRaZwYfRyEHHA4wHxw8JTwrRBZQMRIzCzADXX4LYCYZAAc3PA4SaiEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="discovery-kids" tvg-name="Discovery Kids" tvg-logo="https://i.postimg.cc/76RrTBzZ/Hridoy-TV-cartoon-(9).webp" group-title="Kids",Discovery Kids
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pOAwHAUoEPAAKHwocEEtfA0cOdxcNAwpUNxcwDQZfERs7BB1OJhcUDEBVQQt5RVBUW0FlQGdVHSERFSIVAE5SWF1VBgcKBnxCFzE9NQQENgMKClgVGDNDECsiUilLCUVVJUsCKDgBJBQ-MwsRDEUkOyQhEzY3UAJSAGwlKD4yHBgMLD8pDjwTFgEfNxIXDlkAS3pIUh84Ez1cMyQvPjMaKlcYOygZHAoiCTxLfl9zMSgEPRs2ECQ4PDBCVToqMxo_NCUNKwB1RnsiNAU9XS88LAcsGjwhNj0oHUMdPA0CXFFGQzoXVFFcNRwfEAxRP1IQZSMwFxsEBhRGUgBeAUQQXD4BNScKFhJBCg0bFAshDAwXM2IBYXA-IF0KJTIYDxcSLCBQB302BSk3AiNQcwl6XSohJyoYCGAPBSYE
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pOAwHAUoEPAAKHwocEEtfA0cOdxcNAwpUNxcwDQZfERs7BB1OJhcUDEBVQQt5RVBUWklnRGBRHSERFSIVAE5SWF1VBgkLAHtGFzE9NQQENgMKClgVGDNDECsiUilLCUVVJUsCKDgBJBQ-MwsRDEUkOyQhEzY3UAJSAGwlKD4yHBgMLD8pDjwTFgEfNxIXDlkAS3pIUh84Ez1cMyQvPjMaKlcYOygZHAoiCTxLfl9zMSgEPRs2ECQ4PDBCVToqMxo_NCUNKwB1RnsiNAU9XS88LAcsGjwhNj0oHUMdPA0CXFFGQzoXVAoWOHkMFAsEQw89NiYkQAw5IDdrXl5TfQQrVy5MFRcSLRAqOkAqLEo5MwEzMnRaZwYfRyEHHA4wHxw8JTwrRBZQMRIzCzADXX4LYCYZAAc3PA4SaiEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="pogo" tvg-name="Pogo" tvg-logo="https://i.postimg.cc/dtkrdDbQ/pogo-hridoytv.webp" group-title="Pinned",Pogo
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9CWS8dNhcLViQaMhwPGxYAfgxABltQAQFVVR9VKREBAUINOx02C143HQQ5ExYAXl5TXAIECgd-RlkaPA01BCcWXkNSTWBVREtTW1QbZ2J-ZjoXDw0XRDU-AVUAOihCHBhKBAACXQ5-Z0pGKh8_DAwQZQIJMjECPCdlURFBOQI-MmRDU24SHiUJIQ82Jy0hAgYESTUYOQkHOC4fawN4RhEfPx03SzgdGg8MGygZCRg9HiYWPghrRH1yGhkwN19JGgwBDC8lLx0eUzYHLgUiCWsCZF4SJiAdIT0WGxoLUww2HTcPEgcWHQFYBwN-fiExAFYiTjBDESYHCg4WIRURQQsmUhwKYUpXGSsaFVwWLT0mHTEdBgcGMUIgJRk2UVx6eXoxNh4rPUwnWwQTOSYIM2UgSjsIDTcrfEdDAjEkKgM
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9CWS8dNhcLViQaMhwPGxYAfgxABltQAQFVVR9VKREBAUINOx02C143HQQ5ExYAXl5TXAIFAgV6QV0aPA01BCcWXkNSTWBVSkpVXFAbZ2J-ZjoXDw0XRDU-AVUAOihCHBhKBAACXQ5-Z0pGKh8_DAwQZQIJMjECPCdlURFBOQI-MmRDU24SHiUJIQ82Jy0hAgYESTUYOQkHOC4fawN4RhEfPx03SzgdGg8MGygZCRg9HiYWPghrRH1yGhkwN19JGgwBDC8lLx0eUzYHLgUiCWsCZF4SJiAdIT0WGxoLUww2HTcPEgcWHQFYXElzGzI1BwNeEx0QFDJQHTMwAjgdHwZaEicBcQd3KTMhFzcmYAweXCkiCyMHJxkmUzhRLVFDRVIhPTAiITdkMGInAiIBIDYOPUo1AQ8MUWh3bCxLLQM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="pogo" tvg-name="Pogo" tvg-logo="https://i.postimg.cc/dtkrdDbQ/pogo-hridoytv.webp" group-title="Kids",Pogo
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9CWS8dNhcLViQaMhwPGxYAfgxABltQAQFVVR9VKREBAUINOx02C143HQQ5ExYAXl5TXAIECgd-RlkaPA01BCcWXkNSTWBVREtTW1QbZ2J-ZjoXDw0XRDU-AVUAOihCHBhKBAACXQ5-Z0pGKh8_DAwQZQIJMjECPCdlURFBOQI-MmRDU24SHiUJIQ82Jy0hAgYESTUYOQkHOC4fawN4RhEfPx03SzgdGg8MGygZCRg9HiYWPghrRH1yGhkwN19JGgwBDC8lLx0eUzYHLgUiCWsCZF4SJiAdIT0WGxoLUww2HTcPEgcWHQFYBwN-fiExAFYiTjBDESYHCg4WIRURQQsmUhwKYUpXGSsaFVwWLT0mHTEdBgcGMUIgJRk2UVx6eXoxNh4rPUwnWwQTOSYIM2UgSjsIDTcrfEdDAjEkKgM
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9CWS8dNhcLViQaMhwPGxYAfgxABltQAQFVVR9VKREBAUINOx02C143HQQ5ExYAXl5TXAIFAgV6QV0aPA01BCcWXkNSTWBVSkpVXFAbZ2J-ZjoXDw0XRDU-AVUAOihCHBhKBAACXQ5-Z0pGKh8_DAwQZQIJMjECPCdlURFBOQI-MmRDU24SHiUJIQ82Jy0hAgYESTUYOQkHOC4fawN4RhEfPx03SzgdGg8MGygZCRg9HiYWPghrRH1yGhkwN19JGgwBDC8lLx0eUzYHLgUiCWsCZF4SJiAdIT0WGxoLUww2HTcPEgcWHQFYXElzGzI1BwNeEx0QFDJQHTMwAjgdHwZaEicBcQd3KTMhFzcmYAweXCkiCyMHJxkmUzhRLVFDRVIhPTAiITdkMGInAiIBIDYOPUo1AQ8MUWh3bCxLLQM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -2113,37 +2113,37 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-entertainment" tvg-name="Sony entertainment [1]" tvg-logo="https://i.postimg.cc/9fgftpdS/Hridoy-TV-entertainment-channel-(8).webp" group-title="Entertainment",Sony entertainment [1]
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLDAobHCYCMgwNHwsADwkXXBMDBRxeWUFCZh9aEVdGMRI0AE4RBBc4BF4HDAQBCw91SkYhAAwXUkhjT2NRW0NTQGEfIAcCHRAWDwEFD3hGXlxfTWUIBjcvIhcRNggLTgInNlVReH8ABAtQEwwUbR0fMhsCBxkGCRAaUhs-MmBAa2V9QgtWNRQOIQUWAio_GBwMPQUBPhohU0RTCy0LIx4LLh4MClYpAjwZBhgrQQ8ELQ9dWX9bEQsnCSoADhsKESw2Nx8JMkNDLRU2DH5neF8GQCwQIhMSGgpXNRo_IBkYPTchAi0LAk5hXy8cCBAaCzFLJigpE0hCEwMwBgRbCTFiZ0JhOT9ZMikhLRMpMgIkNEE9MDAVJilJIFNBW3kMRgEpKg8FLx9IDjpXPTgDNgUsHSEGZ0ADAQA6LFE2NzxOFx8LSjxMFCA
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLDAobHCYCMgwNHwsADwkXXBMDBRxeWUFCZh9aEVdGMRI0AE4RBBc4BF4HDAQBCw91SkYhAAwXUkhjT2NQU0FXR2YfIAcCHRAWDwEFD3hGUF1ZSmIIBjcvIhcRNggLTgInNlVReH8ABAtQEwwUbR0fMhsCBxkGCRAaUhs-MmBAa2V9QgtWNRQOIQUWAio_GBwMPQUBPhohU0RTCy0LIx4LLh4MClYpAjwZBhgrQQ8ELQ9dWX9bEQsnCSoADhsKESw2Nx8JMkNDLRU2DH5neF8GQCwQIhMSGgpXNRo_IBkYPTchAi0LAk5hXy8cCBAaCzFLEDMqQyo1OCVeI04DNgEFUWJleQUrNxUOBxo_OhZDL0FnJCscMAsJFnVveAMNGyFWHCgtTytWJyoEICIxHhVUCg8UdWZeVQM0BC5WDDIbMBEXAjoEFDA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-entertainment" tvg-name="Sony entertainment [2]" tvg-logo="https://i.postimg.cc/9fgftpdS/Hridoy-TV-entertainment-channel-(8).webp" group-title="Entertainment",Sony entertainment [2]
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLNgEBDTEEJwQKHAgRPhVcAw8OHQlbQ0YYJUEcXFAcMBE2SAATBhw1TAccCAoKWHdIQl86FxpZXk5tRmddUkRRRi4yBxIRGxdYAwcLBnxFUVRbSyojASkzAAASORlOEis9VAZ6fQR6MUseBwJAPzoEHRMQCCI4AhpCFzUzN0JpYQN4EFs-AiMDICAEOygJOD0vBREyESAERlEPUzE4EwA4My4vYC8TKwgiKTlBHwgmDgpbfV9vMTwEIRYjOS8nKicgDi0DUUM9GT0NKWV6W3h6Nx0pBT84L2EzCygxPSkvNzEOJgpVTGNbUSYTHREdHGk_BSozJRZBCVkaASksLzV7fXxSJi0AUSVLHRAZK1c8SBw-UCsmJ1hVUh9mRH4KHzsCFj4sMRwELBEGJT8LPwUrMBYdZwJhQSEaBQVcFDUfYjoBLRQ1EQ
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLNgEBDTEEJwQKHAgRPhVcAw8OHQlbQ0YYJUEcXFAcMBE2SAATBhw1TAccCAoKWHdIQl86FxpZXk5tRmZVUEBWQi4yBxIRGxdYAwcLBnxLUFJcTyojASkzAAASORlOEis9VAZ6fQR6MUseBwJAPzoEHRMQCCI4AhpCFzUzN0JpYQN4EFs-AiMDICAEOygJOD0vBREyESAERlEPUzE4EwA4My4vYC8TKwgiKTlBHwgmDgpbfV9vMTwEIRYjOS8nKicgDi0DUUM9GT0NKWV6W3h6Nx0pBT84L2EzCygxPSkvNzEOJgpVTGNbUSYTHREdHGk1BSxSPSQcFEwjXg89AFJTYGEHPzA6HhgqOBoMEFI4UEMVORwgBwIXIm16B3MhOlsXPgBtDmAhOxMxBgAMFUQGBBUiZFxRfQ4fI10aHzkVJxETLRUwAQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-entertainment-hd" tvg-name="Sony Entertainment HD" tvg-logo="https://i.postimg.cc/PJ4tm75m/Hridoy-TV-HD-channel-(3).webp" group-title="Pinned",Sony Entertainment HD
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLDAobHCYCMgwNHwsADwkXXBMDBRxeWUFCZh9aEVdGMRI0AE4RBBc4BF4HDAQBCw91SkYhAAwXUkhjT2NRW0NTQGEfIAcCHRAWDwEFD3hGXlxfTWUIBjcvIhcRNggLTgInNlVReH8ABAtQEwwUbR0fMhsCBxkGCRAaUhs-MmBAa2V9QgtWNRQOIQUWAio_GBwMPQUBPhohU0RTCy0LIx4LLh4MClYpAjwZBhgrQQ8ELQ9dWX9bEQsnCSoADhsKESw2Nx8JMkNDLRU2DH5neF8GQCwQIhMSGgpXNRo_IBkYPTchAi0LAk5hXy8cCBAaCzFLJigpE0hCEwMwBgRbCTFiZ0JhOT9ZMikhLRMpMgIkNEE9MDAVJilJIFNBW3kMRgEpKg8FLx9IDjpXPTgDNgUsHSEGZ0ADAQA6LFE2NzxOFx8LSjxMFCA
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLDAobHCYCMgwNHwsADwkXXBMDBRxeWUFCZh9aEVdGMRI0AE4RBBc4BF4HDAQBCw91SkYhAAwXUkhjT2NQU0FXR2YfIAcCHRAWDwEFD3hGUF1ZSmIIBjcvIhcRNggLTgInNlVReH8ABAtQEwwUbR0fMhsCBxkGCRAaUhs-MmBAa2V9QgtWNRQOIQUWAio_GBwMPQUBPhohU0RTCy0LIx4LLh4MClYpAjwZBhgrQQ8ELQ9dWX9bEQsnCSoADhsKESw2Nx8JMkNDLRU2DH5neF8GQCwQIhMSGgpXNRo_IBkYPTchAi0LAk5hXy8cCBAaCzFLEDMqQyo1OCVeI04DNgEFUWJleQUrNxUOBxo_OhZDL0FnJCscMAsJFnVveAMNGyFWHCgtTytWJyoEICIxHhVUCg8UdWZeVQM0BC5WDDIbMBEXAjoEFDA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-entertainment-hd" tvg-name="Sony Entertainment HD" tvg-logo="https://i.postimg.cc/PJ4tm75m/Hridoy-TV-HD-channel-(3).webp" group-title="Entertainment",Sony Entertainment HD
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLDAobHCYCMgwNHwsADwkXXBMDBRxeWUFCZh9aEVdGMRI0AE4RBBc4BF4HDAQBCw91SkYhAAwXUkhjT2NRW0NTQGEfIAcCHRAWDwEFD3hGXlxfTWUIBjcvIhcRNggLTgInNlVReH8ABAtQEwwUbR0fMhsCBxkGCRAaUhs-MmBAa2V9QgtWNRQOIQUWAio_GBwMPQUBPhohU0RTCy0LIx4LLh4MClYpAjwZBhgrQQ8ELQ9dWX9bEQsnCSoADhsKESw2Nx8JMkNDLRU2DH5neF8GQCwQIhMSGgpXNRo_IBkYPTchAi0LAk5hXy8cCBAaCzFLJigpE0hCEwMwBgRbCTFiZ0JhOT9ZMikhLRMpMgIkNEE9MDAVJilJIFNBW3kMRgEpKg8FLx9IDjpXPTgDNgUsHSEGZ0ADAQA6LFE2NzxOFx8LSjxMFCA
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLDAobHCYCMgwNHwsADwkXXBMDBRxeWUFCZh9aEVdGMRI0AE4RBBc4BF4HDAQBCw91SkYhAAwXUkhjT2NQU0FXR2YfIAcCHRAWDwEFD3hGUF1ZSmIIBjcvIhcRNggLTgInNlVReH8ABAtQEwwUbR0fMhsCBxkGCRAaUhs-MmBAa2V9QgtWNRQOIQUWAio_GBwMPQUBPhohU0RTCy0LIx4LLh4MClYpAjwZBhgrQQ8ELQ9dWX9bEQsnCSoADhsKESw2Nx8JMkNDLRU2DH5neF8GQCwQIhMSGgpXNRo_IBkYPTchAi0LAk5hXy8cCBAaCzFLEDMqQyo1OCVeI04DNgEFUWJleQUrNxUOBxo_OhZDL0FnJCscMAsJFnVveAMNGyFWHCgtTytWJyoEICIxHhVUCg8UdWZeVQM0BC5WDDIbMBEXAjoEFDA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-sab" tvg-name="Sony Sab" tvg-logo="https://i.postimg.cc/wB4BcVXG/Hridoy-TV-entertainment-channel-(7).webp" group-title="Pinned",Sony Sab
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLGgUNJjwSfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ8SlhSW0sqJScEEQYWSWFWSkNXWFxVBgJMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPfx49OTMcTA1OOhcpMS4kGSw9Fw0wDVB4AntQAjxdKkIROkcLMCdFVEN9NwU7IQI2A0t3SnEHEyYHDCg7HB8TKy0XDAVTIAQKBwgEAV1TX3ktCzseOBU
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLGgUNJjwSfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ9QlpWXE4qJScEEQYWSWFWSkNXVl1TAQdMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPfmVDJyEwNhNCHyYJMFMVHwREBg4MUw19UWZUIhggBgIxNgNmMScWVgM8VxVLEC0vCwpBdHt8HREpPyYjEjQPASUVOxUrOitTKhYyRF50BwxCXyZdOhU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-sab" tvg-name="Sony Sab" tvg-logo="https://i.postimg.cc/wB4BcVXG/Hridoy-TV-entertainment-channel-(7).webp" group-title="Entertainment",Sony Sab
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLGgUNJjwSfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ8SlhSW0sqJScEEQYWSWFWSkNXWFxVBgJMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPfx49OTMcTA1OOhcpMS4kGSw9Fw0wDVB4AntQAjxdKkIROkcLMCdFVEN9NwU7IQI2A0t3SnEHEyYHDCg7HB8TKy0XDAVTIAQKBwgEAV1TX3ktCzseOBU
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLGgUNJjwSfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ9QlpWXE4qJScEEQYWSWFWSkNXVl1TAQdMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPfmVDJyEwNhNCHyYJMFMVHwREBg4MUw19UWZUIhggBgIxNgNmMScWVgM8VxVLEC0vCwpBdHt8HREpPyYjEjQPASUVOxUrOitTKhYyRF50BwxCXyZdOhU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -2167,13 +2167,13 @@ https://pro.hellohridoy.workers.dev/link-copy-kore-lav-nai=expire43738831219634/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="colors-hd" tvg-name="Colors HD" tvg-logo="https://i.postimg.cc/sDQnpw8P/Hridoy-TV-pro-(33).webp" group-title="Pinned",Colors HD
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZpBAEEAWYfWhFXRjFrbnhtZmpmUlVGVlIrPxkKFkRqeFFNaQMHBA4sFFpdCUswbmcsNmc6a1EBF1BCPGRGWBwcaX5XTj0EBwoALENRU1YfMDRrfjVkbGZSBxFWTDkx&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZpBAEEAWYfWhFXRjFrbnhtZmprVFBAUFIrPxkKFkQ5L1JJawsJBQV8E1EACRxgMz19MmNtawNVRQRAPWYQVx0caHlUSjsEVQRSLUoKUltIYGNod2JnZmYHWxBSFzti&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="colors-hd" tvg-name="Colors HD" tvg-logo="https://i.postimg.cc/sDQnpw8P/Hridoy-TV-pro-(33).webp" group-title="Entertainment",Colors HD
-https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZpBAEEAWYfWhFXRjFrbnhtZmpmUlVGVlIrPxkKFkRqeFFNaQMHBA4sFFpdCUswbmcsNmc6a1EBF1BCPGRGWBwcaX5XTj0EBwoALENRU1YfMDRrfjVkbGZSBxFWTDkx&expire=47753355654
+https://otv.hridoytv-engine.workers.dev/?d=IAYdFFVWezsnIDo6NiUATQocDnA8GxkdVicqFVZpBAEEAWYfWhFXRjFrbnhtZmprVFBAUFIrPxkKFkQ5L1JJawsJBQV8E1EACRxgMz19MmNtawNVRQRAPWYQVx0caHlUSjsEVQRSLUoKUltIYGNod2JnZmYHWxBSFzti&expire=47753355654
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -2197,19 +2197,19 @@ https://pro.hellohridoy.workers.dev/link-copy-kore-lav-nai=expire43738831219634/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="zee-tv" tvg-name="Zee TV" tvg-logo="https://i.postimg.cc/pdcdYZfc/Hridoy-TV-entertainment-channel-(6).webp" group-title="Pinned",Zee TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tHRIwETBZIwkCCwkdIxVdHlAaXFpXVFVTZREIBwcceQI8DgYcWDEoERoBBhxZVAUJAgJwQ19QXQcHAjIXFwFYRWdYQ0dUV1RRAE5nZAQiGwEJECxLMi0xQgY8HVc_CloYBwgLW35hMAILCTkRNx9iETklNwQJMkZDAV0-CGhnZEUpKjMIIxQaADE0HTYEADFcFgopFQAyeEprBQICMAk5AAxEPw4qGAodHQwqCi0CIRxoXWtCBzY7DzYqZEYdHzEbKSMaCD1BJhspD3RcawQeGjMwJgAaMhEIKhxVCgMIFB0CGxEXVw17YAciPhdaIGwfIS8gOTU9HS8XHTwGUS8AeVR8BkYnSQcXZS4GIVRDUlkGFzsxDj0CHHVIdXkpPQoHPhY-OiUtPAAdIWIyBBoLAwVWX1FbBxcQNhUuOA
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tHRIwETBZIwkCCwkdIxVdHlAaXFpXVFVTZREIBwcceQI8DgYcWDEoERoBBhxZVAUJAgN4QVtXWAcHAjIXFwFYRWdYQ0daVlJWBU5nZAQiGwEJECxLMi0xQgY8HVc_CloYBwgLW35hMAILCTkRNx9iETklNwQJMkZDAV0-CGhnZEUpKjMIIxQaADE0HTYEADFcFgopFQAyeEprBQICMAk5AAxEPw4qGAodHQwqCi0CIRxoXWtCBzY7DzYqZEYdHzEbKSMaCD1BJhspD3RcawQeGjMwJgAaMhEIKhxVCgMIFB0CGxEXVw16G3k8LDsgPmA6EA8hRAQ7NVYGHgBYDCpTZFBcIjsLCScbIUMHIQdBEhhmB0sAISQKXUN2fwInCiQ0MA4wETkHNAIqMRooK0MmHTMTXHYDcnhEK1YsOA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="zee-tv" tvg-name="Zee TV" tvg-logo="https://i.postimg.cc/pdcdYZfc/Hridoy-TV-entertainment-channel-(6).webp" group-title="Entertainment",Zee TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tHRIwETBZIwkCCwkdIxVdHlAaXFpXVFVTZREIBwcceQI8DgYcWDEoERoBBhxZVAUJAgJwQ19QXQcHAjIXFwFYRWdYQ0dUV1RRAE5nZAQiGwEJECxLMi0xQgY8HVc_CloYBwgLW35hMAILCTkRNx9iETklNwQJMkZDAV0-CGhnZEUpKjMIIxQaADE0HTYEADFcFgopFQAyeEprBQICMAk5AAxEPw4qGAodHQwqCi0CIRxoXWtCBzY7DzYqZEYdHzEbKSMaCD1BJhspD3RcawQeGjMwJgAaMhEIKhxVCgMIFB0CGxEXVw17YAciPhdaIGwfIS8gOTU9HS8XHTwGUS8AeVR8BkYnSQcXZS4GIVRDUlkGFzsxDj0CHHVIdXkpPQoHPhY-OiUtPAAdIWIyBBoLAwVWX1FbBxcQNhUuOA
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tHRIwETBZIwkCCwkdIxVdHlAaXFpXVFVTZREIBwcceQI8DgYcWDEoERoBBhxZVAUJAgN4QVtXWAcHAjIXFwFYRWdYQ0daVlJWBU5nZAQiGwEJECxLMi0xQgY8HVc_CloYBwgLW35hMAILCTkRNx9iETklNwQJMkZDAV0-CGhnZEUpKjMIIxQaADE0HTYEADFcFgopFQAyeEprBQICMAk5AAxEPw4qGAodHQwqCi0CIRxoXWtCBzY7DzYqZEYdHzEbKSMaCD1BJhspD3RcawQeGjMwJgAaMhEIKhxVCgMIFB0CGxEXVw16G3k8LDsgPmA6EA8hRAQ7NVYGHgBYDCpTZFBcIjsLCScbIUMHIQdBEhhmB0sAISQKXUN2fwInCiQ0MA4wETkHNAIqMRooK0MmHTMTXHYDcnhEK1YsOA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="zee-anmol" tvg-name="Zee Anmol" tvg-logo="https://i.postimg.cc/8PLjQLGz/Hridoy-TV-entertainment-channel-(1).webp" group-title="Entertainment",Zee Anmol
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCAoCFjhZIwkCCwkdIxVdHlAaXFpXVFVTZREIBwcceQI8DgYcWDEoERoBBhxZVAUJAgJwQ19QXwcHAjIXFwFYRWdYQ0dUV1RRAk5nZAQiGwEJECxLMi0xQgY8HVc_CloYBwgLW35hMAILCTkRNx9iETklNwQJMkZDAV0-CGhnZEUpKjMIIxQaADE0HTYEADFcFgopFQAyeEprBQICMAk5AAxEPw4qGAodHQwqCi0CIRxoXWtCBzY7DzYqZEYdHzEbKSMaCD1BJhspD3RcawQeGjMwJgAaMhEIKhxVCgMIFB0CGxEXVw0HBQQ6ACcGSxlBN1AhMQEMOwMCBwFdDCwESQpnMBM4PRwIZxkqLhYKNxszEiUjUjwiE2AEXHwDPhAgGDYGQyBINAQ_ID0mRjJaJw8HYX58QTlGEDIsHg
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IUy0tCAoCFjhZIwkCCwkdIxVdHlAaXFpXVFVTZREIBwcceQI8DgYcWDEoERoBBhxZVAUJAgN4QVtXWgcHAjIXFwFYRWdYQ0daVlJWB05nZAQiGwEJECxLMi0xQgY8HVc_CloYBwgLW35hMAILCTkRNx9iETklNwQJMkZDAV0-CGhnZEUpKjMIIxQaADE0HTYEADFcFgopFQAyeEprBQICMAk5AAxEPw4qGAodHQwqCi0CIRxoXWtCBzY7DzYqZEYdHzEbKSMaCD1BJhspD3RcawQeGjMwJgAaMhEIKhxVCgMIFB0CGxEXVw1LY3kiWSwETB04FwQKSxQMNAgLQg0VKBNiBUEGfRAlMAEKFUEVM05ACzsRFTw3BCZSBFtXZE8vJT8WWCEuAj4zVzgWMR0vFF4CIig6YWALQ3kQLyYrHg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -2275,43 +2275,43 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="hum-tv" tvg-name="Hum TV" tvg-logo="https://i.postimg.cc/vmZBVjVK/Hridoy-TV-entertainment-channel-(2).webp" group-title="Entertainment",Hum TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9aQyUtHRJACTgXKgkKARFaPVIGS1wKAAJXHVFXKxoMSRsWPxM9WCYKFR0iBABOUlhdVQYIAwB8Qxc3GxgmAiBYUkVcRGRWS0NXXhowYHxiRC0UABxSGBwkYwYrP1M4KVgEEA5WDyllSEJUJSQBBwZIICwENxMrNkFgA0EpDjUzM0FRamwkPgQqGRsFCBcEFxNYESkrCRc0JR48AXpCbyUkEDxdFT8_OQoKPwgtKS8eNho1CTxGf3ZkIys6VF83LiQ6KTQ4DDpiJAc-CSkIPABmWmwcOxAqKzs5Pz1VHSEMEz4ABwYRClkQf3pTG34xCycaHmAbBzU0AjIFHVElNTsWAR9lUWRnfR84Jwk8ElsWBBIbKjBkCT42FT49KR9degQBGgshGTYmMzAwE0NSPBgkRiotB1whSFgKb3A2KA
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9aQyUtHRJACTgXKgkKARFaPVIGS1wKAAJXHVFXKxoMSRsWPxM9WCYKFR0iBABOUlhdVQcAAQR7Rxc3GxgmAiBYUkVcRGRYSkVQWhowYHxiRC0UABxSGBwkYwYrP1M4KVgEEA5WDyllSEJUJSQBBwZIICwENxMrNkFgA0EpDjUzM0FRamwkPgQqGRsFCBcEFxNYESkrCRc0JR48AXpCbyUkEDxdFT8_OQoKPwgtKS8eNho1CTxGf3ZkIys6VF83LiQ6KTQ4DDpiJAc-CSkIPABmWmwcOxAqKzs5Pz1VHSEMEz4ABwYRClkcZwFiBgAZXC0hPTUfahQbFgwMYQ8JPxU_URYCBVB6HBwaJVg_AlthCywzETsUBjpFAgYDM0tXZWA6RTEeGxQCQhkWJj8rE30APj88PDRcRwFQcAo2Dg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="hum-sitary" tvg-name="Hum Sitary" tvg-logo="https://i.postimg.cc/hGZGbrLM/Hridoy-TV-entertainment-channel-(3).webp" group-title="Entertainment",Hum Sitary
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9aQyUtGg0bGCYXKkoTHgQNPAgAB00CVxAKD1dSLxdEBw4aPBN-EQwZABptJAsDCh0BFg8BBQ94RlFVWU1lCAARAgARB21QREpTW1NdAgQDSB0gJTQdHDIfK1gCOjdEMyk-RS8WXRJRXQtdBCURFA0UAh4wDFIGPyMCESogVl8GV2hdaGEeAQg8NRUYGx0TASMbMDEVEk4GFi4fVmd4TBFBIxQ2FAIPC1cPGSwePwg-HjoWKgh3SWhbEQYmID0SDSVjVS0INx0cNjkaLV0hEX9adFoRQD8MNS0dDx0hIR8sGmAfIBoEAQURR0JXCz0_IwVCTxcUEBAERgggADYDJBIiVDN0aEtTMiUIMj5MOScQAyY0SDExEBo8J1sMKHdGY28EXwQsXTA8FBYTLAAgFwURQkQrJyFQa35aDgwIAVw2QRA3
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9aQyUtGg0bGCYXKkoTHgQNPAgAB00CVxAKD1dSLxdEBw4aPBN-EQwZABptJAsDCh0BFg8BBQ94R1lXXUpiCAARAgARB21QREpTW11cBAMESB0gJTQdHDIfK1gCOjdEMyk-RS8WXRJRXQtdBCURFA0UAh4wDFIGPyMCESogVl8GV2hdaGEeAQg8NRUYGx0TASMbMDEVEk4GFi4fVmd4TBFBIxQ2FAIPC1cPGSwePwg-HjoWKgh3SWhbEQYmID0SDSVjVS0INx0cNjkaLV0hEX9adFoRQD8MNS0dDx0hIR8sGmAfIBoEAQURR0JXCwskIFUgODwyfjVOHjcQZwAjIFIYJjZIR2FaJC0cVSVMYzMLCjAWCAcXPjlGJgYsV0FhSw8wQS08Di0mJj4DVBcOBRc3HxAoKQkvC0VUWysGHRQwCRAn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="hum-masala" tvg-name="Hum Masala" tvg-logo="https://i.postimg.cc/vm2mLzrz/Hridoy-TV-entertainment-channel-(4).webp" group-title="Pinned",Hum Masala
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9aQyUtBAUcGDgXfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ8SlhSW0gqJScEEQYWSWFWSkNXWFxVBgFMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPQwU4CElZOjY1JgJXHzEkBxEkAi5fMiNqSVdMHxM_NVoUBTU1ICVfIBUhCDw3VwcpIERha3plHyFWJhE2MyUqETcGISBQRDsrKlE8fFgKcjIaUT1XPRU
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9aQyUtBAUcGDgXfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ9QlpWXE8qJScEEQYWSWFWSkNXVl1TAQZMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPdR47WCsuERBbA0gPIAFDMTEgQhQtNx9FY15aFwdYLlpOES48NgcfFjMPK0Y2CidWFmNJC057NjEFOwsEGzVSBhkUMwYNEDglAi5cR1ZfVTwGGTsfPQU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="hum-masala" tvg-name="Hum Masala" tvg-logo="https://i.postimg.cc/vm2mLzrz/Hridoy-TV-entertainment-channel-(4).webp" group-title="Entertainment",Hum Masala
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9aQyUtBAUcGDgXfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ8SlhSW0gqJScEEQYWSWFWSkNXWFxVBgFMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPQwU4CElZOjY1JgJXHzEkBxEkAi5fMiNqSVdMHxM_NVoUBTU1ICVfIBUhCDw3VwcpIERha3plHyFWJhE2MyUqETcGISBQRDsrKlE8fFgKcjIaUT1XPRU
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9aQyUtBAUcGDgXfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ9QlpWXE8qJScEEQYWSWFWSkNXVl1TAQZMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPdR47WCsuERBbA0gPIAFDMTEgQhQtNx9FY15aFwdYLlpOES48NgcfFjMPK0Y2CidWFmNJC057NjEFOwsEGzVSBhkUMwYNEDglAi5cR1ZfVTwGGTsfPQU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="and-tv" tvg-name="And TV" tvg-logo="https://i.postimg.cc/hGZGbrL2/Hridoy-TV-entertainment-channel-(5).webp" group-title="Pinned",And TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9TWCwtHRIwETBZIwkCCwkdIxVdHlAaXFpXVFVTZREIBwcceQI8DgYcWDEoERoBBhxZVAUJAgJwQ19QWQcHAjIXFwFYRWdYQ0dUV1RRBE5nZAQiGwEJECxLMi0xQgY8HVc_CloYBwgLW35hMAILCTkRNx9iETklNwQJMkZDAV0-CGhnZEUpKjMIIxQaADE0HTYEADFcFgopFQAyeEprBQICMAk5AAxEPw4qGAodHQwqCi0CIRxoXWtCBzY7DzYqZEYdHzEbKSMaCD1BJhspD3RcawQeGjMwJgAaMhEIKhxVCgMIFB0CGxEXVw19dRswMC4kLRkFJgsQRS84NhIcCxBbMihZd3YOPTc4BQMfGCYKFTU7MgY2OQcwJj8nPFRodV44RxkiGh4zTzoHIR8KMCo2GRQTPBIwdVlTZhkXK1YtHg
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9TWCwtHRIwETBZIwkCCwkdIxVdHlAaXFpXVFVTZREIBwcceQI8DgYcWDEoERoBBhxZVAUJAgN4QVtQXQcHAjIXFwFYRWdYQ0daVlJRAE5nZAQiGwEJECxLMi0xQgY8HVc_CloYBwgLW35hMAILCTkRNx9iETklNwQJMkZDAV0-CGhnZEUpKjMIIxQaADE0HTYEADFcFgopFQAyeEprBQICMAk5AAxEPw4qGAodHQwqCi0CIRxoXWtCBzY7DzYqZEYdHzEbKSMaCD1BJhspD3RcawQeGjMwJgAaMhEIKhxVCgMIFB0CGxEXVw1wBho-BioVGgEzFCYBBxMMCi84NwAWBzVYXH4HJgZEBw0gAiJkUygVFyUTNyslJi4CNl0JC1l4HgocOi0GBCo2KAInOGMIAyoaXhQuC2BBBikwPjcuDg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="and-tv" tvg-name="And TV" tvg-logo="https://i.postimg.cc/hGZGbrL2/Hridoy-TV-entertainment-channel-(5).webp" group-title="Entertainment",And TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9TWCwtHRIwETBZIwkCCwkdIxVdHlAaXFpXVFVTZREIBwcceQI8DgYcWDEoERoBBhxZVAUJAgJwQ19QWQcHAjIXFwFYRWdYQ0dUV1RRBE5nZAQiGwEJECxLMi0xQgY8HVc_CloYBwgLW35hMAILCTkRNx9iETklNwQJMkZDAV0-CGhnZEUpKjMIIxQaADE0HTYEADFcFgopFQAyeEprBQICMAk5AAxEPw4qGAodHQwqCi0CIRxoXWtCBzY7DzYqZEYdHzEbKSMaCD1BJhspD3RcawQeGjMwJgAaMhEIKhxVCgMIFB0CGxEXVw19dRswMC4kLRkFJgsQRS84NhIcCxBbMihZd3YOPTc4BQMfGCYKFTU7MgY2OQcwJj8nPFRodV44RxkiGh4zTzoHIR8KMCo2GRQTPBIwdVlTZhkXK1YtHg
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9TWCwtHRIwETBZIwkCCwkdIxVdHlAaXFpXVFVTZREIBwcceQI8DgYcWDEoERoBBhxZVAUJAgN4QVtQXQcHAjIXFwFYRWdYQ0daVlJRAE5nZAQiGwEJECxLMi0xQgY8HVc_CloYBwgLW35hMAILCTkRNx9iETklNwQJMkZDAV0-CGhnZEUpKjMIIxQaADE0HTYEADFcFgopFQAyeEprBQICMAk5AAxEPw4qGAodHQwqCi0CIRxoXWtCBzY7DzYqZEYdHzEbKSMaCD1BJhspD3RcawQeGjMwJgAaMhEIKhxVCgMIFB0CGxEXVw1wBho-BioVGgEzFCYBBxMMCi84NwAWBzVYXH4HJgZEBw0gAiJkUygVFyUTNyslJi4CNl0JC1l4HgocOi0GBCo2KAInOGMIAyoaXhQuC2BBBikwPjcuDg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="zing" tvg-name="Zing" tvg-logo="https://i.postimg.cc/KYpYrNPW/Hridoy-TV-entertainment-channel-(9).webp" group-title="Entertainment",Zing
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IXyYVNhcLViQaMhwPGxYAfgxABltQAQFVVR9VKREBAUINOx02C143HQQ5ExYAXl5TXAIECgd-RlgaPA01BCcWXkNSTWBVREtTW1UbZ2J-ZjoXDw0XRDU-AVUAOihCHBhKBAACXQ5-Z0pGKh8_DAwQZQIJMjECPCdlURFBOQI-MmRDU24SHiUJIQ82Jy0hAgYESTUYOQkHOC4fawN4RhEfPx03SzgdGg8MGygZCRg9HiYWPghrRH1yGhkwN19JGgwBDC8lLx0eUzYHLgUiCWsCZF4SJiAdIT0WGxoLUww2HTcPEgcWHQFYR314V2VEKgYsDDNCPjEzJRUjISxDJSU3HQBIZ1NgGUcENSwfETB-IAIDDDsUVRs-Jhk1PH4dX356OwEGKg8bBBYGNgJUQxgpNkY6IQxddkpaDhFKLSU
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9IXyYVNhcLViQaMhwPGxYAfgxABltQAQFVVR9VKREBAUINOx02C143HQQ5ExYAXl5TXAIFAgV6QVwaPA01BCcWXkNSTWBVSkpVXFEbZ2J-ZjoXDw0XRDU-AVUAOihCHBhKBAACXQ5-Z0pGKh8_DAwQZQIJMjECPCdlURFBOQI-MmRDU24SHiUJIQ82Jy0hAgYESTUYOQkHOC4fawN4RhEfPx03SzgdGg8MGygZCRg9HiYWPghrRH1yGhkwN19JGgwBDC8lLx0eUzYHLgUiCWsCZF4SJiAdIT0WGxoLUww2HTcPEgcWHQFYS2UDZng6AlEmNxAXOlwSCgEdKFAdCS8ZNFBBAAdUBCYHFy5OEiB-Vw09JAAfJRQ6VQ4NAmRJVWEeAF48FQ05IGcvEDcoOjdMEj4vMDc1C0UDVA4wLQM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -2365,61 +2365,61 @@ https://pro.hellohridoy.workers.dev/link-copy-kore-lav-nai=expire43738831219634/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="animal-planet" tvg-name="Animal Planet [1]" tvg-logo="https://i.postimg.cc/PJ4tm75Y/Hridoy-TV-HD-channel-(2).webp" group-title="Lifestyle/Doc",Animal Planet [1]
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9TWCEfCAgwCTgXPQAXLRYQfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklgTmJTV0YbJyQAAQcQUlVSCwAGAXBCXVARLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSNiccBlZTPx03OFIKFDJCLgZHcVlgGAQmFhk_DTMYUAw1Ai4CDAReJyVXNUAGA34HETs-OkkDPSc_GgE_NigPBBYlJCcmdmQAY3s1DFE6FB0EYxJSNiQ
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9TWCEfCAgwCTgXPQAXLRYQfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklhRmBXV0IbJyQAAQcQUlVSCwAGD3FEXVQRLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSERxFIhM8IB1AKTA0AlFCHBYKX0hMJEAxHg01IRg8VzA8URMaAysVLiQxUWNAbUcCBA8KOzIsHj4cKBkfQBksFQYsFlQveXlUfCcEHhM8OjYMOjIQMQI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="animal-planet" tvg-name="Animal Planet [2]" tvg-logo="https://i.postimg.cc/PJ4tm75Y/Hridoy-TV-HD-channel-(2).webp" group-title="Lifestyle/Doc",Animal Planet [2]
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9TWCEfCAgwCTgXPQAXLQ0QfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklgTmJTV0cbJyQAAQcQUlVSCwAGAXBCXVERLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSTwUwPyQZQRECGxU8IyAfByl1B3BYeiYFND80bR4dHDwXUEMcC0EHK1YzCwtcWHMDPhpWGxBtNxUATl8SQwFMOjIGWy9UAQZnfhsUAjtZKiw-DAEmNhI
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9TWCEfCAgwCTgXPQAXLQ0QfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklhRmBXV0IbJyQAAQcQUlVSCwAGD3FEXVQRLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSERxFIhM8IB1AKTA0AlFCHBYKX0hMJEAxHg01IRg8VzA8URMaAysVLiQxUWNAbUcCBA8KOzIsHj4cKBkfQBksFQYsFlQveXlUfCcEHhM8OjYMOjIQMQI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="animal-planet-hd" tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/rpKwFP3S/Hridoy-TV-channel-(17).webp" group-title="Pinned",Animal Planet HD
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9TWCEfCAgwCTgXPQAXLQ0QfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklgTmJTV0cbJyQAAQcQUlVSCwAGAXBCXVERLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSTwUwPyQZQRECGxU8IyAfByl1B3BYeiYFND80bR4dHDwXUEMcC0EHK1YzCwtcWHMDPhpWGxBtNxUATl8SQwFMOjIGWy9UAQZnfhsUAjtZKiw-DAEmNhI
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9TWCEfCAgwCTgXPQAXLQ0QfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklhRmBXV0IbJyQAAQcQUlVSCwAGD3FEXVQRLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSERxFIhM8IB1AKTA0AlFCHBYKX0hMJEAxHg01IRg8VzA8URMaAysVLiQxUWNAbUcCBA8KOzIsHj4cKBkfQBksFQYsFlQveXlUfCcEHhM8OjYMOjIQMQI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="animal-planet-hd" tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/rpKwFP3S/Hridoy-TV-channel-(17).webp" group-title="Lifestyle/Doc",Animal Planet HD
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9TWCEfCAgwCTgXPQAXLQ0QfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklgTmJTV0cbJyQAAQcQUlVSCwAGAXBCXVERLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSTwUwPyQZQRECGxU8IyAfByl1B3BYeiYFND80bR4dHDwXUEMcC0EHK1YzCwtcWHMDPhpWGxBtNxUATl8SQwFMOjIGWy9UAQZnfhsUAjtZKiw-DAEmNhI
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9TWCEfCAgwCTgXPQAXLQ0QfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklhRmBXV0IbJyQAAQcQUlVSCwAGD3FEXVQRLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSERxFIhM8IB1AKTA0AlFCHBYKX0hMJEAxHg01IRg8VzA8URMaAysVLiQxUWNAbUcCBA8KOzIsHj4cKBkfQBksFQYsFlQveXlUfCcEHhM8OjYMOjIQMQI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="discovery-english" tvg-name="Discovery English [1]" tvg-logo="https://i.postimg.cc/dQ2JGRYc/Resized-Image-2026-08-13-12-50-01-5406-4.webp" group-title="Pinned",Discovery English [1]
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pOwFMAgkVKQ0aABdBCVZHCA1TLBUMSQwYNx42SBcdDhE-XDYLEwYWAEENAwFxQl1cXk9gQy02FxMXACNcQkRaX1BSCgAGAzYnOyg_CzEQOh1eEy0mYAI7PlUjHVxFU18PIz4-HB8bOSA7BgpDES4HMwMqMFpUBwBqX2wfJBoFNyM4Oj4rFRA0ChQABxJeCh0vSFRlfDIrWi4fIDkgKj1RHg49Og4aPg42HStfdUtsJSsdKysrPy8AVVM8HyY5LSQ5CiFWIEZ9WHAkK1syByMAPyorJzAIPT5RDSAKCAoERkVAU3VEOCIDOC5FJxMoBiokExEQPyRYJgsAZF5mGD9QDCEACxNmUi8YVwAYWCQdWgMOIHl8QQQ8G1AlKRx5WyRSMl8sNTVVOEJQWTEtYVZZaX4hESwwHREyJA
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pOwFMAgkVKQ0aABdBCVZHCA1TLBUMSQwYNx42SBcdDhE-XDYLEwYWAEENAwFxQlxUXEtgRy02FxMXACNcQkRaX1BcCwYGBzYnOyg_CzEQOh1eEy0mYAI7PlUjHVxFU18PIz4-HB8bOSA7BgpDES4HMwMqMFpUBwBqX2wfJBoFNyM4Oj4rFRA0ChQABxJeCh0vSFRlfDIrWi4fIDkgKj1RHg49Og4aPg42HStfdUtsJSsdKysrPy8AVVM8HyY5LSQ5CiFWIEZ9WHAkK1syByMAPyorJzAIPT5RDSAKCAoERkVAU3UZAVQkTxwuDFJXRhUlBAAWRiJCLx9WSnxxBEEuIzU0OEIAPCgRHAI-MDJHIhsoP1FAYU4QBB4CGigOOBA_IScdNSYJGQYuCQYKH2ZmAwQjWjBbERg0Ag
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="discovery-english" tvg-name="Discovery English [2]" tvg-logo="https://i.postimg.cc/dQ2JGRYc/Resized-Image-2026-08-13-12-50-01-5406-4.webp" group-title="Pinned",Discovery English [2]
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pIAFMAgkVKQ0aABdBCVZHCA1TLBUMSQwYNx42SBcdDhE-XDYLEwYWAEENAwFxQl1cXk9gQy02FxMXACNcQkRaX1BSCgAGAzYnOyg_CzEQOh1eEy0mYAI7PlUjHVxFU18PIz4-HB8bOSA7BgpDES4HMwMqMFpUBwBqX2wfJBoFNyM4Oj4rFRA0ChQABxJeCh0vSFRlfDIrWi4fIDkgKj1RHg49Og4aPg42HStfdUtsJSsdKysrPy8AVVM8HyY5LSQ5CiFWIEZ9WHAkK1syByMAPyorJzAIPT5RDSAKCAoERkVAU3VEOCIDOC5FJxMoBiokExEQPyRYJgsAZF5mGD9QDCEACxNmUi8YVwAYWCQdWgMOIHl8QQQ8G1AlKRx5WyRSMl8sNTVVOEJQWTEtYVZZaX4hESwwHREyJA
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pIAFMAgkVKQ0aABdBCVZHCA1TLBUMSQwYNx42SBcdDhE-XDYLEwYWAEENAwFxQlxUXEtgRy02FxMXACNcQkRaX1BcCwYGBzYnOyg_CzEQOh1eEy0mYAI7PlUjHVxFU18PIz4-HB8bOSA7BgpDES4HMwMqMFpUBwBqX2wfJBoFNyM4Oj4rFRA0ChQABxJeCh0vSFRlfDIrWi4fIDkgKj1RHg49Og4aPg42HStfdUtsJSsdKysrPy8AVVM8HyY5LSQ5CiFWIEZ9WHAkK1syByMAPyorJzAIPT5RDSAKCAoERkVAU3UZAVQkTxwuDFJXRhUlBAAWRiJCLx9WSnxxBEEuIzU0OEIAPCgRHAI-MDJHIhsoP1FAYU4QBB4CGigOOBA_IScdNSYJGQYuCQYKH2ZmAwQjWjBbERg0Ag
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="discovery-english" tvg-name="Discovery English [1]" tvg-logo="https://i.postimg.cc/dQ2JGRYc/Resized-Image-2026-08-13-12-50-01-5406-4.webp" group-title="Lifestyle/Doc",Discovery English [1]
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pOwFMAgkVKQ0aABdBCVZHCA1TLBUMSQwYNx42SBcdDhE-XDYLEwYWAEENAwFxQl1cXk9gQy02FxMXACNcQkRaX1BSCgAGAzYnOyg_CzEQOh1eEy0mYAI7PlUjHVxFU18PIz4-HB8bOSA7BgpDES4HMwMqMFpUBwBqX2wfJBoFNyM4Oj4rFRA0ChQABxJeCh0vSFRlfDIrWi4fIDkgKj1RHg49Og4aPg42HStfdUtsJSsdKysrPy8AVVM8HyY5LSQ5CiFWIEZ9WHAkK1syByMAPyorJzAIPT5RDSAKCAoERkVAU3VEOCIDOC5FJxMoBiokExEQPyRYJgsAZF5mGD9QDCEACxNmUi8YVwAYWCQdWgMOIHl8QQQ8G1AlKRx5WyRSMl8sNTVVOEJQWTEtYVZZaX4hESwwHREyJA
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pOwFMAgkVKQ0aABdBCVZHCA1TLBUMSQwYNx42SBcdDhE-XDYLEwYWAEENAwFxQlxUXEtgRy02FxMXACNcQkRaX1BcCwYGBzYnOyg_CzEQOh1eEy0mYAI7PlUjHVxFU18PIz4-HB8bOSA7BgpDES4HMwMqMFpUBwBqX2wfJBoFNyM4Oj4rFRA0ChQABxJeCh0vSFRlfDIrWi4fIDkgKj1RHg49Og4aPg42HStfdUtsJSsdKysrPy8AVVM8HyY5LSQ5CiFWIEZ9WHAkK1syByMAPyorJzAIPT5RDSAKCAoERkVAU3UZAVQkTxwuDFJXRhUlBAAWRiJCLx9WSnxxBEEuIzU0OEIAPCgRHAI-MDJHIhsoP1FAYU4QBB4CGigOOBA_IScdNSYJGQYuCQYKH2ZmAwQjWjBbERg0Ag
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="discovery-english" tvg-name="Discovery English [2]" tvg-logo="https://i.postimg.cc/dQ2JGRYc/Resized-Image-2026-08-13-12-50-01-5406-4.webp" group-title="Lifestyle/Doc",Discovery English [2]
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pIAFMAgkVKQ0aABdBCVZHCA1TLBUMSQwYNx42SBcdDhE-XDYLEwYWAEENAwFxQl1cXk9gQy02FxMXACNcQkRaX1BSCgAGAzYnOyg_CzEQOh1eEy0mYAI7PlUjHVxFU18PIz4-HB8bOSA7BgpDES4HMwMqMFpUBwBqX2wfJBoFNyM4Oj4rFRA0ChQABxJeCh0vSFRlfDIrWi4fIDkgKj1RHg49Og4aPg42HStfdUtsJSsdKysrPy8AVVM8HyY5LSQ5CiFWIEZ9WHAkK1syByMAPyorJzAIPT5RDSAKCAoERkVAU3VEOCIDOC5FJxMoBiokExEQPyRYJgsAZF5mGD9QDCEACxNmUi8YVwAYWCQdWgMOIHl8QQQ8G1AlKRx5WyRSMl8sNTVVOEJQWTEtYVZZaX4hESwwHREyJA
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pIAFMAgkVKQ0aABdBCVZHCA1TLBUMSQwYNx42SBcdDhE-XDYLEwYWAEENAwFxQlxUXEtgRy02FxMXACNcQkRaX1BcCwYGBzYnOyg_CzEQOh1eEy0mYAI7PlUjHVxFU18PIz4-HB8bOSA7BgpDES4HMwMqMFpUBwBqX2wfJBoFNyM4Oj4rFRA0ChQABxJeCh0vSFRlfDIrWi4fIDkgKj1RHg49Og4aPg42HStfdUtsJSsdKysrPy8AVVM8HyY5LSQ5CiFWIEZ9WHAkK1syByMAPyorJzAIPT5RDSAKCAoERkVAU3UZAVQkTxwuDFJXRhUlBAAWRiJCLx9WSnxxBEEuIzU0OEIAPCgRHAI-MDJHIhsoP1FAYU4QBB4CGigOOBA_IScdNSYJGQYuCQYKH2ZmAwQjWjBbERg0Ag
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="discovery-hindi" tvg-name="Discovery Hindi" tvg-logo="https://i.postimg.cc/XNfn9KbM/Resized-Image-2026-08-13-12-49-59-8814-2.webp" group-title="Pinned",Discovery Hindi
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pOwFMAgkVKQ0aABdBCVZHCA1TLBUMSQwYNx42SBcdDhE-XDYLEwYWAEENAwFxQl1cXk9gQy02FxMXACNcQkRaX1BSCgAGAzYnOyg_CzEQOh1eEy0mYAI7PlUjHVxFU18PIz4-HB8bOSA7BgpDES4HMwMqMFpUBwBqX2wfJBoFNyM4Oj4rFRA0ChQABxJeCh0vSFRlfDIrWi4fIDkgKj1RHg49Og4aPg42HStfdUtsJSsdKysrPy8AVVM8HyY5LSQ5CiFWIEZ9WHAkK1syByMAPyorJzAIPT5RDSAKCAoERkVAU3VEOCIDOC5FJxMoBiokExEQPyRYJgsAZF5mGD9QDCEACxNmUi8YVwAYWCQdWgMOIHl8QQQ8G1AlKRx5WyRSMl8sNTVVOEJQWTEtYVZZaX4hESwwHREyJA
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pOwFMAgkVKQ0aABdBCVZHCA1TLBUMSQwYNx42SBcdDhE-XDYLEwYWAEENAwFxQlxUXEtgRy02FxMXACNcQkRaX1BcCwYGBzYnOyg_CzEQOh1eEy0mYAI7PlUjHVxFU18PIz4-HB8bOSA7BgpDES4HMwMqMFpUBwBqX2wfJBoFNyM4Oj4rFRA0ChQABxJeCh0vSFRlfDIrWi4fIDkgKj1RHg49Og4aPg42HStfdUtsJSsdKysrPy8AVVM8HyY5LSQ5CiFWIEZ9WHAkK1syByMAPyorJzAIPT5RDSAKCAoERkVAU3UZAVQkTxwuDFJXRhUlBAAWRiJCLx9WSnxxBEEuIzU0OEIAPCgRHAI-MDJHIhsoP1FAYU4QBB4CGigOOBA_IScdNSYJGQYuCQYKH2ZmAwQjWjBbERg0Ag
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="discovery-hindi" tvg-name="Discovery Hindi" tvg-logo="https://i.postimg.cc/XNfn9KbM/Resized-Image-2026-08-13-12-49-59-8814-2.webp" group-title="Lifestyle/Doc",Discovery Hindi
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pOwFMAgkVKQ0aABdBCVZHCA1TLBUMSQwYNx42SBcdDhE-XDYLEwYWAEENAwFxQl1cXk9gQy02FxMXACNcQkRaX1BSCgAGAzYnOyg_CzEQOh1eEy0mYAI7PlUjHVxFU18PIz4-HB8bOSA7BgpDES4HMwMqMFpUBwBqX2wfJBoFNyM4Oj4rFRA0ChQABxJeCh0vSFRlfDIrWi4fIDkgKj1RHg49Og4aPg42HStfdUtsJSsdKysrPy8AVVM8HyY5LSQ5CiFWIEZ9WHAkK1syByMAPyorJzAIPT5RDSAKCAoERkVAU3VEOCIDOC5FJxMoBiokExEQPyRYJgsAZF5mGD9QDCEACxNmUi8YVwAYWCQdWgMOIHl8QQQ8G1AlKRx5WyRSMl8sNTVVOEJQWTEtYVZZaX4hESwwHREyJA
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pOwFMAgkVKQ0aABdBCVZHCA1TLBUMSQwYNx42SBcdDhE-XDYLEwYWAEENAwFxQlxUXEtgRy02FxMXACNcQkRaX1BcCwYGBzYnOyg_CzEQOh1eEy0mYAI7PlUjHVxFU18PIz4-HB8bOSA7BgpDES4HMwMqMFpUBwBqX2wfJBoFNyM4Oj4rFRA0ChQABxJeCh0vSFRlfDIrWi4fIDkgKj1RHg49Og4aPg42HStfdUtsJSsdKysrPy8AVVM8HyY5LSQ5CiFWIEZ9WHAkK1syByMAPyorJzAIPT5RDSAKCAoERkVAU3UZAVQkTxwuDFJXRhUlBAAWRiJCLx9WSnxxBEEuIzU0OEIAPCgRHAI-MDJHIhsoP1FAYU4QBB4CGigOOBA_IScdNSYJGQYuCQYKH2ZmAwQjWjBbERg0Ag
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -2449,31 +2449,31 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science" tvg-logo="https://i.postimg.cc/pdpLX648/Hridoy-TV-channel-(14).webp" group-title="Pinned",Discovery Science
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pIAYKFwsXNU4DHwIWCAxBRBxbewdRWwodMxN-BgIRDRF9FRwYBgFZIEpAW0QtAVRVWEBkQmtUVUZQCgMVEgEXHFlUBQkCAn9KWVBaBwEkHzURFwMdKFwSOzFfBy1_Bn5PcQUKCVYSGCErFQEfMxwzCEIHOTg2FWtjBwYqQDMJNS4CBTI9OR4pGR4XESIdKwURUw1XTwIIDTMlAw1FGRU6HzMNCFMfGCoFCwx_XWtPBh8sHTUUDQIcITEZPCdgUT0JMQYoMnhZfAQNBiQOKRUNRAUNOSYsDR4lMR4qAVQbYVlVWCkGHBYKRGInFQkiCFYAJioHPDMsFAZ-dwV0JkA9CD8pGU87KxotAEFnLRlBFyddMlwJXlwNOSUXXQ09TxIjBl9IA2cwXjoiClAuAwMEYwAhDw8wTwcOGzoHNyED
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pIAYKFwsXNU4DHwIWCAxBRBxbewdRWwodMxN-BgIRDRF9FRwYBgFZIEpAW0QtAVRVWEBkQ2NWUUZUCgMVEgEXHFlUBQkCAnFLX1BeBwEkHzURFwMdKFwSOzFfBy1_Bn5PcQUKCVYSGCErFQEfMxwzCEIHOTg2FWtjBwYqQDMJNS4CBTI9OR4pGR4XESIdKwURUw1XTwIIDTMlAw1FGRU6HzMNCFMfGCoFCwx_XWtPBh8sHTUUDQIcITEZPCdgUT0JMQYoMnhZfAQNBiQOKRUNRAUNOSYsDR4lMR4qAVQbYVlVWCkGHBYKRD8eYy5VOj0rZ1VHAzI7BQAHcR99MhYTKig1ZzEUPy4eUScJKhAKFQE1JAZxRnoSERk3FyEiATUQMigrNwojJgsiGQwPR31UVCdfPzBaNQVFB1ELPicl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science" tvg-logo="https://i.postimg.cc/pdpLX648/Hridoy-TV-channel-(14).webp" group-title="Lifestyle/Doc",Discovery Science
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pIAYKFwsXNU4DHwIWCAxBRBxbewdRWwodMxN-BgIRDRF9FRwYBgFZIEpAW0QtAVRVWEBkQmtUVUZQCgMVEgEXHFlUBQkCAn9KWVBaBwEkHzURFwMdKFwSOzFfBy1_Bn5PcQUKCVYSGCErFQEfMxwzCEIHOTg2FWtjBwYqQDMJNS4CBTI9OR4pGR4XESIdKwURUw1XTwIIDTMlAw1FGRU6HzMNCFMfGCoFCwx_XWtPBh8sHTUUDQIcITEZPCdgUT0JMQYoMnhZfAQNBiQOKRUNRAUNOSYsDR4lMR4qAVQbYVlVWCkGHBYKRGInFQkiCFYAJioHPDMsFAZ-dwV0JkA9CD8pGU87KxotAEFnLRlBFyddMlwJXlwNOSUXXQ09TxIjBl9IA2cwXjoiClAuAwMEYwAhDw8wTwcOGzoHNyED
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pIAYKFwsXNU4DHwIWCAxBRBxbewdRWwodMxN-BgIRDRF9FRwYBgFZIEpAW0QtAVRVWEBkQ2NWUUZUCgMVEgEXHFlUBQkCAnFLX1BeBwEkHzURFwMdKFwSOzFfBy1_Bn5PcQUKCVYSGCErFQEfMxwzCEIHOTg2FWtjBwYqQDMJNS4CBTI9OR4pGR4XESIdKwURUw1XTwIIDTMlAw1FGRU6HzMNCFMfGCoFCwx_XWtPBh8sHTUUDQIcITEZPCdgUT0JMQYoMnhZfAQNBiQOKRUNRAUNOSYsDR4lMR4qAVQbYVlVWCkGHBYKRD8eYy5VOj0rZ1VHAzI7BQAHcR99MhYTKig1ZzEUPy4eUScJKhAKFQE1JAZxRnoSERk3FyEiATUQMigrNwojJgsiGQwPR31UVCdfPzBaNQVFB1ELPicl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="discovery-investigation" tvg-name="Discovery Investigation" tvg-logo="https://i.postimg.cc/9frQFnK9/Hridoy-TV-channel-(13).webp" group-title="Lifestyle/Doc",Discovery Investigation
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIOCy0pOgsVFxYAOQYSBwoACjpaVB1GJBMQCAYKIFg-VhZKWhE0BhZeAA4HDVcdRlkjFwdZKgEkHyEAEE9UQ2lRR0tSWVBTTGNGVzoGGlleTm1GZ1JbQlFCLjQhPzMdAQNbSA9XACBZByc0YjoqXBQRCE07LSQLEw0JM1pTWwc8KD42HyAHQ2MHUSgILgc3ABI7NQgpX35EVBkMLQUbGGkTKi8ZFjI-KjhAORM2CTNLaABaIzsDCwY0OS8qKw43HC49OAc8Jz0PPGEAAngyIAAoODM9OGEgFz8PMjw4QSULNTAsS352dCU7B1QRKj0RPQQXBxcRbS4wICE2Li5mfUFDJgFeLiMfJxkrFlckKB8XJUsGJj4FCVR8Ym84JCAzHR8MAhAgMzE8EggmGwNWHyIQVVcLXyowBAsrAwMcNBUwBDAzOQAjIgYtVidV
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIOCy0pOgsVFxYAOQYSBwoACjpaVB1GJBMQCAYKIFg-VhZKWhE0BhZeAA4HDVcdRlkjFwdZKgEkHyEAEE9UQ2lRRkNQXVBXTGNGVzoGGlleTm1GZ1xaRFFGLjQhPzMdAQNbSA9XACBZByc0YjoqXBQRCE07LSQLEw0JM1pTWwc8KD42HyAHQ2MHUSgILgc3ABI7NQgpX35EVBkMLQUbGGkTKi8ZFjI-KjhAORM2CTNLaABaIzsDCwY0OS8qKw43HC49OAc8Jz0PPGEAAngyIAAoODM9OGEgFz8PMjw4QSULNTAsS352dCU7B1QRKj0RPQQXBxcRbSNDIS8AKh9RZXdxCxAcEhcjGj0XBhoRNR48LUIdF0IHB2tmZgF-OQ4WPjoCLgUgIhQ2G2lYHEMPDBwwZmJATxs5GSYjSj0GChxSAi5NABJDEiE4NyRF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="discovery-turbo" tvg-name="Discovery Turbo" tvg-logo="https://i.postimg.cc/Lsn86bwZ/Hridoy-TV-channel-(12).webp" group-title="Pinned",Discovery Turbo
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pJxAREApbIA0SCg8GFxEcXQFDcE0MAAgceRUyBgsXSAA_ChYdXiocFVtCV0V1Q15dX01sR2VRVgw2ADETBwBeXlNcAgQFDnhGXBo6KxgmIQAFGx1JMSkhQwAnKVN-SQtBKx9QDyMuLAYxCDUaBh1hFSkkMR89NgcAUAQSHzMzOQo1LgkJLx8rAjIwDTcCGwVYV0l4TCwlIx42Sh4GCgg1Cz1GPAo6GQwGKQhrSXxbDQszCTYNGzIBDjohVUQeGyEaLzguDHwCd0IFGC8INksCHgkxKgsrMBIMOh1TETcMVV5TQj0ADFlZKBIaEh9QBhM_JC4jMBMMKCIFclwEHB45NCJAPDgqOgZHUjg6Uwc7WjgKXF5ad30EAVsQBkAVMDZITgVSJX0oMhZXJFVWBGV6ZS4ZNlI8ARwpNyAnBQ
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pJxAREApbIA0SCg8GFxEcXQFDcE0MAAgceRUyBgsXSAA_ChYdXiocFVtCV0V1Q15dX0xkRWFRUQw2ADETBwBeXlNcAgQLD35GWxo6KxgmIQAFGx1JMSkhQwAnKVN-SQtBKx9QDyMuLAYxCDUaBh1hFSkkMR89NgcAUAQSHzMzOQo1LgkJLx8rAjIwDTcCGwVYV0l4TCwlIx42Sh4GCgg1Cz1GPAo6GQwGKQhrSXxbDQszCTYNGzIBDjohVUQeGyEaLzguDHwCd0IFGC8INksCHgkxKgsrMBIMOh1TETcMVV5TQj0ADFktSQY6PCsZETAxFyIRBhUXPit5dFFPKyIDCCNIOgJ-BgErMyBnVzgUET4nM2pmd3cuIQZdVhZkGjAdNiY3BikyOAMhI1cMQmlLBzg5UDQcSTU0BDYiBQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="discovery-turbo" tvg-name="Discovery Turbo" tvg-logo="https://i.postimg.cc/Lsn86bwZ/Hridoy-TV-channel-(12).webp" group-title="Lifestyle/Doc",Discovery Turbo
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pJxAREApbIA0SCg8GFxEcXQFDcE0MAAgceRUyBgsXSAA_ChYdXiocFVtCV0V1Q15dX01sR2VRVgw2ADETBwBeXlNcAgQFDnhGXBo6KxgmIQAFGx1JMSkhQwAnKVN-SQtBKx9QDyMuLAYxCDUaBh1hFSkkMR89NgcAUAQSHzMzOQo1LgkJLx8rAjIwDTcCGwVYV0l4TCwlIx42Sh4GCgg1Cz1GPAo6GQwGKQhrSXxbDQszCTYNGzIBDjohVUQeGyEaLzguDHwCd0IFGC8INksCHgkxKgsrMBIMOh1TETcMVV5TQj0ADFlZKBIaEh9QBhM_JC4jMBMMKCIFclwEHB45NCJAPDgqOgZHUjg6Uwc7WjgKXF5ad30EAVsQBkAVMDZITgVSJX0oMhZXJFVWBGV6ZS4ZNlI8ARwpNyAnBQ
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9WXzsRBhIKCy0pJxAREApbIA0SCg8GFxEcXQFDcE0MAAgceRUyBgsXSAA_ChYdXiocFVtCV0V1Q15dX0xkRWFRUQw2ADETBwBeXlNcAgQLD35GWxo6KxgmIQAFGx1JMSkhQwAnKVN-SQtBKx9QDyMuLAYxCDUaBh1hFSkkMR89NgcAUAQSHzMzOQo1LgkJLx8rAjIwDTcCGwVYV0l4TCwlIx42Sh4GCgg1Cz1GPAo6GQwGKQhrSXxbDQszCTYNGzIBDjohVUQeGyEaLzguDHwCd0IFGC8INksCHgkxKgsrMBIMOh1TETcMVV5TQj0ADFktSQY6PCsZETAxFyIRBhUXPit5dFFPKyIDCCNIOgJ-BgErMyBnVzgUET4nM2pmd3cuIQZdVhZkGjAdNiY3BikyOAMhI1cMQmlLBzg5UDQcSTU0BDYiBQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -2509,13 +2509,13 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-bbc-earth" tvg-name="Sony BBC Earth" tvg-logo="https://i.postimg.cc/6Qyp5mgV/Hridoy-TV-channel-(16).webp" group-title="Pinned",Sony BBC Earth
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLCwYMJjEXIRELLQ0QfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklgTmJTV0cbJyQAAQcQUlVSCwAGAXBCXVERLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSTwUwPyQZQRECGxU8IyAfByl1B3BYeiYFND80bR4dHDwXUEMcC0EHK1YzCwtcWHMDPhpWGxBtNxUATl8SQwFMOjIGWy9UAQZnfhsUAjtZKiw-DAEmNhI
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLCwYMJjEXIRELLQ0QfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklhRmBXV0IbJyQAAQcQUlVSCwAGD3FEXVQRLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSERxFIhM8IB1AKTA0AlFCHBYKX0hMJEAxHg01IRg8VzA8URMaAysVLiQxUWNAbUcCBA8KOzIsHj4cKBkfQBksFQYsFlQveXlUfCcEHhM8OjYMOjIQMQI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-bbc-earth" tvg-name="Sony BBC Earth" tvg-logo="https://i.postimg.cc/6Qyp5mgV/Hridoy-TV-channel-(16).webp" group-title="Lifestyle/Doc",Sony BBC Earth
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLCwYMJjEXIRELLQ0QfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklgTmJTV0cbJyQAAQcQUlVSCwAGAXBCXVERLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSTwUwPyQZQRECGxU8IyAfByl1B3BYeiYFND80bR4dHDwXUEMcC0EHK1YzCwtcWHMDPhpWGxBtNxUATl8SQwFMOjIGWy9UAQZnfhsUAjtZKiw-DAEmNhI
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9BWSYLCwYMJjEXIRELLQ0QfxEfEhoDDRZGHl8FPUpWAQseMVswBAAaAFkkDhgWDVIhHUJZQFM7T1hTVklhRmBXV0IbJyQAAQcQUlVSCwAGD3FEXVQRLAY6AxcGFAwMbQA7IVMMLCgEfEsPPxEEXQQ1Aw4jBw4kDRc5UAcpND0UPGEFAlR6KAQ-OC8nFws_Dz4IOiYDIg0nDhAED1VLfDIWPi4VIGc8IzwOJBwsYg0YOgkADShfaUt4JTcQPgIgIDkXNwgrNkRgLwkhCiMzL1t-AHM8PwMiAyBmIDs_NzscOhQjHjoNXxo2W1dcVzwHGwFSERxFIhM8IB1AKTA0AlFCHBYKX0hMJEAxHg01IRg8VzA8URMaAysVLiQxUWNAbUcCBA8KOzIsHj4cKBkfQBksFQYsFlQveXlUfCcEHhM8OjYMOjIQMQI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -2557,13 +2557,13 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC [1]" tvg-logo="https://i.postimg.cc/LsQsBTk9/Hridoy-TV-entertainment-channel-(10).webp" group-title="Lifestyle/Doc",TLC [1]
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9GWistAQBACTgXKgkKARFaPVIGS1wKAAJXHVFXKxoMSRsWPxM9WCYKFR0iBABOUlhdVQYIAwB8Rhc3GxgmAiBYUkVcRGRWS0NXWxowYHxiRC0UABxSGBwkYwYrP1M4KVgEEA5WDyllSEJUJSQBBwZIICwENxMrNkFgA0EpDjUzM0FRamwkPgQqGRsFCBcEFxNYESkrCRc0JR48AXpCbyUkEDxdFT8_OQoKPwgtKS8eNho1CTxGf3ZkIys6VF83LiQ6KTQ4DDpiJAc-CSkIPABmWmwcOxAqKzs5Pz1VHSEMEz4ABwYRClkqQVpnBXg_EScHSi0RAkgpERA1OzcjBSwdEiNrdXkDJzUOPj0UI1sXL1AiF0JhKTwQMTUxVWV7RmwxATMmFxcjExUuIDEhIGI0QDQGWjEIe0ICQXk2KA
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9GWistAQBACTgXKgkKARFaPVIGS1wKAAJXHVFXKxoMSRsWPxM9WCYKFR0iBABOUlhdVQcAAQR8Qhc3GxgmAiBYUkVcRGRYSkVXXxowYHxiRC0UABxSGBwkYwYrP1M4KVgEEA5WDyllSEJUJSQBBwZIICwENxMrNkFgA0EpDjUzM0FRamwkPgQqGRsFCBcEFxNYESkrCRc0JR48AXpCbyUkEDxdFT8_OQoKPwgtKS8eNho1CTxGf3ZkIys6VF83LiQ6KTQ4DDpiJAc-CSkIPABmWmwcOxAqKzs5Pz1VHSEMEz4ABwYRClkNegNDQBcgEVAWKBMHYUgbAV0bKhsfQTsVBilHXl0EGzxdAyUbDBAeLjZGNAQPEDkFBQEwLkpYX08DGRNQJjQyAxwcUzguPTYrHAUUGDcmUEpbYTsxDg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC [2]" tvg-logo="https://i.postimg.cc/LsQsBTk9/Hridoy-TV-entertainment-channel-(10).webp" group-title="Lifestyle/Doc",TLC [2]
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9GWistGgBACTgXKgkKARFaPVIGS1wKAAJXHVFXKxoMSRsWPxM9WCYKFR0iBABOUlhdVQYIAwB8Rhc3GxgmAiBYUkVcRGRWS0NXWxowYHxiRC0UABxSGBwkYwYrP1M4KVgEEA5WDyllSEJUJSQBBwZIICwENxMrNkFgA0EpDjUzM0FRamwkPgQqGRsFCBcEFxNYESkrCRc0JR48AXpCbyUkEDxdFT8_OQoKPwgtKS8eNho1CTxGf3ZkIys6VF83LiQ6KTQ4DDpiJAc-CSkIPABmWmwcOxAqKzs5Pz1VHSEMEz4ABwYRClkqQVpnBXg_EScHSi0RAkgpERA1OzcjBSwdEiNrdXkDJzUOPj0UI1sXL1AiF0JhKTwQMTUxVWV7RmwxATMmFxcjExUuIDEhIGI0QDQGWjEIe0ICQXk2KA
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9GWistGgBACTgXKgkKARFaPVIGS1wKAAJXHVFXKxoMSRsWPxM9WCYKFR0iBABOUlhdVQcAAQR8Qhc3GxgmAiBYUkVcRGRYSkVXXxowYHxiRC0UABxSGBwkYwYrP1M4KVgEEA5WDyllSEJUJSQBBwZIICwENxMrNkFgA0EpDjUzM0FRamwkPgQqGRsFCBcEFxNYESkrCRc0JR48AXpCbyUkEDxdFT8_OQoKPwgtKS8eNho1CTxGf3ZkIys6VF83LiQ6KTQ4DDpiJAc-CSkIPABmWmwcOxAqKzs5Pz1VHSEMEz4ABwYRClkNegNDQBcgEVAWKBMHYUgbAV0bKhsfQTsVBilHXl0EGzxdAyUbDBAeLjZGNAQPEDkFBQEwLkpYX08DGRNQJjQyAxwcUzguPTYrHAUUGDcmUEpbYTsxDg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -2599,13 +2599,13 @@ https://proxy3.hridoytvgate.workers.dev/link-copy-kore-lav-nai=expire43738831219
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="islamic-tv" tvg-name="Islamic TV" tvg-logo="https://i.postimg.cc/d1z8gzKy/Resized-Image-2026-06-24-18-39-18-6733-1.webp" group-title="Pinned",Islamic TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9bRSQTBA0MJiAAfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ8SlhSXE8qJScEEQYWSWFWSkNXWFxVAQZMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPXBw4GBc2SwUiOxQ8MwwSBVERKzshUFNcRXUHPicvFg4XCwceUCAGMB8cOx4UVxUtXXR1S055Kj00FiEXR2UsExQ3ETEVHxAZWQBVQV57UC89BTQbOyM
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9bRSQTBA0MJiAAfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ9QlpWXEkqJScEEQYWSWFWSkNXVl1TAQBMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPGz4VJQoqSTUmESk1GFYaYSJLNAorNiJdZx9cKy0-DyItYzxrVTJCAx4BCTgmUjwJAAZ6UGAHFxwwARQOTjQpEh8yRAI3PCUqXwA1AnNFWCIDHTA9OCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="islamic-tv" tvg-name="Islamic TV" tvg-logo="https://i.postimg.cc/d1z8gzKy/Resized-Image-2026-06-24-18-39-18-6733-1.webp" group-title="Religious",Islamic TV
-https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9bRSQTBA0MJiAAfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ8SlhSXE8qJScEEQYWSWFWSkNXWFxVAQZMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPXBw4GBc2SwUiOxQ8MwwSBVERKzshUFNcRXUHPicvFg4XCwceUCAGMB8cOx4UVxUtXXR1S055Kj00FiEXR2UsExQ3ETEVHxAZWQBVQV57UC89BTQbOyM
+https://play.hridoytvtunel.workers.dev/link-copy-kore-lav-nai=expire43738831219634?token=IAYdFBxDe1kjFwwWSBg5DxYSEUIJAFZZUxg8HQ8CChw4HyUATREKGX8CFx1MAw0TVx9bRSQTBA0MJiAAfBUPExwYORIHXQ5cEV0NVVZRLV8KBQwRMVsnCggXC0kVGQMaEQoXWAMHCwZ9QlpWXEkqJScEEQYWSWFWSkNXVl1TAQBMYxo-ORYKHz0ObgQrIFUXGCxFPxpWEwZfCVl6HwoZBgIvPBU6VBcoMiYgOCBGUw1WP19qZWA7EzE-AzU5OCUHMgwhFSQAThYaJR4BZXpIb3s4GT0CLy0uYQkIOw8bOSweKhohCSBLal9vPD0tNgQgB0ZjKxkgDDgHKxo9USoQKFh2Xm96JAE-OzAtOBcnDjsLRC4yGhQNDhAQQFUPGz4VJQoqSTUmESk1GFYaYSJLNAorNiJdZx9cKy0-DyItYzxrVTJCAx4BCTgmUjwJAAZ6UGAHFxwwARQOTjQpEh8yRAI3PCUqXwA1AnNFWCIDHTA9OCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
