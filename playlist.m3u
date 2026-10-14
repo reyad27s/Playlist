@@ -1,6 +1,6 @@
 #EXTM3U
 # HridoyTV Heart Playlist
-# Generated: Wed, 14 Oct 2026 19:46:51 GMT
+# Generated: Wed, 14 Oct 2026 22:45:01 GMT
 # Total channels: 312
 # Active Proxies: play → play.hridoytvtunel.workers.dev | jbd → jbd.hossainhridoy.workers.dev | proxy → proxy2.hridoytvstream.workers.dev | Pro → pro.hellohridoy.workers.dev
 # Active Playlists: comb, ag, jsbd, cz, sp, temp-play, otv2, otv, att, test5
@@ -763,7 +763,7 @@ https://proxy2.hridoytvstream.workers.dev/link-copy-kore-lav-nai=expire437388312
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="bijoy-tv" tvg-name="Bijoy TV" tvg-logo="https://i.postimg.cc/Pxr3sFRj/Hridoy-TV-Bangla-channel-(9).webp" group-title="Bangla",Bijoy TV
-https://jalshabd.com/stream/19.m3u8?expires=1792007510&signature=22e0a537faead73967bea1931767919b9cfe84b405133c9b24eba359e8385a22
+https://jalshabd.com/stream/19.m3u8?expires=1792018305&signature=eedc050c1feba0f7ea5d9475e72d8ca4ee7a168f5b756e18e2bca7484c19b7ff
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -913,13 +913,13 @@ https://proxy2.hridoytvstream.workers.dev/link-copy-kore-lav-nai=expire437388312
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="s-bangla-tv" tvg-name="S Bangla TV" tvg-logo="https://i.postimg.cc/FsQqPB1P/In-Shot-20260904-211315320.jpg" group-title="Pinned",S Bangla TV
-https://jalshabd.com/stream/125.m3u8?expires=1792007486&signature=201c6cec6e1810f16f08bf1ce85ded376fbdd106eb83f9f189a062e883662bb5
+https://jalshabd.com/stream/125.m3u8?expires=1792018281&signature=e9355ab92cad40fa531efd29c86553fc490b0175904e9a9e4ae55c91fa630a7f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="s-bangla-tv" tvg-name="S Bangla TV" tvg-logo="https://i.postimg.cc/FsQqPB1P/In-Shot-20260904-211315320.jpg" group-title="Bangla",S Bangla TV
-https://jalshabd.com/stream/125.m3u8?expires=1792007486&signature=201c6cec6e1810f16f08bf1ce85ded376fbdd106eb83f9f189a062e883662bb5
+https://jalshabd.com/stream/125.m3u8?expires=1792018281&signature=e9355ab92cad40fa531efd29c86553fc490b0175904e9a9e4ae55c91fa630a7f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -937,43 +937,43 @@ https://jbd.hossainhridoy.workers.dev/link-copy-kore-lav-nai=expire4373883121963
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="usb-24-news" tvg-name="USB 24 News" tvg-logo="https://i.postimg.cc/y69FN9QJ/Usb-Hridoy-TV.jpg" group-title="Bangla",USB 24 News
-https://jalshabd.com/stream/66.m3u8?expires=1792007499&signature=efb6e7174b65e2118d1fcef35a8e566c4c97c0a4c82d8bc561f14809f0a135bb
+https://jalshabd.com/stream/66.m3u8?expires=1792018293&signature=77666b3b83ab57b9000b32a6ad6e60e4e1d75773c1de50c013e121eee96d3238
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="magic-bangla-tv" tvg-name="Magic Bangla TV" tvg-logo="https://i.ibb.co.com/FLcSY5Vn/Hridoy-TV-new-bd-channel-2.jpg" group-title="Pinned",Magic Bangla TV
-https://jalshabd.com/stream/79.m3u8?expires=1792007506&signature=ca9824a3620d3198c30f83c1c93a01b2f2e1511ddc8de5a7f83a36827998a90a
+https://jalshabd.com/stream/79.m3u8?expires=1792018301&signature=0a7136c81d6f265f1963046e2dbe31b25f2a18af41b448e0c1b92d8ff4c323b9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="magic-bangla-tv" tvg-name="Magic Bangla TV" tvg-logo="https://i.ibb.co.com/FLcSY5Vn/Hridoy-TV-new-bd-channel-2.jpg" group-title="Bangla",Magic Bangla TV
-https://jalshabd.com/stream/79.m3u8?expires=1792007506&signature=ca9824a3620d3198c30f83c1c93a01b2f2e1511ddc8de5a7f83a36827998a90a
+https://jalshabd.com/stream/79.m3u8?expires=1792018301&signature=0a7136c81d6f265f1963046e2dbe31b25f2a18af41b448e0c1b92d8ff4c323b9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="biswa-bangla-world-tv" tvg-name="Biswa Bangla World TV" tvg-logo="https://i.ibb.co.com/jjKhkmv/Hridoy-TV-new-bd-channel-1.jpg" group-title="Pinned",Biswa Bangla World TV
-https://jalshabd.com/stream/105.m3u8?expires=1792007490&signature=9188d4ea9eb1690070ea8f9086848df6b943a1c0758e382acc4ae57259087b88
+https://jalshabd.com/stream/105.m3u8?expires=1792018285&signature=2cd6965813659d0a8bb6a79f60f23627cdaf9216131e0200f6a74cdc6f63ade9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="biswa-bangla-world-tv" tvg-name="Biswa Bangla World TV" tvg-logo="https://i.ibb.co.com/jjKhkmv/Hridoy-TV-new-bd-channel-1.jpg" group-title="Bangla",Biswa Bangla World TV
-https://jalshabd.com/stream/105.m3u8?expires=1792007490&signature=9188d4ea9eb1690070ea8f9086848df6b943a1c0758e382acc4ae57259087b88
+https://jalshabd.com/stream/105.m3u8?expires=1792018285&signature=2cd6965813659d0a8bb6a79f60f23627cdaf9216131e0200f6a74cdc6f63ade9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="america-bangla-channel" tvg-name="America Bangla Channel" tvg-logo="https://i.ibb.co.com/XxP6LhMk/Hridoy-TV-new-bd-channel-3.jpg" group-title="Pinned",America Bangla Channel
-https://jalshabd.com/stream/75.m3u8?expires=1792007498&signature=80c3662f91fa39aa112df7fce695fea2564541fb3e6513f55b8b97d99539b6e0
+https://jalshabd.com/stream/75.m3u8?expires=1792018292&signature=f033ec0fecf56213eeb7d4d0d5e6650bfc499fd96a45460dd9e8a417fadbe24a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="america-bangla-channel" tvg-name="America Bangla Channel" tvg-logo="https://i.ibb.co.com/XxP6LhMk/Hridoy-TV-new-bd-channel-3.jpg" group-title="Bangla",America Bangla Channel
-https://jalshabd.com/stream/75.m3u8?expires=1792007498&signature=80c3662f91fa39aa112df7fce695fea2564541fb3e6513f55b8b97d99539b6e0
+https://jalshabd.com/stream/75.m3u8?expires=1792018292&signature=f033ec0fecf56213eeb7d4d0d5e6650bfc499fd96a45460dd9e8a417fadbe24a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
@@ -1513,25 +1513,25 @@ https://proxy2.hridoytvstream.workers.dev/link-copy-kore-lav-nai=expire437388312
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony Max HD" tvg-logo="https://i.postimg.cc/cLmWkzdH/Hridoy-TV-channel-(4).webp" group-title="Pinned",Sony Max HD
-https://jalshabd.com/stream/123.m3u8?expires=1792007486&signature=c57059563d2a24e09b4ffb5b0d7c1605e36bd91fb1c90a14a5c5ae82bb404f5c
+https://jalshabd.com/stream/123.m3u8?expires=1792018282&signature=8a4bd117716f8feee0026168dc8a7486b2b53f76469c95bb50558ea74145136b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony Max HD" tvg-logo="https://i.postimg.cc/cLmWkzdH/Hridoy-TV-channel-(4).webp" group-title="Movies",Sony Max HD
-https://jalshabd.com/stream/123.m3u8?expires=1792007486&signature=c57059563d2a24e09b4ffb5b0d7c1605e36bd91fb1c90a14a5c5ae82bb404f5c
+https://jalshabd.com/stream/123.m3u8?expires=1792018282&signature=8a4bd117716f8feee0026168dc8a7486b2b53f76469c95bb50558ea74145136b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-max-2" tvg-name="Sony Max 2" tvg-logo="https://i.postimg.cc/T39xNsTK/Hridoy-TV-channel-(5).webp" group-title="Pinned",Sony Max 2
-https://jalshabd.com/stream/123.m3u8?expires=1792007486&signature=c57059563d2a24e09b4ffb5b0d7c1605e36bd91fb1c90a14a5c5ae82bb404f5c
+https://jalshabd.com/stream/123.m3u8?expires=1792018282&signature=8a4bd117716f8feee0026168dc8a7486b2b53f76469c95bb50558ea74145136b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
 
 #EXTINF:-1 tvg-id="sony-max-2" tvg-name="Sony Max 2" tvg-logo="https://i.postimg.cc/T39xNsTK/Hridoy-TV-channel-(5).webp" group-title="Movies",Sony Max 2
-https://jalshabd.com/stream/123.m3u8?expires=1792007486&signature=c57059563d2a24e09b4ffb5b0d7c1605e36bd91fb1c90a14a5c5ae82bb404f5c
+https://jalshabd.com/stream/123.m3u8?expires=1792018282&signature=8a4bd117716f8feee0026168dc8a7486b2b53f76469c95bb50558ea74145136b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 22071219AI Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7871.181 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hridoytv.pages.dev/
 #EXTVLCOPT:http-origin=https://hridoytv.pages.dev
